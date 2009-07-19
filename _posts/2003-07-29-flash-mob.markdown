@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 21
+title: Flash Mob
+wordpress_url: http://208.75.86.216/?p=21
+layout: post
+---
+The <a href="http://www.boston.com/dailyglobe2/206/metro/Shock_tactics+.shtml">Boston Globe reports</a> that a "flash mob" will be performing some stunt on Thursday in Harvard Square around 6pm.
+
+I'm curious what it will be. It seems like they would need to be on par with an <a href="http://hacks.mit.edu/">MIT prank to get noticed</a>.
+
+<i>In New York City, hundreds of people burst into applause on the mezzanine of the Grand Hyatt hotel at 7:12 p.m., then quickly disappeared. 
+
+In San Francisco, about 200 came out of nowhere to whirl like dervishes across Market Street, attracting confused stares from tourists.
+
+Now, the new phenomenon called a ''flash mob'' is coming to Harvard Square.</i>
+
+<font color="red">Update:</font> It <a href="http://www.thecrimson.com/today/article348596.html">happened last Thursday</a>.
+
+<i>News cameras weaved among a densely packed crowd and photographic flashes flickered over a sea of DaVincian smiles on the second floor of the Harvard Coop yesterday evening as local media turned out to watch hundreds of Boston-area residents pick out greeting cards for their friend Bill.</i>

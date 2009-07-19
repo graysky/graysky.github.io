@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 297
+title: Boston Web Innovators 16
+wordpress_url: http://graysky.org/2008/01/webinno-16/
+layout: post
+---
+<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2230222300/" title="Standing Room Only"><img src="http://farm3.static.flickr.com/2270/2230222300_2ac27a7d60.jpg" class="flickr-photo" width="500" height="333" alt="Standing Room Only" /></a>
+</div>
+
+Tonight was the <a href="http://www.webinnovatorsgroup.com/2008/01/17/webinno16-demo-companies/">16th Web Innovators meetup</a> in Cambridge. The event has grown huge, clocking in at around 400 people. Due to general exhaustion a couple quick thoughts, bullet-list style:
+
+<ul>
+
+<li>As usual, there were several demos that had potential. I liked the political quiz and information site <a href="http://glassbooth.org/">Glassbooth.org</a>. Could be a good way to learn more about candidates, which I think I would benefit more from locally than nationally. And parking-spot finder <a href="http://spotscout.com/">SpotScout</a> could be useful for city-dwellers.
+
+<li>There was the usual refrain of "what is your business model?" with an answer of "targeted ads *garbled*" (while wildly hand waving). <a href="http://groovymother.com/">Rod</a> & I joked there should be t-shirts made up with "How will you make money?" on the front, and some AdSense ads printed on the back.
+
+<li>I <a href="http://www.flickr.com/photos/downtree/sets/72157603821591421/">took photos of the speakers</a>, with mixed results. The room is quite dark, with a bright white screen behind the speaker. I tried bouncing a flash as well as without the flash and raising the ISO. The results are noisier than I would like, but Lightroom helped salvage a few of them. Good learning experience at any rate.
+
+</ul>

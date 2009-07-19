@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 102
+title: Cats &#038; Dogs
+wordpress_url: http://208.75.86.216/?p=102
+layout: post
+---
+This is enough to make me not want to go outside. And May is usually the nicest month in Boston! But I'm glad I braved the incliment weather last night to head to the <a href="http://java.meetup.com/10/">Boston Java meetup</a> to hear a presentation from <a href="http://www.jroller.com/page/cpurdy">Cameron</a> at <a href="http://www.tangosol.com">Tangosol</a> on their "world's most expensive hashmap".
+
+<center>
+<img src="/blog/pics/weather_forecast.jpg" border="0" width="467" height="145" alt="Rain rain rain"/>
+Great weather we're having
+</center>

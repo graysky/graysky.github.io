@@ -1,0 +1,12 @@
+--- 
+category: photography
+wordpress_id: 8
+title: Game On
+wordpress_url: http://208.75.86.216/?p=8
+layout: post
+---
+Last night's <a href="http://www.nbc.com/The_West_Wing/index.html">West Wing</a> episode <a href="http://www.televisionwithoutpity.com/story.cgi?show=4&story=4028">"Game On"</a> was great. The Bartlett debate, a crotchety <a href="http://us.imdb.com/Name?Holbrook,+Hal">Hal Holbrook</a> and even <a href="http://us.imdb.com/Title?0094582">Winnie Cooper</a> (well, the <a href="http://us.imdb.com/Name?McKellar,%20Danica">actress</a> anyway). <a href="http://www.televisionwithoutpity.com/ijsbb/forum.cgi?action=list&forum=31&idtopic=1880591&fromdays=10&s=date&g=0">Discuss</a>.
+
+I've been reading the <a href="http://abcnews.go.com/sections/ThisWeek/ThisWeek/stephanopoulos_george_bio.html">George Stephanopoulos</a> memoir <a href="http://www.amazon.com/exec/obidos/ASIN/0316930164/">"All Too Human"</a>, which makes me think the scene last night were they choose <i>not</i> to spin a story is pure fiction (among many other things) - I don't think there is anything he wasn't trying to spin.
+
+Oh yeah, <a href="http://www.ucomics.com/foxtrot/2002/10/31/">happy Halloween</a>.

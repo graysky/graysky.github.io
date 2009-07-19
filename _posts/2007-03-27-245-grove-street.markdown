@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 158
+title: 245 Grove Street
+wordpress_url: http://208.75.86.216/?p=158
+layout: post
+---
+<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/436970821/" title="245 Grove Street"><img src="http://farm1.static.flickr.com/149/436970821_1108299933.jpg" class="flickr-photo" width="500" height="286" alt="245 Grove Street"/></a>
+</div>
+
+The first time I drove past this house in Cambridge I nearly caused an accident. Barrelling down <a href="http://maps.google.com/?ie=UTF8&z=17&ll=42.385438,-71.159627&spn=0.004747,0.008025&om=1">the busy street</a>, my head snapped back to confirm what I thought I had just seen. And sure enough, nestled among typical Colonial homes overlooking the <a href="http://www.freshpondgolf.com">Fresh Pond Golf Course</a> is this very warm looking contemporary home. The home was designed by <a href="http://web.mac.com/bobaugustine/">Bob Augustine</a> (who <a href="http://web.mac.com/bobaugustine/iWeb/Site/Cambridge.html">has much better photos</a> that detail the back decks, large windows and roof garden complete with sod!) and featured in a <a href="http://www.boston.com/realestate/news/articles/2006/04/23/modern_love/">Boston Globe article on softer-edged modern homes</a>.
+
+The parade of box homes featured in the likes of <a href="http://www.dwell.com">Dwell</a> usually strike me as too harsh outside and austere inside. Like with software, sometimes the design can seem more about the designer than the human who has to interact with it. This house, though, with its red cedar and green copper put a smile on my face (but I didn't see the price tag).
+
+

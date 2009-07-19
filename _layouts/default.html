@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="dc.creator.name" content="Mike Champion"/>
+<meta name="description" content="Homepage of Mike Champion" />
+<meta name="author" content="Mike Champion" />
+<meta name="keywords" content="Mike Champion, graysky" />
+
+<title>{{ page.title }} - graysky</title>
+
+<link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" />
+<![endif]-->
+
+<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection" />
+
+<!-- Feeds / Pingback -->
+<link rel="alternate" type="application/rss+xml" title="graysky RSS Feed" href="http://feeds.feedburner.com/graysky" />
+<!-- Favicon -->
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+<!-- Open ID - TODO: Switch -->
+<link rel="openid.server" href="http://www.vox.com/services/openid/server" />
+<link rel="openid.delegate" href="http://graysky.vox.com/" />
+
+<!-- JQuery and JS helper -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/javascript/app.js"></script>
+</head>
+
+<body>
+	<div id="page" class="container xshowgrid">
+    <div id="header" class="span-24">
+       <a href="/"><img src="/images/graysky-logo.png" alt="graysky" title="graysky" border="0" onload='fixPNG(this)' /></a>
+    </div>
+    <hr />
+		
+		<div id="content" class="prepend-1 span-17 append-1 push-down">
+			{{ content }}
+		</div>
+	
+	</div> <!-- end content -->
+
+	<!-- sidebar -->
+
+</div> <!-- end page -->
+	
+<div id="footer">  
+	  <div id="recentposts">
+	    <h2>Recent Posts</h2>
+
+		  <ul class="posts">
+		    {% for post in site.posts %}
+					{% if forloop.index < 7 %}
+		      <li><a href="{{ post.url }}">{{ post.title }}</a>
+						<span class="dateline"><strong>{{ post.date | date_to_string }}</strong></span></a>
+					</li>
+					{% endif %}
+		    {% endfor %}
+		  </ul>
+	  </div>
+
+	  <div id="footer-license" style="text-align: center">
+	      Some rights reserved - <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (by-nc-sa)</a>
+	  </div>
+	</div> <!-- end footer -->
+
+	<!--  Google Analytics tracker -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-287373-2");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+
+</body>
+</html>

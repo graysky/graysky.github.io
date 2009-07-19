@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 51
+title: October 26 2003
+wordpress_url: http://208.75.86.216/?p=51
+layout: post
+---
+This Fall two friends & I have been leading an apprencticeship through <a href="http://www.citizenschools.org">Citizen Schools</a> at their <a href="http://www.citizenschools.org/Programs/8ga.cfm">8th Grade Academy</a> using <a href="http://www.legomindstorms.com">LEGO Mindstorms</a> to have kids build robots. They're building a robot to navigate a maze. The Mindstorms robots are a great way to introduce various procedural programming concepts like branching, loops and algorithms. So far it's been a blast, aside from the hassle of keeping track of a million Lego pieces and installing the software.
+
+<center><a href="http://graysky.org/mgc/pics/spidey_bot.jpg">
+<img src="http://graysky.org/mgc/pics/spidey_bot.jpg" border="0" width="450" height="300" alt="mindstorm robot with spider-man">
+</a><br />Student's Mindstorm robot with Spider-Man aboard.</center>
+
+This <a href="http://graysky.org/mgc/gallery/view_album.php?set_albumName=citizenschools2">Saturday's class</a> went especially well I thought, after a few that were a bit chaotic. We cut the lecture portion to the bare minimum and got them working with their Mindstorms robots and programming them using <a href="http://www.ceeo.tufts.edu/robolabatceeo/">Tufts' ROBOLab software</a>. Sort of a "Less talk, more rock" approach. I was really impressed with how quickly they all took to using the visual programming environment. In their teams they programmed their robot to drive forward until detects it hit a wall, then backs up, and spins around for a random time. Then they learned about loops and had their robot do this a bunch of times.
+
+<center><a href="http://graysky.org/mgc/pics/programming_robot.jpg">
+<img src="http://graysky.org/mgc/pics/programming_robot.jpg" border="0" width="450" height="300" alt="programming mindstorms using ROBOLab">
+</a><br />Programming mindstorms using ROBOLab</center>

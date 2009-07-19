@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 86
+title: February 17 2004
+wordpress_url: http://208.75.86.216/?p=86
+layout: post
+---
+Over the weekend, <a href="http://www.massport.org">Massport</a> cut down a bunch of tall trees near my building because we're on the flight path for <a href="http://www.airnav.com/airport/KBED">Hanscom Field</a>, which is also an <a href="http://www.hanscom.af.mil">Air Force base</a> (nice unnecessary use of flash). It's too bad because I like trees. And my building is close to the chopped trees and about the same height. So reading the <a href="http://www.0xdeadbeef.com/">blogs</a> of <a href="http://blogs.law.harvard.edu/philg/">nerds</a> learning to fly at Hanscom makes me feel <i>real</i> safe.
