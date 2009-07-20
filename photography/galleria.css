@@ -1,0 +1,152 @@
+.galleria { 
+	list-style: none;
+	width: 200px;
+}
+.galleria li {
+	display: block;
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+	
+.galleria li a {
+	display:none;
+}
+
+.galleria li div {
+	position:absolute;
+	display:none;
+	top:0;
+	left:180px;
+}
+
+.galleria li div img {
+	cursor:pointer;
+}
+.galleria li.active div img,.galleria li.active div{
+	display:block;
+}
+.galleria li img.thumb {
+	cursor:pointer;
+	top:auto;
+	left:auto;
+	display:block;
+	width:auto;
+	height:auto;
+}
+.galleria li .caption {
+	display:block;
+	padding-top: .5em;
+}
+
+/* MSIE bug */
+* html .galleria li div span {
+	width:400px;
+} 
+
+/* Styling for gallery */	
+* {
+	margin:0;padding:0
+}
+body {
+	padding: 5px;
+	background: white;
+	text-align: center; 
+	background: black; 
+	color:#bba; 
+	font: 80%/140% georgia,serif;
+}
+
+h1,h2 { 
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	font-size: 0.9em;
+	font-weight: normal;
+	letter-spacing: 4px;
+	text-transform:uppercase;
+}
+
+h2 a {
+	color:#bba; 
+}
+
+h2 a:hover {
+	color:#bba; 
+	text-decoration: underline;
+}
+
+a {
+	color: #67a;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	color:#67a;
+}
+
+.caption { 
+	font-style:italic;
+	color:#887;
+}
+
+.container {
+	position:relative;
+	margin-top: 10px;
+}
+
+.portfolio {
+	width: 802px;
+	margin:0 auto;
+}
+.portfolio li {
+	width: 68px;
+	height: 50px;
+	border: 3px double #111;
+	margin: 0 2px;
+	background: #000;
+}
+
+.portfolio li div {
+	left: 240px;
+}
+
+.portfolio li div .caption {
+	font:italic 0.7em/1.4 georgia,serif;
+}
+
+#main_image {
+	margin:0 auto 10px auto; 
+	height:600px; 
+	width:800px;
+}
+
+#main_image img {
+	margin-bottom: 5px;
+}
+
+#loading {
+  margin-top: 150px;
+}
+
+.nav {
+	padding-bottom:10px;
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	font-size: 0.8em;
+	font-weight: normal;
+	letter-spacing: 3px;
+	text-transform:uppercase;
+}
+
+.info { 
+	text-align: left; 
+	width:800px;
+	margin: 30px auto 40px auto;
+	border-top: 1px solid #221;
+}
+.info p {
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	font-size: 0.9em; 
+	margin-top: 4px;
+}
