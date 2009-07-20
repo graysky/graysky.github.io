@@ -10,18 +10,20 @@ task :deploy do
   username = "champion"
   password = ask("Password: ") { |q| q.echo = "*" }
  
-  Net::SSH.start('graysky.org', username, :port => 1337, :password => password) do |ssh|
+  Net::SSH.start('graysky.org', username, :port => 22, :password => password) do |ssh|
     commands = <<EOF
 cd /var/www/graysky
 git checkout #{branch}
 git pull origin #{branch}
 git checkout -f
-#rm -rf _site
+rm -rf _site
 jekyll --no-auto
-#mv _site ../_#{branch}
-#mv ../#{branch} _old
-#mv ../_#{branch} ../#{branch}
-#rm -rf _old
+mv _rollback _rollback_old
+mv _production _rollback
+mv _site _production
+rm -rf _rollback_old
+echo "Deploy Complete"
+exit
 EOF
     commands = commands.gsub(/\n/, "; ")
     ssh.exec commands
