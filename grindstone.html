@@ -1,0 +1,54 @@
+--- 
+title: Grindstone
+permalink: grindstone
+layout: static
+---
+The internet is <a target="_blank" href="http://www.nytimes.com/2007/11/18/technology/18rehab.html">addictive</a> (see: <a target="_blank" href="http://graysky.org/images/dilbert.gif">Dilbert</a>). The web is filled with <a href="http://www.phdcomics.com/comics.php?f=948" target="_blank">new and shiny things</a> that can be distracting when you want to be productive. And <a href="http://www.theatlantic.com/doc/200711/multitasking">multitasking only makes it harder</a> to get things done.
+
+Grindstone is a Greasemonkey script to help block websites that steal your focus. You tell it which sites to block and when to block them. Think of it as a safety net for staying productive.
+
+<h2>Getting Started</h2>
+
+Steps to install the current version <strong>0.9</strong>:
+
+<ol>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/748" target="_blank">Install the Greasemonkey extension</a> for FireFox 2 or 3. (There are steps to run <a href="http://www.simplehelp.net/2007/11/14/how-to-run-greasemonkey-scripts-in-safari/">Greasemonkey scripts within Safari</a> that I haven't tried.)
+<li> <a href="http://userscripts.org/scripts/source/23585.user.js" target="_blank">Install the Grindstone script</a>
+<li> Watch this 60 second screencast for a quick tour:
+
+<!--start_raw-->
+
+<div style="margin-left: 10px; margin-bottom: 10px;" id="screencast"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+<script type="text/javascript" src="/screencasts/swfobject.js"></script>
+<script type="text/javascript">
+        var s1 = new SWFObject("/screencasts/mediaplayer.swf", "mediaplayer", "456", "363", "7");
+        s1.addParam("allowfullscreen","false");
+        s1.addVariable("file","/screencasts/grindstone2.flv");
+        s1.addVariable("image","/screencasts/grindstone.jpg");
+        s1.addVariable('volume', '80');
+        s1.write("screencast");
+</script>
+
+<!--end_raw-->
+
+</ol>
+
+<h2>Known Issues</h2>
+
+Please report any problems here, on <a href="http://userscripts.org/scripts/show/23585">the userscripts page</a> or <script type="text/javascript">document.write(get_contact_email_link() + "send me mail</a>.");</script>
+
+
+<ul>
+<li>There is <a href="http://groups.google.com/group/greasemonkey-dev/browse_thread/thread/33c09d318dbd94cc">an issue with Greasemonkey</a> where certain iframes can cause an error of "unsafeWindow cannot call GM_getValue". The site will not be blocked as expected but nothing bad happens. (Unfortunately <a href="http://digg.com">Digg</a>, a site which can be quite distracting, has this issue.)
+</ul>
+
+<h2>Similar Tools</h2>
+
+If this doesn't fit the bill, there are several other tools worth checking out:
+
+<ul>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/4476">LeechBlock</a> - FireFox extension to block time-wasting sites.
+<li><a href="http://lifehacker.com/software/greasemonkey/invisibility-cloak-update-149252.php">Invisibility cloak</a> - GM script to that blanks out time-wasting web sites till after a certain time of the day.
+<li><a href="http://8aweek.com/">8aweek</a> - FireFox extension to track browsing habits and limit distracting sites.
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/3685">PageAddict</a> - FireFox extension to monitor your internet usage.
+</ul>
