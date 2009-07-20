@@ -1,0 +1,8 @@
+# No robots
+User-agent: *
+Disallow: /mgc
+Disallow: /dev
+
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: http://graysky.org/sitemap.xml
+# END XML-SITEMAP-PLUGIN
