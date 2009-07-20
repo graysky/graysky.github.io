@@ -11,12 +11,12 @@ task :deploy do
  
   Net::SSH.start('graysky.org', username, :port => 1337, :password => password) do |ssh|
     commands = <<EOF
-cd ~/www/graysky/cached-copy
+cd /var/www/graysky
 git checkout #{branch}
 git pull origin #{branch}
 git checkout -f
 rm -rf _site
-jekyll --no-auto
+jekyll --no-auto --rdiscount
 mv _site ../_#{branch}
 mv ../#{branch} _old
 mv ../_#{branch} ../#{branch}
