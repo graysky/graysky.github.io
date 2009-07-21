@@ -15,7 +15,6 @@ task :deploy do
 cd /var/www/graysky
 git checkout #{branch}
 git pull origin #{branch}
-git checkout -f
 rm -rf _site
 jekyll --no-auto
 mv _rollback _rollback_old
