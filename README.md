@@ -6,3 +6,4 @@ This is the code behind my website graysky.org
 
 - Fix code syntax highlighting
 - Put posts into categories
+- Have Everything page

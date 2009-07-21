@@ -1,5 +1,12 @@
-auto: true
+auto: false
 markdown: rdiscount
 permalink: /:year/:month/:title
 pygments: true
 base_url: http://graysky.org
+my_email: mike@graysky.org
+static_pages: 
+  - photography
+  - grindstone
+  - mike-champion
+  - archives
+  - all

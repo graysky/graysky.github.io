@@ -11,9 +11,16 @@ layout: nil
  <id>{{site.base_url}}</id>
  <author>
    <name>Mike Champion</name>
-   <email>mike@graysky.org</email>
+   <email>{{ site.my_email }}</email>
  </author>
  
+ {% for uri in site.static_pages %}
+   <entry>
+	   <link href="{{site.base_url}}/{{ uri }}"/>
+	   <id>{{site.base_url}}/{{ uri }}</id>
+	 </entry>
+ {% endfor %}
+  
  {% for post in site.posts %}
    {% if forloop.index < 20 %}
 	 <entry>
