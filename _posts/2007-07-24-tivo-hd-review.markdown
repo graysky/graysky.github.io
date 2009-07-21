@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 216
 title: Tivo HD "Series 3 Lite" Reviewed
 wordpress_url: http://graysky.org/2007/07/tivo-hd-review/

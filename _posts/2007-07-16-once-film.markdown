@@ -1,5 +1,4 @@
 --- 
-category: blog
 wordpress_id: 206
 title: Once
 wordpress_url: http://graysky.org/2007/07/once-film/

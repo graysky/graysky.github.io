@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 232
 title: Preparing for Rock Band
 wordpress_url: http://graysky.org/2007/08/guitar-hero-rock-band/

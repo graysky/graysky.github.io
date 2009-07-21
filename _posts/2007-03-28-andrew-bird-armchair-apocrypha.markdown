@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 159
 title: "Andrew Bird: Armchair Apocrypha"
 wordpress_url: http://208.75.86.216/?p=159

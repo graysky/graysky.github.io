@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 118
 title: Screw California
 wordpress_url: http://208.75.86.216/?p=118

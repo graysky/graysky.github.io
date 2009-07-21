@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 128
 title: The Thermals - The Body, the Blood, the Machine
 wordpress_url: http://208.75.86.216/?p=128

@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 187
 title: Ted Leo and the Pharmacists at Avalon
 wordpress_url: http://graysky.org/2007/05/ted-leo-pharmacists-avalon/

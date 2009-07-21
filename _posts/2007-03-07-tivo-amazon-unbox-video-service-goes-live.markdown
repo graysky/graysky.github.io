@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 143
 title: Tivo Amazon Unbox Video Service Goes Live
 wordpress_url: http://208.75.86.216/?p=143

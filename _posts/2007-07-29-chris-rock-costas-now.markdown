@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 219
 title: Chris Rock on Costas Now
 wordpress_url: http://graysky.org/2007/07/chris-rock-costas-now/

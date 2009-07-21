@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 205
 title: "\"OK X\" Tribute to \"OK Computer\""
 wordpress_url: http://graysky.org/2007/07/stereogum-ok-x/

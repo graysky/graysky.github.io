@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 100
 title: Everything Bad is Good for You
 wordpress_url: http://208.75.86.216/?p=100

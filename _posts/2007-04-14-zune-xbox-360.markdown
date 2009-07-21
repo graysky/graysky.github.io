@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 173
 title: Zune &#038; Xbox 360
 wordpress_url: http://208.75.86.216/?p=173

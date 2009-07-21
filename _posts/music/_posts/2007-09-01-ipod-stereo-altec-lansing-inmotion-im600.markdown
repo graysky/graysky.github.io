@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 255
 title: Altec Lansing inMotion iPod Stereo
 wordpress_url: http://graysky.org/2007/09/ipod-stereo-altec-lansing-inmotion-im600/

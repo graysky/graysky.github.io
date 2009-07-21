@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 127
 title: Josh Ritter at the Somerville Theatre
 wordpress_url: http://208.75.86.216/?p=127

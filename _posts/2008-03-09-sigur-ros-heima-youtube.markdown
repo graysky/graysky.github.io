@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 315
 title: "Sigur R\xC3\xB3s <i>Heima</i> on YouTube"
 wordpress_url: http://graysky.org/2008/03/sigur-ros-heima-youtube/

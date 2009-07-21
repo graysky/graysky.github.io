@@ -23,7 +23,7 @@ been lost to the ages, thankfully.</p>
   {% for post in site.posts %}
 		{% if forloop.index < 50 %}
 		<li><a href="{{ post.url }}">{{ post.title }}</a>
-			<span class="dateline" style="font-weight: bold; font-size: .8em">{{ post.date | date_to_string }}</span></a>
+			<span class="dateline">{{ post.date | date_to_string }}</span></a>
 		</li>
 		{% endif %}
   {% endfor %}

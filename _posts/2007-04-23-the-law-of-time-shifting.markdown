@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 177
 title: The Law of Time Shifting
 wordpress_url: http://208.75.86.216/?p=177

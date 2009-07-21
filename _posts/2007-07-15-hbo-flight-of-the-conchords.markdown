@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 203
 title: Flight of the Conchords
 wordpress_url: http://graysky.org/2007/07/hbo-flight-of-the-conchords/

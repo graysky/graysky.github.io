@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 147
 title: Comfort for the Those SXSW Left Behind
 wordpress_url: http://208.75.86.216/?p=147

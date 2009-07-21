@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 284
 title: Ken Burns' "The War"
 wordpress_url: http://graysky.org/2007/10/ken-burns-the-war/

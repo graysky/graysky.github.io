@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 172
 title: "Panda Bear: Person Pitch"
 wordpress_url: http://208.75.86.216/?p=172

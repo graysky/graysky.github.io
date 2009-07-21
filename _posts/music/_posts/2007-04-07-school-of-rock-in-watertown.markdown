@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 166
 title: School of Rock in Watertown
 wordpress_url: http://208.75.86.216/?p=166

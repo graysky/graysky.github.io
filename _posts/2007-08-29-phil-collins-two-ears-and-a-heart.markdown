@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 223
 title: Two Ears and a Heart
 wordpress_url: http://graysky.org/2007/08/phil-collins-two-ears-and-a-heart/

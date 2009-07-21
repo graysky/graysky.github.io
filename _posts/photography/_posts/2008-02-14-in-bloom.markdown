@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 300
 title: In Bloom
 wordpress_url: http://graysky.org/2008/02/in-bloom/

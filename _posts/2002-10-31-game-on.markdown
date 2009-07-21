@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 8
 title: Game On
 wordpress_url: http://208.75.86.216/?p=8

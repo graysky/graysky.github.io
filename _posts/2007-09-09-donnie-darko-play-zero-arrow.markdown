@@ -1,5 +1,4 @@
 --- 
-category: blog
 wordpress_id: 258
 title: Donnie Darko the Play
 wordpress_url: http://graysky.org/2007/09/donnie-darko-play-zero-arrow/

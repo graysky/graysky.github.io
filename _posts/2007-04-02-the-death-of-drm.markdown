@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 161
 title: The Death of DRM?
 wordpress_url: http://208.75.86.216/?p=161

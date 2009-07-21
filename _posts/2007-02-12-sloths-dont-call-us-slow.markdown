@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 130
 title: Sloths, Don&#8217;t Call Us Slow
 wordpress_url: http://208.75.86.216/?p=130

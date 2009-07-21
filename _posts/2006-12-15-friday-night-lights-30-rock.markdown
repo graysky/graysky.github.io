@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 122
 title: Friday Night Lights &#38; 30 Rock
 wordpress_url: http://208.75.86.216/?p=122

@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 113
 title: "Clell Tickle: Indie Marketing Guru"
 wordpress_url: http://208.75.86.216/?p=113

@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 112
 title: Ed Burns on Creating &#8216;The Wire&#8217;
 wordpress_url: http://208.75.86.216/?p=112

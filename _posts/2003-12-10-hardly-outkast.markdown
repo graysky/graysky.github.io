@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 69
 title: Hardly Outkast
 wordpress_url: http://208.75.86.216/?p=69

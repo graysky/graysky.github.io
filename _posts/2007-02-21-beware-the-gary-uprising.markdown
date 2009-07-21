@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 135
 title: Beware The Gary Uprising
 wordpress_url: http://208.75.86.216/?p=135

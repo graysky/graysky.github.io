@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 239
 title: Got More Louie than Phillip Rizzuto
 wordpress_url: http://graysky.org/2007/08/phil-rizzuto-beastie-boys/

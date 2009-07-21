@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 260
 title: NBC Fall Shows Free on Amazon Unbox
 wordpress_url: http://graysky.org/2007/09/nbc-shows-amazon-unbox-tivo/

@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 119
 title: The Wire Season 4
 wordpress_url: http://208.75.86.216/?p=119

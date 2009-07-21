@@ -1,5 +1,4 @@
 --- 
-category: photography
 wordpress_id: 40
 title: West Wing Season Premiere
 wordpress_url: http://208.75.86.216/?p=40

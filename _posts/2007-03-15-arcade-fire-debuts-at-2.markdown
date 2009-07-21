@@ -1,5 +1,4 @@
 --- 
-category: music
 wordpress_id: 149
 title: "Arcade Fire Debuts at #2"
 wordpress_url: http://208.75.86.216/?p=149

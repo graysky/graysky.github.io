@@ -1,5 +1,4 @@
 --- 
-category: music, blog
 wordpress_id: 125
 title: Nerdcore for Life
 wordpress_url: http://208.75.86.216/?p=125

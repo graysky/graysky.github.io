@@ -1,5 +1,4 @@
 --- 
-category: blog
 wordpress_id: 213
 title: "NY Magazine: Andy Samberg"
 wordpress_url: http://graysky.org/2007/07/ny-magazine-andy-samberg-hot-rod/

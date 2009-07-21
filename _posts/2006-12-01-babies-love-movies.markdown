@@ -1,5 +1,4 @@
 --- 
-category: blog
 wordpress_id: 114
 title: Babies Love Movies
 wordpress_url: http://208.75.86.216/?p=114
