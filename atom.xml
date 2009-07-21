@@ -13,13 +13,6 @@ layout: nil
    <name>Mike Champion</name>
    <email>{{ site.my_email }}</email>
  </author>
- 
- {% for uri in site.static_pages %}
-   <entry>
-	   <link href="{{site.base_url}}/{{ uri }}"/>
-	   <id>{{site.base_url}}/{{ uri }}</id>
-	 </entry>
- {% endfor %}
   
  {% for post in site.posts %}
    {% if forloop.index < 21 %}
