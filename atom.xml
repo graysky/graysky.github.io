@@ -22,7 +22,7 @@ layout: nil
  {% endfor %}
   
  {% for post in site.posts %}
-   {% if forloop.index < 20 %}
+   {% if forloop.index < 21 %}
 	 <entry>
 	   <title>{{ post.title | xml_escape }}</title>
 	   <link href="{{site.base_url}}{{ post.url }}"/>
