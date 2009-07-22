@@ -33,7 +33,7 @@ a:hover {
 pre, code {
 -x-system-font:none;
 font-family: Monaco, "Courier New", monospace;
-font-size: .9em;
+font-size: 12px;
 font-size-adjust:none;
 font-stretch:normal;
 font-style:normal;
@@ -42,12 +42,13 @@ font-weight:normal;
 line-height:normal;
 }
 
-pre {
+pre, code {
   background-color: #ccc;
   border: 1px solid #333;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 /* Header */
@@ -196,7 +197,7 @@ pre {
 
 #footer-license {
 	text-align: center;
-	padding-top: 10px;
+	padding-top: 8px;
 	font-family: Helvetica;
 	font-size: .9em;
 }

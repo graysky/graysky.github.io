@@ -14,7 +14,7 @@ The way that the ad network supplies the ad is for publishers to include a short
 
 Within the ad javascript it does something like this (simplified for this example):
 <pre lang="javascript">
-document.write("<b>Click on this ad!</b>");
+document.write("Click on this ad!");
 </pre>
 
 Nice and simple to drop in to HTML, but our results page is built dynamically from an AJAX call that fetches JSON. At first I thought I could just built a new script tag and append it to the div I wanted, but that resulted in a blank page with just the ad in the DOM. I'm assuming that without an enclosing context that the <tt>document.write</tt> is overwriting the root html node.

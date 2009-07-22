@@ -63,12 +63,13 @@
 
 		  <ul class="posts">
 		    {% for post in site.posts %}
-					{% if forloop.index < 7 %}
+			  {% if forloop.index < 9 %}
 		      <li><a href="{{ post.url }}">{{ post.title }}</a>
 						<span class="dateline"><strong>{{ post.date | date_to_string }}</strong></span></a>
 					</li>
-					{% endif %}
+			  {% endif %}
 		    {% endfor %}
+			<li style="font-size: .9em"><a href="/archives">Full Archives</a></li>
 		  </ul>
 	  </div>
 
