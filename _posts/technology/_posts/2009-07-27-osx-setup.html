@@ -1,0 +1,24 @@
+--- 
+title: Mac OS X Setup
+permalink: mac-osx-setup
+layout: post
+published: false
+---
+<p>I just did the whole setup-a-new-Mac dance and thought I'd crash a faux-installment of 
+<a href="http://usesthis.com/">The Setup</a> to share my notes. My current machine is a 15" MacBookPro with 4GB RAM purchased two weeks ago. Overall a fast, shiny new machine. Which, coincidently, is my biggest complaint. The glossy screen is sooo reflexive that it is often like staring at myself in a mirror. (Why do they have a matte option only on the 17" MBPs?) The feel of the keyboard and battery life are a nice step up from my previous Apple laptop.</p>
+
+<p>Most of my days are spent inside <a href="http://macromates.com/">TextMate</a>. I was an Emacs junkie with a giant elisp configuration, but found the corded key combos took a toll on my hands and I left it for Eclipse (back when writing Java). TextMate is a solid editor, with reasonable defaults and similar enough key combos for common tasks to keep me happy. I use a customized version of the Sunburst theme. I like <a href="http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus">ProjectPlus</a> as a replacement drawer for better sorting options. I don't extensively use TM bundles, but found the <a href="http://github.com/drnic/copy-as-rtf-tmbundle/tree/master">Copy as RTF</a> bundle helpful for making slides. The other place I spend a lot of time is Terminal. It is passable, and better after changing it to send Ctrl-H as Backspace and turning off the audible bell.
+
+<p>I like <a href="http://mailplaneapp.com/">MailPlane</a> for work email, <a href="http://toolbar.google.com/gmail-helper/notifier_mac.html">Google Notifier</a> for personal email, <a href="http://adium.im/">Adium</a> for IM'ing, <a href="http://www.atebits.com/tweetie-mac/">Tweetie</a> for Twitter, <a href="http://colloquy.info/">Colloquy</a> for IRC, <a href="http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/">NetNewsWire</a> for password protected RSS feeds, and have been trying <a href="http://www.google.com/quicksearchbox/">Google Quick Search Box</a> as a launcher.</p>
+
+<p>Music helps the code flow so I use the shareware <a href="http://wincent.com/a/products/synergy-classic/">Synergy</a> to control iTunes from global keyboard shortcuts without leaving what I'm working on. <a href="http://www.deusty.com/software/mac.php">Mojo</a> is great to share music with friends. I prefer listening to albums more than random mixes so I customize the iTunes view options to include <em>Track Number</em> and <em>Last Played</em> (which are inherited by later created playlists) for easier sorting.
+
+<p>I primarily browse with FireFox, but end up using Safari and Opera (and now Chromium) as well. I'm most comfortable with FireFox but the memory leakage is frustrating enough to tempt me to switch. Often I find that videos are smoother to watch in Safari, as well as feeling snappier. I use FireBug, YSlow and Google's <a href="http://code.google.com/speed/page-speed/">Page Speed</a> for measuring web performance, <a href="https://addons.mozilla.org/en-US/firefox/addon/271">ColorZilla</a> to get the hex for colors and <a href="http://agilewebsolutions.com/products/1Password">1Password</a> helps keep my passwords slightly less insecure. Also, I really enjoy the bookmarklets for <a href="http://www.instapaper.com/">Instapaper</a> to read something later, and <a href="http://lab.arc90.com/experiments/readability/">Readability</a> for clean and enjoyable web reading.
+
+<p>The customization steps that I always have to dig up again are:
+	<ul>
+		<li>Stop the Dock from growing and shrinking. Then get rid of the drop shadows via: <br /> <code>defaults write com.apple.dock no-glass -boolean YES && killall Dock</code>
+		<li>Re-map Caps Lock to Cmd in the Keyboard Modifier Keys preferences. I never need Caps Lock and it makes a lot of shortcuts easier for my hands to type.
+		<li>Switch the keyboard shortcuts to enable "Full Keyboard access" for "All Controls" so pressing Tab will land on Submit buttons. As a keyboard fan this is a must.
+	</ul>
+</p>
