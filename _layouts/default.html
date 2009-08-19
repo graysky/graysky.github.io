@@ -38,21 +38,23 @@
     </div>
     <hr />
 		
-		<div id="content" class="prepend-1 span-17 append-1 push-down">
+		<div id="content" class="prepend-1 span-16 append-1 push-down">
 			{{ content }}
 		</div><!-- end content -->
 	
 	<!-- sidebar -->
-	<div id="sidebar" class="span-4">
+	<div id="sidebar" class="span-5">
+	{% if site.about_page != page.permalink %}
 
 	<h3>Welcome</h3>
-	<p>I'm <a href="/mike-champion">Mike Champion</a>, a web developer near Boston interested in technology, music and photography.
+	<p>I'm <a href="/mike-champion">Mike Champion</a>, a web developer near Boston interested in technology, music and photography. <a href="/mike-champion">More &raquo;</a>
 
 	<p><a href="http://twitter.com/graysky"><img src='/images/twitter.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a><a href="http://twitter.com/graysky">Follow on Twitter</a></p>
 
 	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS</a>
 	</p>
 
+	{% endif %}
 	</div><!-- end sidebard -->
 	
 </div> <!-- end page -->
