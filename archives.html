@@ -18,10 +18,10 @@ been lost to the ages, thankfully.</p>
 
 <br />
 
-<h3 style='margin-bottom: 8px; margin-top: 15px;'>Last 50 Posts</h3>
+<h3 style='margin-bottom: 8px; margin-top: 15px;'>Last 100 Posts</h3>
 <ul class='past-posts'>
   {% for post in site.posts %}
-		{% if forloop.index < 50 %}
+		{% if forloop.index < 100 %}
 		<li><a href="{{ post.url }}">{{ post.title }}</a>
 			<span class="dateline">{{ post.date | date_to_string }}</span></a>
 		</li>
