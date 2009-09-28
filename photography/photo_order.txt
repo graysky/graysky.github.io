@@ -15,7 +15,8 @@ IMG_7419.jpg
 20070623_4431.jpg
 IMG_0482.jpg
 IMG_7673.jpg
-IMG_1775.jpg
+
+# Steven - IMG_1775.jpg
 
 # Boathouse
 IMG_0548.jpg
@@ -69,8 +70,6 @@ IMG_0372.jpg
 # Ipswitch
 20071015_5776.jpg
 
-
-
 # Phily
 20080301_0376.jpg
 20080301_0384.jpg
@@ -79,7 +78,7 @@ IMG_0372.jpg
 IMG_0855.jpg
 
 # Newport
-20071015_5776.jpg
+IMG_7140.jpg
 
 # Waterfall
 20070408_3230.jpg
