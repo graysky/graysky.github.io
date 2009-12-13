@@ -4,11 +4,19 @@ title: On Mobile Photography
 wordpress_url: http://graysky.org/?p=768
 layout: post
 ---
-<div><img src="http://files.snapmylife.com/pictures/4694162/838330_large_thumb.jpg" /> <img src="http://files.snapmylife.com/pictures/5570290/938643_large_thumb.jpg" /> <img src="http://files.snapmylife.com/pictures/578107/792486_large_thumb.jpg" /></div>
+<div>
+<img src="http://farm3.static.flickr.com/2641/4176077180_96c5c68264_m.jpg" /> 
+<img src="http://farm3.static.flickr.com/2661/4176068484_ffd9f75480_m.jpg" />
+<img src="http://farm3.static.flickr.com/2505/4176065786_a6bd3c33a0_m.jpg" /> 
+</div>
 
-<div style="margin-bottom: 10px"><img src="http://files.snapmylife.com/pictures/2015201/38978_large_thumb.jpg" /> <img src="http://files.snapmylife.com/pictures/1296164/21668_large_thumb.jpg" /> <img src="http://files.snapmylife.com/pictures/519383/611161_large_thumb.jpg" /></div>
+<div style="margin-bottom: 10px">
+<img src="http://farm3.static.flickr.com/2588/4175309863_3beb3ebd22_m.jpg" /> 
+<img src="http://farm3.static.flickr.com/2602/4175307781_104947b94c_m.jpg" /> 
+<img src="http://farm3.static.flickr.com/2546/4175304895_dd39f898b9_m.jpg" />
+</div>
 
-I was recently looking through my shots from a year <a href="http://www.snapmylife.com/pictures/user/46016">experimenting with mobile-phone photography</a>. As something of a photo snob I'm surprised at how quickly it is becoming "good enough" for many snapshots. Duncan Davidson has a <a href="http://blog.duncandavidson.com/2009/07/sunset-along-interstate-5.html">fantastic example that illustrates</a> that pros and cons of this trend. (Or, more humorously The Onion captures the zeitgeist perfectly with their report about <a href="http://www.theonion.com/content/node/95143">40,000 insipid party pics of a dorm fire</a>.)
+I was recently looking through my shots from a year <a href="http://www.flickr.com/photos/downtree/sets/72157622862986073/">experimenting with mobile-phone photography</a>. As something of a photo snob I'm surprised at how quickly it is becoming "good enough" for many snapshots. Duncan Davidson has a <a href="http://blog.duncandavidson.com/2009/07/sunset-along-interstate-5.html">fantastic example that illustrates</a> that pros and cons of this trend. (Or, more humorously The Onion captures the zeitgeist perfectly with their report about <a href="http://www.theonion.com/content/node/95143">40,000 insipid party pics of a dorm fire</a>.)
 
 <ul>
 <li>The mobile camera is one that is always with you. Try as I might I'm not often disciplined enough of a photographer to have a better camera on me and want to dig it out. Having a camera at the ready is certainly critical to capturing a shot (as <a href="http://photo.net/learn/point-and-shoot-tips">Phil Greenspun describes well</a> on the benefits of points-and-shoots) that may only last for a moment.
