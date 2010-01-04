@@ -25,6 +25,6 @@ Keeping alive <a href="/2008/12/favorite-albums-2008/">my annual tradition</a> (
 
 <p><strong>2.</strong> Dirty Projectors, <a href="http://www.amazon.com/Bitte-Orca-Dirty-Projectors/dp/B0026T4RTI/ref=nosim?tag=graysky-20"><em>Bitte Orca</em></a> - An experimental album that got stuck in my head for weeks. Songs like "Useful Chamber" are doing a lot at once and meander around but don't lose me (especially with a fantastic build in the final minute). 
  		
-<p><strong>1.</strong> Phoenix, <a href="http://www.amazon.com/Wolfgang-Amadeus-Phoenix/dp/B0021X515S/ref=nosim?tag=graysky-20"><em>Wolfgang Amadeus Phoenix</em></a> - Great from the opening of "Lisztomania" to the close of "Armistice", and with more layers than I originally thought from hearing "1901" on the radio. Also prompted me to pick up "It's Never Been Like That" which is nearly as good.
+<p><strong>1.</strong> Phoenix, <a href="http://www.amazon.com/Wolfgang-Amadeus-Phoenix/dp/B0021X515S/ref=nosim?tag=graysky-20"><em>Wolfgang Amadeus Phoenix</em></a> - Great from the opening of "Lisztomania" to the close of "Armistice", and with more layers than I originally thought from hearing "1901" on the radio. Also prompted me to pick up <em>It's Never Been Like That</em> which is nearly as good.
 
 </ul>
