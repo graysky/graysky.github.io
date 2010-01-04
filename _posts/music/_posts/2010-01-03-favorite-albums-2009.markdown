@@ -23,7 +23,7 @@ Keeping alive <a href="/2008/12/favorite-albums-2008/">my annual tradition</a> (
 	
 <p><strong>3.</strong> The Thermals, <a href="http://www.amazon.com/Now-We-Can-See-Thermals/dp/B001T46UIW/ref=nosim?tag=graysky-20"><em>Now We Can See</em></a> - I'm a sucker for their pop-punk sound and lyrical themes. Less political than "The Body, The Blood, The Machine", it remains full of energy on songs like "When I Was Afraid" and "You Dissolve".
 
-<p><strong>2.</strong> Dirty Projectors, <a href="http://www.amazon.com/Bitte-Orca-Dirty-Projectors/dp/B0026T4RTI/ref=nosim?tag=graysky-20"><em>Bitte Orca</em></a> - An experimental album it got stuck in my head for weeks. Songs like "Useful Chamber" are doing a lot at once and meander around but don't lose me (especially with a fantastic build in the final minute). 
+<p><strong>2.</strong> Dirty Projectors, <a href="http://www.amazon.com/Bitte-Orca-Dirty-Projectors/dp/B0026T4RTI/ref=nosim?tag=graysky-20"><em>Bitte Orca</em></a> - An experimental album that got stuck in my head for weeks. Songs like "Useful Chamber" are doing a lot at once and meander around but don't lose me (especially with a fantastic build in the final minute). 
  		
 <p><strong>1.</strong> Phoenix, <a href="http://www.amazon.com/Wolfgang-Amadeus-Phoenix/dp/B0021X515S/ref=nosim?tag=graysky-20"><em>Wolfgang Amadeus Phoenix</em></a> - Great from the opening of "Lisztomania" to the close of "Armistice", and with more layers than I originally thought from hearing "1901" on the radio. Also prompted me to pick up "It's Never Been Like That" which is nearly as good.
 
