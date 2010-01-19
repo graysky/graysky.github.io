@@ -5,6 +5,12 @@ Version: 1.0
 Author: Mike Champion
 */
 
+@font-face {
+  font-family: HeaderFont;
+	src: local("Monaco"),
+	src: local("Arial");
+}
+
 body {
 	background-color: #f1f1f1;
 	font-family: Arial, Helvetica, sans-serif;
@@ -59,14 +65,22 @@ pre, code {
 
 #header a  {
 	color: #2d2d2d;
-	font-size: 3.8em;
-	letter-spacing: 2.5px;
-	font-family: "Monaco","Helvetica Neue", Helvetica;
-	font-weight:bold;
+	font-size: 3.1em;
+	letter-spacing: 1px;
+	font-family: HeaderFont, Arial;
+	font-weight: bold;
 }
 
 #header a:hover {
 	text-decoration: none;
+}
+
+#tagline {
+	display: none;
+	margin-top: 0px;
+	font-size: 1.1em;
+	color: #4B4B4B;
+	margin-left: 20px;
 }
 
 /* Push content down */
