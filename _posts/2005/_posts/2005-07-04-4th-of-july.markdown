@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 104
+title: 4th of July
+wordpress_url: http://208.75.86.216/?p=104
+layout: post
+---
+Over the long weekend we had some out of town guests, so we took advantage of the great weather to do some Boston sight-seeing. And since I've lived here my entire life, I've hardly done any of it in years. When I'm out of town I'm all for visiting musuems and learning the history of the place, but not when I'm home apparently. I think I cheated them on how little of the area's history I know, feeling especially pathetic when I was unable to definitively answer how the <a href="http://www.redsoxconnection.com/redsoxfaq.html">Red Sox got their name</a>. On the Fourth, watched the spectacular fireworks from the Cambridge side of the Charles river with the city skyline in the distance.
+
+<center>
+<img src="/blog/pics/fireworks.jpg" border="0" width="394" height="320"/>
+My phone takes lousy photos
+</center>

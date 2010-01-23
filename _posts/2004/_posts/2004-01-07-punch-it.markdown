@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 74
+title: Punch It
+wordpress_url: http://208.75.86.216/?p=74
+layout: post
+---
+Leaving the office last night I had a surreal driving experience. A snow squall had begun, and on the highway visibility was reduced to about 10 feet. Lane markers were ignored. Some cars pulled over, others sped up. The way that the wind whipped the snow toward the windshield it looked like the effect in Star Wars when the <a href="http://www.starwars.com/databank/starship/millenniumfalcon/">Millenium Falcon</a> is about to enter hyperspace. All that was missing was some angry wookie noises.

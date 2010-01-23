@@ -1,0 +1,30 @@
+--- 
+category: music
+wordpress_id: 287
+title: Top Ten Albums of 2007
+wordpress_url: http://graysky.org/2007/12/top-ten-albums-2007/
+layout: post
+---
+As this year draws to a close, I thought I'd list the winners for what was playing in my headphones in 2007. In an attempt to keep myself honest this is a somewhat empirical ranking based on playcounts plus my subjective enjoyment factor. 
+
+<strong>Honorable mentions</strong>: the Elliott Smith album <a href="http://www.amazon.com/dp/B000OMD4BG/ref=nosim?tag=mikechampion"><i>New Moon</i></a> is surprisingly good for a posthumous release; Battles' <a href="http://www.amazon.com/dp/B000OLHGBQ/ref=nosim?tag=mikechampion"><i>Mirrored</i></a> is technically interesting in a contemporary art sort of way and <a href="http://graysky.org/2007/07/battles-paradise-boston/">made for a fascinating show at the Paradise</a>; Stars' <a href="http://www.amazon.com/dp/B000UZ4EFM/ref=nosim?tag=mikechampion"><i>In Our Bedroom After the War</i></a> is thoroughly enjoyable Canadian indie pop.
+
+<p><strong>10.</strong> Lily Allen, <a href="http://www.amazon.com/dp/B000KG5EQE/ref=nosim?tag=mikechampion"><i>Alright, Still</i></a> - Bubble gum Brit pop done very well.
+
+<p><strong>9.</strong> The Shins, <a href="http://www.amazon.com/dp/B000K2VHN2/ref=nosim?tag=mikechampion"><i>Wincing the Night Away</i></a> - I listened to this a lot in January, but haven't gone looking for it since it fell out of rotation. In the category of like-but-don't-love.
+
+<p><strong>8.</strong> Radiohead, <a href="http://www.inrainbows.com/"><i>In Rainbows</i></a> - For whatever reason, Radiohead albums take a while for me to get into, going back <i>Ok Computer</i>. This won't equal <i>Kid A</i>, which is still among my favorite music to code by, but it is moving up.
+
+<p><strong>7.</strong> Panda Bear, <a href="http://www.amazon.com/dp/B000NA27TE/ref=nosim?tag=mikechampion"><i>Person Pitch</i></a> - This was a sleeper hit for me, creating an enveloping mood that I <a href="http://graysky.org/2007/04/panda-bear-person-pitch/">wrote about back in April</a>.
+
+<p><strong>6.</strong> The National, <a href="http://www.amazon.com/dp/B000O5AYCA/ref=nosim?tag=mikechampion"><i>Boxer</i></a> - Their quirky style & lyrics are great, best displayed on "Mistaken For Strangers" which is my favorite track. Also put on one of my favorite shows of the year at the <a href="http://tourb.us/show/33222-The_National-The_Middle_East_Downstairs-Cambridge-MA">MidEast back in June</a>.
+
+<p><strong>5.</strong> Iron and Wine, <a href="http://www.amazon.com/dp/<id>/ref=nosim?tag=mikechampion"><i>The Shepherd's Dog</i></a> - Sam Beam successfully grows into a more layered and produced sound.
+
+<p><strong>4.</strong> The Thermals, <a href="http://www.amazon.com/dp/<id>/ref=nosim?tag=mikechampion"><i>The Body, the Blood, the Machine</i></a> - I'd given up hope on finding any more pop-punk to like, especially thematic albums, <a href="http://graysky.org/2007/02/the-thermals-the-body-the-blood-the-machine/">but I loved this</a>. The album overflows with energy (making it great for running). The <a href="http://tourb.us/show/49785-The_Thermals-The_Middle_East_Downstairs-Cambridge-MA">show they played in Boston just before Halloween</a> and just after the Sox won the Series added some surreality to the mix too.
+
+<p><strong>3.</strong> Tegan and Sara, <a href="http://www.amazon.com/dp/<id>/ref=nosim?tag=mikechampion"><i>The Con</i></a> - I'm nearly embarassed at how much I've listened to these infectious pop twins.  
+
+<p><strong>2.</strong> Okkervil River, <a href="http://www.amazon.com/dp/<id>/ref=nosim?tag=mikechampion"><i>The Stage Names</i></a> - Literate rock that becomes a bit unhinged in parts, like on the <a href="http://en.wikipedia.org/wiki/John_Berryman">John Berryman</a> and Beach Boys-inspired "John Allyn Smith Sails". I <a href="http://graysky.org/2007/08/okkervil-river-the-stage-names/">declared my feelings earlier</a> but never got around to saying <a href="http://tourb.us/show/43839-Okkervil_River-Damien_Jurado-The_Middle_East_Downstairs-Cambridge-MA">that the show</a> lived up to my high expectations.
+
+<p><strong>1.</strong> Andrew Bird - <a href="http://www.amazon.com/dp/<id>/ref=nosim?tag=mikechampion"><i>Armchair Apocrypha</i></a> - Loved this <a href="http://graysky.org/2007/03/andrew-bird-armchair-apocrypha/">album from the first song to the last</a>, and <a href="http://graysky.org/2007/05/andrew-bird-berklee/">he didn't disappoint at Berklee</a>. Beautifully layered and lonely.

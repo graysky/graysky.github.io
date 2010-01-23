@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 42
+title: October 5 2003
+wordpress_url: http://208.75.86.216/?p=42
+layout: post
+---
+For my computer graphics class, we had to write a tiny program that does image compositing using <a href="http://www.opengl.org">OpenGL</a> to put weather images on a map of Middle Earth. I had forgotten both that I enjoy writing in C, and just how rusty I am with it. As much as I like Java, there is a certain directness and compactness to C. Although from my little experience with <a href="http://msdn.microsoft.com/vstudio/">VS.NET</a>, I still like Eclipse better as an IDE. And sadly, I'm not <a href="http://www.bluesnews.com/plans/1/">John Carmack</a> yet. Any day now...
+
+<center><a href="http://graysky.org/mgc/pics/cloudy_mordor.jpg">
+<img src="http://graysky.org/mgc/pics/cloudy_mordor.jpg" border="0" width="150" height="150" alt="Cloudy in Mordor">
+</a></center>

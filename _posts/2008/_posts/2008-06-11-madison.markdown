@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 322
+title: Madison Road
+wordpress_url: http://graysky.org/?p=322
+layout: post
+---
+<div class="flickr-frame">
+<a href="http://www.flickr.com/photos/downtree/2549539195/" title="Hobbiton by graysky., on Flickr"><img src="http://graysky.org/images/madison_road.jpg" class="flickr-photo" /></a>
+</div>
+
+Summer is here and I've had little to blog recently. Fred Wilson <a href="http://twitter.com/fredwilson/statuses/830986287">twittered recently</a>, "posting to twitter and tumblr is fun. typepad is work." He's got a point. 

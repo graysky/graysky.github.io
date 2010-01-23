@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 18
+title: Me Search
+wordpress_url: http://208.75.86.216/?p=18
+layout: post
+---
+Apparently <a href="http://blogs.law.harvard.edu/champion/">my never-used weblog</a> at <a href="http://blogs.law.harvard.edu">Harvard</a> has temporarily vaulted me into the lead in <a href="http://www.google.com/search?q=%22mike+champion%22">all important google race among Mike Champions</a>. I definitely thought the <a href="http://today.java.net/pub/au/47">XML expert</a> would be in the lead. Or maybe the <a href="http://us.imdb.com/Name?Champion,+Michael">actor</a>. Perhaps the retired <a href="http://www.baseball-reference.com/c/champmi01.shtml">baseball player</a>. Or <a href="http://www.aquaskier.com/interviews/mike_champion_07_00.htm">waterskier</a>. Maybe even, my favorite, the <a href="http://www.angelfire.com/nf/mikechampion/">wrestler</a>.

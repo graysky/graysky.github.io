@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 62
+title: 100 Suns
+wordpress_url: http://208.75.86.216/?p=62
+layout: post
+---
+<center><a href="http://graysky.org/pics/100_suns.jpg">
+<img src="http://graysky.org/pics/100_suns.jpg" border="0" width="240" height="302" alt="100 Suns - Michael Light">
+</a></center>
+
+It's a little morbid, but I really want to <a href="http://www.hosfeltgallery.com/MichaelLight/">see this exhibit</a> entitled "100 Suns". It's a collection of 100 photographs from U.S. National Archives and Los Alamos National Laboratory archives of nuclear tests arranged by <a href="http://www.michaellight.net/100suns/index.html">Michael Light</a>. Unfortunately it opened in San Francisco the week after my trip, so I'll likely have to <a href="http://www.amazon.com/exec/obidos/ASIN/1400041139/mikechampion/">settle for the book</a>.
