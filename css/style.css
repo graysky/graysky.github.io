@@ -157,14 +157,20 @@ pre, code {
 	font-family: Helvetica;
 	margin-top: 60px;
 }
+
 #sidebar h3 {
 	letter-spacing: 1.4px;
 	font-size: 1.3em;
 	color: #4B4B4B;
 }
 
-#sidebar a {
+#popular-posts-sidebar {
+	list-style-type: none;
+}
 
+#popular-posts-sidebar li {
+	margin-bottom: 8px;
+	margin-left: -12px;
 }
 
 /* Footer */

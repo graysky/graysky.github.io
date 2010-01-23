@@ -35,16 +35,15 @@
 	<div id="page" class="container xshowgrid">
     <div id="header" class="span-24">
 			<a href="/">mike champion</a>
-			<span id="tagline">climbing the learning curve</span>
     </div>
     <hr />
 		
-		<div id="content" class="prepend-1 span-16 append-1 push-down">
+		<div id="content" class="prepend-1 span-16 push-down">
 			{{ content }}
 		</div><!-- end content -->
 	
 	<!-- sidebar -->
-	<div id="sidebar" class="span-5">
+	<div id="sidebar" class="prepend-1 span-6 last">
 	{% if site.about_page != page.permalink %}
 
 	<h3>Welcome</h3>
@@ -54,6 +53,15 @@
 
 	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS</a>
 	</p>
+
+	<h3 style="margin-top: 20px;">Popular Posts</h3>
+	<ul id="popular-posts-sidebar">
+		<li><a href="/2009/06/textmate-project-refresh-focus/">TextMate Project Tree Refresh</a></li>
+		<li><a href="/2009/03/translator-rails-i18n/">Translator - Rails i18n Simplifier</a></li>
+		<li><a href="/2008/12/git-branch-auto-tracking/">Git Branch Auto-Tracking</a></li>
+		<li><a href="/2008/12/tourbus/">Farewell tourb.us</a></li>
+		<li><a href="/2008/09/boston-contemporary-architecture/">Boston Contemporary Architecture</a></li>
+	</ul>
 
 	{% endif %}
 	</div><!-- end sidebard -->
