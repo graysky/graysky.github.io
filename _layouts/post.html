@@ -9,7 +9,7 @@ layout: default
 	
 	<div class="entrymeta">
     &mdash; <a href="{{ page.url }}" rel="bookmark" title="Permanent Link to {{ page.title }}">
-		{{ page.date | date_to_string }}</a>
+		{{ page.date | date: "%B %d, %Y" }}</a>
   </div>
   
   <div class="commentsblock">

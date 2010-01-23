@@ -49,13 +49,23 @@
 	<h3>Welcome</h3>
 	<p>I'm <a href="/mike-champion">Mike Champion</a>, a web developer near Boston interested in technology, music and photography. <a href="/mike-champion">More &raquo;</a>
 
-	<p><a href="http://twitter.com/graysky"><img src='/images/twitter.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a><a href="http://twitter.com/graysky">Follow on Twitter</a></p>
+	<p><a href="http://twitter.com/graysky"><img src='/images/twitter_small.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://twitter.com/graysky">Follow on Twitter</a></p>
 
 	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS</a>
 	</p>
 
+	<h3 style="margin-top: 20px;">Recent Posts</h3>
+	<ul class="sidebar-posts">
+		{% for post in site.posts %}
+	  	{% if forloop.index < 6 %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a>
+			{% endif %}
+	  {% endfor %}
+		<li style="font-size: .95em"><a href="/archives">Full Archives &raquo;</a></li>
+	</ul>
+
 	<h3 style="margin-top: 20px;">Popular Posts</h3>
-	<ul id="popular-posts-sidebar">
+	<ul class="sidebar-posts">
 		<li><a href="/2009/06/textmate-project-refresh-focus/">TextMate Project Tree Refresh</a></li>
 		<li><a href="/2009/03/translator-rails-i18n/">Translator - Rails i18n Simplifier</a></li>
 		<li><a href="/2008/12/git-branch-auto-tracking/">Git Branch Auto-Tracking</a></li>
@@ -64,41 +74,25 @@
 	</ul>
 
 	{% endif %}
-	</div><!-- end sidebard -->
-	
+	</div><!-- end sidebar -->
 </div> <!-- end page -->
-	
-<div id="footer">  
-	  <div id="recentposts">
-	    <h2>Recent Posts</h2>
 
-		  <ul class="posts">
-		    {% for post in site.posts %}
-			  {% if forloop.index < 9 %}
-		      <li><a href="{{ post.url }}">{{ post.title }}</a>
-						<span class="dateline"><strong>{{ post.date | date_to_string }}</strong></span></a>
-					</li>
-			  {% endif %}
-		    {% endfor %}
-			<li style="font-size: .9em"><a href="/archives">Full Archives</a></li>
-		  </ul>
-	  </div>
+<div id="footer">
+  <div id="footer-license" style="text-align: center">
+  	Some rights reserved - <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (by-nc-sa)</a>
+  </div>
+</div> <!-- end footer -->
 
-	  <div id="footer-license" style="text-align: center">
-	      Some rights reserved - <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (by-nc-sa)</a>
-	  </div>
-	</div> <!-- end footer -->
-
-	<!--  Google Analytics tracker -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-287373-2");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
+<!--  Google Analytics tracker -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-287373-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 </body>
 </html>
