@@ -1,9 +1,0 @@
---- 
-wordpress_id: 38
-title: Nokia 6100
-wordpress_url: http://208.75.86.216/?p=38
-layout: post
----
-I've been frustrated with cell phones recently, after my <a href="http://www.sonyericsson.com/T68i/">Sony-Ericsson T68i</a> got damaged; the result of my dropping it and the poor design that has a very breakable volume slide on the side. I had bought the insurance so I thought it would work out well, and it would have if I wanted the phone they deem to be comparable, the <a href="http://www.nokiausa.com/phones/3650">Nokia 3650</a>. Nice phone, but not at all what I want, mostly due to how large it is. "Can I choose a different phone", I ask? "No", they reply.
-
-So instead I bought a <a href="http://www.nokiausa.com/phones/6100">Nokia 6100</a>, which so far I like a lot better than the T68i. Better reception / form-factor / screen / functionality, and I like the Nokia interface more anyway. It's a little amazing to me how hard it seems to find a provider with reasonable plans, wide coverage and good phones (having GSM helps here). I really just want a phone (<b>not</b> a camera / PDA / computer) that works where I go for a decent price - but I'd guess that isn't where they make their money.
