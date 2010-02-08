@@ -6,7 +6,7 @@ layout: post
 ---
 I saw <a href="http://www.meangene.com/google/google_internet_search.html">this humorous piece</a> (<a href="http://valleywag.com/tech/search/if-google-had-to-swallow-its-own-medicine-311310.php">via VW</a>) about what if Google had to had to design their UI for Google, changing their clean interface into a busy, link-covered, SEO-seeking eyesore. It reminded me how I haven't visited google.com in forever, preferring the <a href="http://www.mozilla.com/en-US/firefox/search.html">Firefox built-in Google search.</a> I've always been an <a href="http://en.wikipedia.org/wiki/About:Blank_(disambiguation)">about:blank</a> homepage sorta guy and it can't be more spartan than this -- it is just a box:
 
-<img src='http://graysky.org/wp-content/uploads/2007/10/ff_google.png' alt='' />
+<img src='/images/ff_google.png' alt='' />
 
 The killer feature is the <a href="http://labs.google.com/suggestfaq.html">Google Suggest automatic suggestions</a>, both from my search history and what others have searched for. After using it for a while, it makes every other search box seem fatally limited. Combined with the Google search features like on-the-fly spell checking and <a href="http://www.google.com/help/features.html#definitions">"define:" word definitions</a> and it is my command line for the web. 
 
