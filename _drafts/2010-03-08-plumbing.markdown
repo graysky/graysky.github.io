@@ -1,0 +1,12 @@
+- Mention how G wrote bug tracker at company and C libs. Up the stack.
+
+
+- Hosting/Storage
+- Geo (SimpleGeo)
+- Email (Sendgrid)
+- Video Encoding (http://zencoder.com/)
+- SMS
+- Voice?
+- Subscription billing (Recurly, Charify)
+-- Merchant accounts / banks for young biz
+- Cross-Browser testing (Mojo, BrowserMob)
