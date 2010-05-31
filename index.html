@@ -1,19 +1,25 @@
 ---
 layout: default
-title: Home
+title: Mike Champion
 ---
 {% for post in site.posts %}
-	{% if forloop.index == 1 %}
+	{% if forloop.index < 4 %}
     <div class="entry">
       <div class="entrytitle"><a href="{{ post.url }}"><h1>{{ post.title }}</h1></a></div>
+			<div class="entrymeta">
+				{{ post.date | date: "%B %d, %Y" }}
+      </div>
     	<div class="entrybody">
     		{{ post.content }}
     	</div>
 			<div class="entrymeta">
-				<a href="{{ page.url }}" rel="bookmark" title="Permanent Link to {{ page.title }}">{{ post.date | date: "%B %d, %Y" }}</a> 
-				| <a href="{{ post.url }}#disqus_thread">Comments</a>
+				<a href="{{ post.url }}#disqus_thread">Comments</a>
       </div>
     </div>
+		<hr class="divider" />
   {% endif %}
 {% endfor %}
+	<div class="entrymeta" style="text-align: center;">
+		<a href="/archives">Read Older Posts &raquo;</a>
+  </div>
 

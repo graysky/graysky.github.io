@@ -98,6 +98,11 @@ body {
   margin-top: 6px;
 }
 
+.divider {
+	margin-top: 10px;
+	margin-bottom: 16px;
+}
+
 /* Content column */
 #content {
 }
@@ -114,7 +119,11 @@ body {
 
 .entrytitle a:hover {
 	color: #444;
-	text-decoration: none;
+	text-decoration: underline;
+}
+
+.entry h3 {
+	font-size: 1.3em;
 }
 
 .entrybody {
@@ -123,13 +132,15 @@ body {
 
 .entrymeta {
   clear: both;
-  font-size: 0.9em;
-  padding-left:5px;
-  padding-bottom:0px;
-  padding-right:5px;
+  font-size: 0.98em;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 5px;
   padding-top: 0px;
-  display:block;
-  margin-top: 10px;
+  display: block;
+  margin-top: 0px;
+	margin-bottom: 8px;
+	color: #6F6F6F;
 }
 
 /* Next/Prev Navigation */
