@@ -91,6 +91,22 @@
 		<li><a href="/2008/12/tourbus/">Farewell tourb.us</a></li>
 		<li><a href="/2008/09/boston-contemporary-architecture/">Boston Contemporary Architecture</a></li>
 	</ul>
+	
+	<h3 style="margin-top: 26px;">Recently Tumbled</h3>
+	<ul class="sidebar-posts">
+		<script type="text/javascript">
+			// API doc: http://www.tumblr.com/docs/en/api#api_read
+			// Example: http://tumblr.graysky.org/api/read/json?num=1&debug=1
+			function recent_tumbles(data) {
+				var i = 0;
+				for (i = 0; i < 5; i++) {
+			  	document.write("<li style='font-size: 0.95em'><a href='" + data['posts'][i]['link-url'] + "'>" + data['posts'][i]['link-text'] + "</a></li>");
+				}
+				document.write('<li style="font-size: .95em"><a href="http://tumblr.graysky.org">All Tumblr Posts &raquo;</a></li>')
+			}
+		</script>
+		<script type="text/javascript" src="http://graysky.tumblr.com/api/read/json?num=5&callback=recent_tumbles"></script>
+	</ul>
 
 	{% endif %}
 	</div><!-- end sidebar -->

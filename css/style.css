@@ -51,6 +51,12 @@ pre, code {
   padding-right: 3px;
 }
 
+.codeblock {
+	display: block;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
 html { 
 	height: 100%;
 }
