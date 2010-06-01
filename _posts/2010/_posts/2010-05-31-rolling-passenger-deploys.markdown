@@ -50,7 +50,7 @@ end
 </pre>
 		
 	</li>
-	<li>During deploys notice that haproxy will change remove that instance before it is restarted and send requests to other instances. Be aware that
+	<li>During deploys notice that haproxy will change the dashboard display to remove that instance and send requests to other instances. Be aware that
 		  this does mean not all instances have the same code running at the exact same instant. So for database migrations or other scenarios it might 	
 			require	putting up a maintenance page or coding defensively.
 	</li>
