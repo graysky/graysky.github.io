@@ -1,5 +1,0 @@
-Rolling deploys to minimize downtime
-
-http://github.com/blog/517-unicorn
-
-http://github.com/blog/470-deployment-script-spring-cleaning
