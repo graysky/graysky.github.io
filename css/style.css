@@ -242,6 +242,7 @@ body {
 }
 
 .dateline {
+	color: #6F6F6F;
 	margin-left: 4px;
   font-size: 10.5px;
   font-family: Arial, "Helvetica Neue", Helvetica;
