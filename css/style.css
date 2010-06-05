@@ -86,11 +86,17 @@ body {
 }
 
 #header a  {
-	color: #2d2d2d;
-	font-size: 2.9em;
-	letter-spacing: 1px;
-	font-family: HeaderFont, Arial;
+	font-family: 'Droid Sans', Arial, HeaderFont, Arial;
+	color: #4F4F4F;
 	font-weight: bold;
+	font-size: 3.0em;
+	text-shadow: 2px 2px 2px #ddd;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: 0.03em;
+  word-spacing: -0.139em;
+  line-height: 1;
+
 	margin-bottom: 0px;
 }
 
@@ -99,8 +105,8 @@ body {
 }
 
 #tagline {
-	font-family: Arial;
-	font-size: 1.8em;
+	font-family: HeaderFont, Arial;
+	font-size: 1.7em;
 	color: #666;
 	margin-left: 20px;
 	margin-top: 0px;
@@ -122,14 +128,13 @@ body {
 	margin-bottom: 10px;
 }
 
+.entrytitle {
+	font-family: 'Helvetica Neue', HeaderFont, Arial;
+}
+
 .entrytitle a {
 	color: black;
 	font-size: .9em;
-}
-
-.entrytitle a:hover {
-	color: #444;
-	text-decoration: underline;
 }
 
 .entry h3 {
@@ -214,7 +219,7 @@ body {
 	/* Push to the bottom */
 	height: 40px;
 	position: relative;
-	margin-top: -40px; /* negative value of footer height */
+	margin-top: -55px; /* negative value of footer height */
 	clear:both;
 
 	width: 100%;
