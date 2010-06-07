@@ -1,4 +1,4 @@
-# Graysky
+# graysky
 
 This is the code behind my website graysky.org
 

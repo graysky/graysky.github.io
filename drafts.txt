@@ -3,3 +3,25 @@
 
 - Boston Tech Networking
 -- Ryan Sarver (blue trim), Chad Pytel, David Biesel, reddit guys, Dharmesh, Rod, Brian, Jon, Chris Marstall, Roy
+
+
+- Plumbing
+
+- Mention how G wrote bug tracker at company and C libs. Up the stack.
+
+
+- Hosting/Storage
+- Geo (SimpleGeo) - having used geonames.org geocoder
+- Email (Sendgrid)
+- Video Encoding (http://zencoder.com/)
+- SMS (Clickatell)
+- Voice? (Twilio)
+- Subscription billing (Recurly, Charify)
+-- Merchant accounts / banks for young biz
+- Cross-Browser testing (Mojo, BrowserMob)
+- API management (APIgee)
+
+- Areas still ripe for doing
+-- up the stack
+
+
