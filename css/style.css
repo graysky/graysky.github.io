@@ -132,6 +132,10 @@ body {
 	font-family: 'Helvetica Neue', HeaderFont, Arial;
 }
 
+.entrytitle h1 {
+	font-size: 2.5em;
+}
+
 .entrytitle a {
 	color: black;
 	font-size: .9em;
