@@ -54,3 +54,13 @@ function pic_thumbnail() {
 	var img_tag = "<img src=" + pics[choice] + " style='border: 1px solid black;'>";
 	document.write(img_tag);
 }
+
+// pass in the 'created_at' string returned from twitter
+// stamp arrives formatted as Tue Apr 07 22:52:51 +0000 2009
+// http://www.quietless.com/kitchen/format-twitter-created_at-date-with-javascript/
+function parseTwitterDate(stamp) {		
+	var newtext = stamp.replace(/(\+\S+) (.*)/, '$2 $1');
+	var date = new Date(Date.parse(newtext)).toLocaleDateString();
+	var time = new Date(Date.parse(newtext)).toLocaleTimeString();
+	return date + ' ' + time;
+}

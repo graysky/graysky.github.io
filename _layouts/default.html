@@ -2,11 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="dc.creator.name" content="Mike Champion"/>
-<meta name="description" content="Blog of Mike Champion. Hacker, photographer, jack of all trades." />
+<meta name="description" content="Blog of Mike Champion." />
 <meta name="author" content="Mike Champion" />
-<meta name="keywords" content="Mike Champion, graysky, boston, cambridge, rails, ruby on rails" />
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
 
 <title>{{ page.title | strip_html }} - graysky</title>
 
@@ -54,7 +56,7 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 </script>
 
 <!-- JQuery and JS helper -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 <script type="text/javascript" src="/javascript/app.js"></script>
 
 <!--[if !IE 7]>
@@ -106,23 +108,9 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 		<li><a href="/2008/09/boston-contemporary-architecture/">Boston Contemporary Architecture</a></li>
 	</ul>
 	
-	<!--
-	<h3 style="margin-top: 26px;">Recently Tumbled</h3>
-	<ul class="sidebar-posts">
-		<script type="text/javascript">
-			// API doc: http://www.tumblr.com/docs/en/api#api_read
-			// Example: http://tumblr.graysky.org/api/read/json?num=1&debug=1
-			function recent_tumbles(data) {
-				var i = 0;
-				for (i = 0; i < 5; i++) {
-			  	document.write("<li style='font-size: 0.95em'><a href='" + data['posts'][i]['link-url'] + "'>" + data['posts'][i]['link-text'] + "</a></li>");
-				}
-				document.write('<li style="font-size: .95em"><a href="http://tumblr.graysky.org">All Tumblr Posts &raquo;</a></li>')
-			}
-		</script>
-		<script type="text/javascript" src="http://graysky.tumblr.com/api/read/json?num=5&callback=recent_tumbles"></script>
+	<h3 style="margin-top: 26px;">Recent Tweets</h3>
+	<ul id="recent-tweets" class="sidebar-posts">
 	</ul>
-	-->
 	
 	{% endif %}
 	</div><!-- end sidebar -->
@@ -133,6 +121,24 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
   	Some rights reserved - <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (by-nc-sa)</a>
   </div>
 </div> <!-- end footer -->
+
+<script>
+$(document).ready(function() {
+	// Add my tweets to the page
+	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=3", function(data, textStatus) {
+			var i = 0;
+			// Changed
+			for (i = 0; i < data.length; i++) {
+				var t = "<li>" + data[i].text + "<br />";
+				t += "<small><a href='http://twitter.com/graysky/status/" + data[i].id + "'>" + parseTwitterDate(data[i].created_at) + "</a></small>";
+				$('#recent-tweets').append(t);
+			}
+		},
+		"jsonp"
+	);
+	
+});
+</script>
 
 </body>
 </html>
