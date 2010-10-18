@@ -109,8 +109,7 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 	</ul>
 	
 	<h3 style="margin-top: 26px;">Recent Tweets</h3>
-	<ul id="recent-tweets" class="sidebar-posts">
-	</ul>
+	<ul id="twitter_update_list" class="sidebar-posts"></ul>
 	
 	{% endif %}
 	</div><!-- end sidebar -->
@@ -126,17 +125,10 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 $(document).ready(function() {
 	// Add my tweets to the page
 	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=3", function(data, textStatus) {
-			var i = 0;
-			// Changed
-			for (i = 0; i < data.length; i++) {
-				var t = "<li>" + data[i].text + "<br />";
-				t += "<small><a href='http://twitter.com/graysky/status/" + data[i].id + "'>" + parseTwitterDate(data[i].created_at) + "</a></small>";
-				$('#recent-tweets').append(t);
-			}
+			twitterCallback2(data);
 		},
 		"jsonp"
 	);
-	
 });
 </script>
 
