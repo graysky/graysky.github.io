@@ -327,3 +327,11 @@ tt, code {
   text-align:center;
   margin-bottom: 30px;
 }
+
+.profile-pic img {
+	border: 0px solid black; 
+	border-bottom-left-radius: 4px 4px;
+	border-bottom-right-radius: 4px 4px;
+	border-top-left-radius: 4px 4px;
+	border-top-right-radius: 4px 4px;
+}
