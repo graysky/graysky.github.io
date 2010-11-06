@@ -24,8 +24,10 @@ function _kms(u){
 _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d405cbea17025b6e2e97b6f0cf3767ebd.1.js');
 </script>
 
-<!-- Header font from Google Font API -->
+<!-- Fonts from Google Font API -->
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption&subset=latin' rel='stylesheet' type='text/css'>
+<!-- Blueprint base styles -->
 <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
 <!--[if IE]>
 <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" />
@@ -35,12 +37,12 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 
 <!-- Feeds / Pingback -->
 <link rel="alternate" type="application/rss+xml" title="graysky RSS Feed" href="http://feeds.feedburner.com/graysky" />
-<!-- Favicon -->
 <link rel="shortcut icon" href="/images/favicon.ico" />
 
-<!-- Open ID - TODO: Switch -->
+<!-- Open ID - TODO: Switch
 <link rel="openid.server" href="http://www.vox.com/services/openid/server" />
 <link rel="openid.delegate" href="http://graysky.vox.com/" />
+-->
 
 <!-- Google Analytics async tracker -->
 <script type="text/javascript">
@@ -73,20 +75,32 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
     </div>
     <hr />
 		
-		<div id="content" class="prepend-1 span-16 push-down">
+		<!-- Main content -->
+		<div id="content" class="span-16 push-down">
 			{{ content }}
 		</div><!-- end content -->
 	
 	<!-- sidebar -->
-	<div id="sidebar" class="prepend-1 span-6 last">
+	<div id="sidebar" class="prepend-1 span-7 last">
 	{% if site.about_page != page.permalink %}
 
 	<h3>Welcome</h3>
-	<p>Hi, I'm <a href="/mike-champion">Mike Champion</a>. I work at <a href="http://oneforty.com">oneforty</a>, a web startup in Cambridge. <br /><a href="/mike-champion">Read more &raquo;</a>
-	
-	<p><a href="http://twitter.com/graysky"><img src='/images/twitter_small.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://twitter.com/graysky">Follow me on Twitter</a></p>
+	<div class="clear clearfix" style="margin-top: 8px; margin-bottom: 20px;">
+		<div style="float: left;">
+	  	<div class="profile-pic" style="margin-right: 6px; padding-top: 2px;">
+				<img src="/images/mike_champion3.png" alt="Mike Champion"/>
+	  	</div>
+	  </div>
+			<p>Hi, I'm <a href="/mike-champion">Mike Champion</a>.
+				<br />
+				I'm a pragmatic developer working for a startup in Cambridge, MA.
+				<br /><span style="font-size: .95em; font-weight: bold;"><a href="/mike-champion">Read more &raquo;</a></span>
+			</p>
+	</div>
 
-	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS</a>
+	<p><a href="http://twitter.com/graysky"><img src='/images/twitter_small_icon.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://twitter.com/graysky">Follow me on Twitter: @graysky</a></p>
+
+	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS feed</a>
 	</p>
 
 	<h3 style="margin-top: 26px;">Recent Posts</h3>
@@ -96,9 +110,19 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 				<li><a href="{{ post.url }}">{{ post.title }}</a>
 			{% endif %}
 	  {% endfor %}
-		<li style="font-size: .95em"><a href="/archives">Full Archives &raquo;</a></li>
+		<li style="font-size: .85em; font-weight: bold;"><a href="/archives">Full Archives &raquo;</a></li>
+		<li>
+			<!-- Google CSE Search Box -->
+			<form id="searchbox_000048401782643744254:xf_7jq_yk0u" action="http://www.google.com/search">
+			  <input type="hidden" name="cx" value="000048401782643744254:xf_7jq_yk0u" />
+			  <input type="hidden" name="cof" value="FORID:1" />
+			  <input name="q" id="searchbox" type="text" size="18" style="background-color: #fafafa;" />
+			  <input type="submit" id="searchsubmit" name="sa" value="Search" />
+			</form>
+		</li>
 	</ul>
 
+	<!--
 	<h3 style="margin-top: 26px;">Popular Posts</h3>
 	<ul class="sidebar-posts">
 		<li><a href="/2009/06/textmate-project-refresh-focus/">TextMate Project Tree Refresh</a></li>
@@ -107,6 +131,7 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 		<li><a href="/2008/12/tourbus/">Farewell tourb.us</a></li>
 		<li><a href="/2008/09/boston-contemporary-architecture/">Boston Contemporary Architecture</a></li>
 	</ul>
+	-->
 	
 	<h3 style="margin-top: 26px;">Recent Tweets</h3>
 	<ul id="twitter_update_list" class="sidebar-posts"></ul>
@@ -124,7 +149,7 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/eabaae3d40
 <script>
 $(document).ready(function() {
 	// Add my tweets to the page
-	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=3", function(data, textStatus) {
+	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=4", function(data, textStatus) {
 			twitterCallback2(data);
 		},
 		"jsonp"

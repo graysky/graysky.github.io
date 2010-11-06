@@ -89,7 +89,7 @@ body {
 	font-family: 'Droid Sans', Arial, HeaderFont, Arial;
 	color: #4F4F4F;
 	font-weight: bold;
-	font-size: 3.0em;
+	font-size: 3.3em;
 	text-shadow: 2px 2px 2px #ddd;
   text-decoration: none;
   text-transform: none;
@@ -106,11 +106,12 @@ body {
 
 #tagline {
 	font-family: HeaderFont, Arial;
-	font-size: 1.7em;
+	font-size: 1.6em;
 	color: #666;
 	margin-left: 20px;
 	margin-top: 0px;
 	padding-top: 0px;
+	letter-spacing: 0.08em;
 }
 
 /* Push content down */
@@ -129,11 +130,12 @@ body {
 }
 
 .entrytitle {
-	font-family: 'Helvetica Neue', HeaderFont, Arial;
+	font-family: 'PT Sans Caption', 'Helvetica Neue', HeaderFont, Arial;
 }
 
 .entrytitle h1 {
-	font-size: 2.5em;
+	font-size: 2.8em;
+	letter-spacing: 0.03em;
 }
 
 .entrytitle a {
@@ -215,7 +217,7 @@ body {
 }
 
 .sidebar-posts li a {
-	font-size: 1.05em;
+	font-size: 1.1em;
 }
 
 /* Footer */
