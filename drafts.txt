@@ -7,6 +7,9 @@ Blog post ideas:
 - Twitter audience problem
 -- http://www.slideshare.net/padday/the-real-life-social-network-v2
 -- datasift
+-- postpost / curated.by / proxlet
+-- if one of the inventions of twitter was asymetric follows, the next will be about content-based
+-- upper bound on how many people i can follow
 
 
 - Metrics Post
