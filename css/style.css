@@ -66,10 +66,11 @@ html {
 }
 
 body {
-	background-color: #f1f1f1;
-	font-family: Arial, Helvetica, sans-serif;
+	background-color: #f0f0f0;
+	font-family: Helvetica, Arial, sans-serif;
 	color: black;
 	height: 100%;
+	letter-spacing: 0.08em;
 }
 
 #page {
@@ -93,7 +94,7 @@ body {
 	font-family: 'Droid Sans', Arial, HeaderFont, Arial;
 	color: #4F4F4F;
 	font-weight: bold;
-	font-size: 3.3em;
+	font-size: 3.5em;
 	text-shadow: 2px 2px 2px #ddd;
   text-decoration: none;
   text-transform: none;
@@ -111,11 +112,11 @@ body {
 #tagline {
 	font-family: HeaderFont, Arial;
 	font-size: 1.6em;
-	color: #666;
+	color: #4F4F4F;
 	margin-left: 20px;
 	margin-top: 0px;
 	padding-top: 0px;
-	letter-spacing: 0.08em;
+	letter-spacing: 0.05em;
 }
 
 /* Push content down */
@@ -134,11 +135,11 @@ body {
 }
 
 .entrytitle {
-	font-family: 'PT Sans Caption', 'Helvetica Neue', HeaderFont, Arial;
 }
 
 .entrytitle h1 {
-	font-size: 2.8em;
+	font-family: "Nobile", Arial;
+	font-size: 2.9em;
 	letter-spacing: 0.03em;
 }
 
@@ -147,12 +148,20 @@ body {
 	font-size: .9em;
 }
 
+.entry h2, .entry h3 {
+	font-family: "Nobile",Arial;
+}
+
+.entry h2 {
+	font-size: 1.8em;
+}
+
 .entry h3 {
-	font-size: 1.3em;
+	font-size: 1.4em;
 }
 
 .entrybody {
-	font-size: 1.3em;
+	font-size: 1.35em;
 }
 
 .entrymeta {
