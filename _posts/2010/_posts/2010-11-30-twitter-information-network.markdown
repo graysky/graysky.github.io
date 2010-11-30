@@ -66,5 +66,6 @@ I think there are many ways to approach this challenge but here are a few ideas 
 	<a name="rabois"></a><small>[3] Proxlet is dangerously close to solving my "Rabois Problem", named for <a href="http://twitter.com/rabois">Keith Rabois</a>. Keith is SF-based entrepreneur and angel investor who is at times very interesting, but he is also a Yankees fan. Being from Boston and a member of Red Sox Nation I'd like to scrub all pro-Yankees tweets from my stream (anti-Yankees tweets are encouraged). See also: <a href="http://twitter.com/bijan">Bijan Sabet</a></small>
 	<br />
 	<a name="powertips"></a><small>[4] For additional tips to become <a href="http://bajillionhits.biz/post/1424224931/50-power-twitter-tips-to-become-the-most-powerful">the most powerful Twitterer</a>.</small>
-	<a name="powertips"></a><small>[5] This is likely all a reaction to having <a href="http://twitter.com/cdixon">Chris Dixon</a> briefly follow and then unfollow me. </small>
+	<br />
+	<a name="cdixon"></a><small>[5] This is likely all a reaction to having <a href="http://twitter.com/cdixon">Chris Dixon</a> briefly follow and then unfollow me. </small>
 </div>
