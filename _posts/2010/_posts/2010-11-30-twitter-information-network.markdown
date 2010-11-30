@@ -5,7 +5,7 @@ layout: post
 
 <div class="flickr-frame" style="margin-bottom: 14px;"><img src="/images/wheat_chaff.png" class="flickr-photo" /></div>
 
-Twitter is increasingly being described as an <a href="http://www.nytimes.com/2010/10/31/technology/31ev.html?_r=1&pagewanted=print">"information network"</a> rather than a social network or "fun-like-ice-cream" novelty. That seems accurate, but the challenge is that Twitter is currently designed like a social network. Even with it's innovative asymmetrical following relationships what you follow on Twitter are accounts <a href="#accounts"><small><sup>[1]</sup></small></a> not "interests". As a result, it is difficult to <strong>consume information effectively</strong> and to <strong>tweet for disparate audiences</strong>. Adding capabilities for how Twitter surfaces the most interesting conversations would make it more valuable. 
+Twitter is increasingly being described as an <a href="http://www.nytimes.com/2010/10/31/technology/31ev.html?_r=1&pagewanted=print">"information network"</a> rather than a social network or "fun-like-ice-cream" novelty. That seems accurate, but the challenge is that Twitter is currently designed like a social network. Even with its innovative asymmetrical following relationships what you follow on Twitter are accounts <a href="#accounts"><small><sup>[1]</sup></small></a> not "interests". As a result, it is difficult to <strong>consume information effectively</strong> and to <strong>tweet for disparate audiences</strong>. Adding capabilities for how Twitter surfaces the most interesting conversations would make it more valuable. 
 
 <h3>Separating Wheat From Chaff</h3>
 
