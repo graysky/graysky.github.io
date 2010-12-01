@@ -53,6 +53,7 @@ I think there are many ways to approach this challenge but here are a few ideas 
 <li><a href="http://www.briansolis.com/2010/11/the-future-of-advertising-has-been-promoted/">Brian Solis</a> predicts 2011 will be when Twitter becomes a "full-fledged interest graph". Brian <a href="http://twitter.com/#!/briansolis/status/7465592139292672">thinks</a>: "Twitter’s monetization strategy lies in the ability to reach interest graphs, not social graphs".</li>
 <li><a href="http://techcrunch.com/2010/11/27/myth-serendipity/">"The Myth of Serendipity"</a> on the difficulty of "social serendipity" and pre-judging what users want to see</li>
 <li>Dave Winer on <a href="http://scripting.com/stories/2010/11/26/whatShouldTwittersVisionBe.html#p3448">"What should Twitter's vision be?"</a> includes interesting tidbits around being a news system.</li>
+<li>John Battelle on <a href="http://battellemedia.com/archives/2010/11/twitters_great_big_problem_is_its_massive_opportunity">"Twitter's Great Big Problem Is Its Massive Opportunity"</a> </li>
 </ul>
 </div>
 
