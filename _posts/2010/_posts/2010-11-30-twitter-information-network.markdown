@@ -54,6 +54,7 @@ I think there are many ways to approach this challenge but here are a few ideas 
 <li><a href="http://techcrunch.com/2010/11/27/myth-serendipity/">"The Myth of Serendipity"</a> on the difficulty of "social serendipity" and pre-judging what users want to see</li>
 <li>Dave Winer on <a href="http://scripting.com/stories/2010/11/26/whatShouldTwittersVisionBe.html#p3448">"What should Twitter's vision be?"</a> includes interesting tidbits around being a news system.</li>
 <li>John Battelle on <a href="http://battellemedia.com/archives/2010/11/twitters_great_big_problem_is_its_massive_opportunity">"Twitter's Great Big Problem Is Its Massive Opportunity"</a> </li>
+<li>Jeff Miller illustrates <a href="http://jeffmiller.github.com/2010/05/16/twitters-garbage-problem">"Twitter's Garbage Problem"</a> and proposed filtering improvements.</li>
 </ul>
 </div>
 
