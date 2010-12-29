@@ -18,7 +18,7 @@ In reviewing the list of albums that were most often in my headphones I was surp
 	
 <p><strong>8.</strong> Sufjan Stevens, <a href="http://www.amazon.com/Age-Adz-Sufjan-Stevens/dp/B004132I4S/ref=nosim?tag=graysky-20"><em>Age of Adz</em></a> - It took me a while to get into this departure for him, but it steadily grew on me. Seeing him perform it live helped illustrate what he was up to, and that the album should be played <em>big</em>.
 	
-<p><strong>7.</strong> Broken Bells, <a href="http://www.amazon.com/Broken-Bells/dp/B0031AV72Q/ref=nosim?tag=graysky-20"><em>Broken Bells</em></a> - 
+<p><strong>7.</strong> Broken Bells, <a href="http://www.amazon.com/Broken-Bells/dp/B0031AV72Q/ref=nosim?tag=graysky-20"><em>Broken Bells</em></a> - Feels almost like a new twist on The Shins, in a good way. Songs like "October" and "The High Road" remind me what I loved about them in the first place.
 	
 <p><strong>6.</strong> The Black Keys, <a href="http://www.amazon.com/Brothers-Black-Keys/dp/B003AO1SVS/ref=nosim?tag=graysky-20"><em>Brothers</em></a> - Amazingly strong bluesy rock from start to finish, with a few standouts like "Tighten Up" and "Next Girl".
 
