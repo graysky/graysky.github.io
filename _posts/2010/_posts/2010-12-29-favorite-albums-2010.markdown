@@ -1,49 +1,35 @@
 --- 
 title: Favorite Albums of 2010
 layout: post
-published: false
 ---
 
-Keeping alive <a href="/2008/12/favorite-albums-2008/">my annual tradition</a> (albeit a bit late) I've rounded up what I listened to in the past year. The list is mostly based on iTunes playcounts, with a little bit of editorial judgement. This year it seems like there was an order of magnitude between each position in terms of how much I liked &amp; listened to these albums.
+<div class="flickr-frame"><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=412377716&s=143441"><img src="/images/2010_albums.png" class="flickr-photo" /></a>
+</div>
 
-Local Natives
-Vampire Weekend
-Big Boi
-Kayne West
-Broken Bells
-Arcade Fire
-Massive Attack
-The Black Keys
-Kid Cudi
-The National
+It's that <a href="/2010/01/favorite-albums-2009/">time of year again</a> when the music I've loved from the last year is rounded-up to be recorded for posterity. There is some faux-science involved using iTunes playcounts to keep me honest about what I actually listened to, and not what I think I should have.
 
-Social Network Soundtrack
-Thermals
-Mumford & Sons
-Beach House
+In reviewing the list of albums that were most often in my headphones I was surprised how many there were. 2010 was a good year for the music I like. I put together a <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=412377716&s=143441">iTunes Ping playlist</a> with some favorite tracks from the albums below.
 
-
-
-<p><strong>Honorable Mentions:</strong> The <a href="http://www.amazon.com/Dark-Was-Night-Various-Artists/dp/B001KVW574/ref=nosim?tag=graysky-20">Dark was the Night</a> compilation has some great songs/covers by My Brightest Diamond, The National and Bon Iver. Speaking of Bon Iver, his <a href="http://www.amazon.com/Blood-Bank-Bon-Iver/dp/B001MJ3MQW/ref=nosim?tag=graysky-20">Blood Bank</a> EP was solid and I really like "Woods", vocal effects and all. 
+<p><strong>Honorable Mentions:</strong> Both <a href="http://www.illegal-art.net/allday/">Girl Talk</a> and <a href="http://www.amazon.com/Man-Moon-Legend-Mr-Rager/dp/B003P2VGN0/ref=nosim?tag=graysky-20">Kid Cudi</a> put out solid albums similar to previous releases. Albums from  <a href="http://www.amazon.com/Heligoland-Massive-Attack/dp/B002ZPIC1M/ref=nosim?tag=graysky-20">Massive Attack</a> and <a href="http://www.amazon.com/Teen-Dream-DVD-Beach-House/dp/B002ZIAC26/ref=nosim?tag=graysky-20">Beach House</a> created dense, enveloping sonic environments. The soundtrack to <a href="http://www.amazon.com/Social-Network-Trent-Reznor/dp/B0043ISH6O/ref=nosim?tag=graysky-20"><em>The Social Network</em></a> by Trent Reznor and Atticus Ross is fantastic, and perfect music to sling code to.
 	
-<p><strong>10.</strong> Dinosaur Jr, <a href="http://www.amazon.com/Farm-Dinosaur-Jr/dp/B0026T4RPC/ref=nosim?tag=graysky-20"><em>Farm</em></a> - It has some great guitar-driven rock, with standout track "See You". (Bonus points for reminding of being in 8th grade, which was a good year for discovering new music.)
+<p><strong>10.</strong> Jónsi, <a href="http://www.amazon.com/Go-Jonsi/dp/B0037AGAV8/ref=nosim?tag=graysky-20"><em>Go</em></a> - An album full of bright, driving songs that combined with his unique voice can be epic at times. My only regret is missing his live show which was consistently described as highly entertaining.
+	
+<p><strong>9.</strong> The National, <a href="http://www.amazon.com/High-Violet-National/dp/B003BKF696/ref=nosim?tag=graysky-20"><em>High Violet</em></a> - While it didn't worm its way into my head the way <em>Boxer</em> and <em>Alligator</em> did, songs like "Bloodbuzz Ohio" and "Conversation 16" are fantastic.
+	
+<p><strong>8.</strong> Sufjan Stevens, <a href="http://www.amazon.com/Age-Adz-Sufjan-Stevens/dp/B004132I4S/ref=nosim?tag=graysky-20"><em>Age of Adz</em></a> - It took me a while to get into this departure for him, but it steadily grew on me. Seeing him perform it live helped illustrate what he was up to, and that the album should be played <em>big</em>.
+	
+<p><strong>7.</strong> Broken Bells, <a href="http://www.amazon.com/Broken-Bells/dp/B0031AV72Q/ref=nosim?tag=graysky-20"><em>Broken Bells</em></a> - 
+	
+<p><strong>6.</strong> The Black Keys, <a href="http://www.amazon.com/Brothers-Black-Keys/dp/B003AO1SVS/ref=nosim?tag=graysky-20"><em>Brothers</em></a> - Amazingly strong bluesy rock from start to finish, with a few standouts like "Tighten Up" and "Next Girl".
 
-<p><strong>9.</strong> Discovery, <a href="http://www.amazon.com/LP-Discovery/dp/B002ADPERE/ref=nosim?tag=graysky-20"><em>LP</em></a> - A quirky album, that is heavily produced and at times too sugary, but pretty engaging on tracks like <a href="http://hypem.com/search/orange%20shirt/1/">"Orange Shirt"</a> and "Osaka Loop Line". It also found its way into my hands at the right time for some late-summer pop.
+<p><strong>5.</strong> Vampire Weekend, <a href="http://www.amazon.com/Contra-Vampire-Weekend/dp/B002JN74WI/ref=nosim?tag=graysky-20"><em>Contra</em></a> - I think I liked this album more than most I know, but got hooked on "Taxi Cab", "Giving Up the Gun" and "Run".
+	
+<p><strong>4.</strong> Kanye West, <a href="http://www.amazon.com/My-Beautiful-Dark-Twisted-Fantasy/dp/B003X2O6KW/ref=nosim?tag=graysky-20"><em>My Beautiful Dark Twisted Fantasy</em></a> - I almost don't want to like this album given <a href="http://jezebel.com/5688773/kanye-wests-most-ridiculous-on+air-moments">his already over-inflated ego</a> but it's full of hits like "Power", "Monster", "All the Lights" and a bunch of great tracks. "Lost in the World" is infectious and even "Runaway" with its ridiculous lyrics is catchy.
 
-<p><strong>8.</strong> Isis, <a href="http://www.amazon.com/Wavering-Radiant-Isis/dp/B001YXXSJM/ref=nosim?tag=graysky-20"><em>Wavering Radiant</em></a> - Haunting and full of great dynamics, starting with the album opener "Hall of the Dead". For me, the vocals (both screaming and singing) largely detract from it, and don't feel like the right fit. I'd be curious to hear it as an instrumental album.
-	
-<p><strong>7.</strong> Tegan &amp; Sara, <a href="http://www.amazon.com/Sainthood-Tegan-Sara/dp/B002OHOECC/ref=nosim?tag=graysky-20"><em>Sainthood</em></a> - Doesn't live up to The Con, but is still well-made, fun power-pop. I think they work best when their songs are more driving, like on "Don't Rush", "Hell", and "Northshore" where there is less time to slow down and get a bit overwrought.
-	
-<p><strong>6.</strong> Neko Case, <a href="http://www.amazon.com/Middle-Cyclone-Neko-Case/dp/B001MWGZDG/ref=nosim?tag=graysky-20"><em>Middle Cyclone</em></a> - I haven't listened to much Neko Case, so this was a welcome invitation for me to plump her catalog. Her voice is amazing, and shines on songs like "I'm an Animal".
-	
-<p><strong>5.</strong> Propagandhi, <a href="http://www.amazon.com/Supporting-Caste-Propagandhi/dp/B001QVMJYM/ref=nosim?tag=graysky-20"><em>Supporting Caste</em></a> - I don't listen to a lot of heavy stuff these days, but I found myself reaching for this all the time. I was a fan of "Less Talk, More Rock" back in the day, but they are just musically more interesting now, and still just as infectious. And songs like "Dear Coach's Corner" still combine their style of leftist politics and shared Canadian bonds over love of hockey.
-	
-<p><strong>4.</strong> Passion Pit, <a href="http://www.amazon.com/Manners-Passion-Pit/dp/B0020E7IAY/ref=nosim?tag=graysky-20"><em>Manners</em></a> - I think I have to admit that I'm no longer immediately put off by electro-pop with often falsetto vocals. Songs like "Little Secrets" and "The Reeling" make it more impressive that this is their first full-length album.
-	
-<p><strong>3.</strong> The Thermals, <a href="http://www.amazon.com/Now-We-Can-See-Thermals/dp/B001T46UIW/ref=nosim?tag=graysky-20"><em>Now We Can See</em></a> - I'm a sucker for their pop-punk sound and lyrical themes. Less political than "The Body, The Blood, The Machine", it remains full of energy on songs like "When I Was Afraid" and "You Dissolve".
+<p><strong>3.</strong> Local Natives, <a href="http://www.amazon.com/Gorilla-Manor-Local-Natives/dp/B0032IAB4C/ref=nosim?tag=graysky-20"><em>Gorilla Manor</em></a> - Extremely well put-together release that's obvious on tracks like "Wide Eyes" and "Airplanes". My only critique is that when I saw them live the songs felt like they had a lot more energy and driving bass that is pulled back on the album.
 
-<p><strong>2.</strong> Dirty Projectors, <a href="http://www.amazon.com/Bitte-Orca-Dirty-Projectors/dp/B0026T4RTI/ref=nosim?tag=graysky-20"><em>Bitte Orca</em></a> - An experimental album that got stuck in my head for weeks. Songs like "Useful Chamber" are doing a lot at once and meander around but don't lose me (especially with a fantastic build in the final minute). 
+<p><strong>2.</strong> Big Boi, <a href="http://www.amazon.com/Lucious-Left-Foot-Chico-Dusty/dp/B003FGWSL0/ref=nosim?tag=graysky-20"><em>Sir Lucious Left Foot</em></a> - Complex, layered and beyond catchy hip-hop. Each song feels very different with disparate styles, beats and featured vocals that serve to show Big Boi's breadth of talent. I'm not sure I've heard something else that sounds like it.
  		
-<p><strong>1.</strong> Phoenix, <a href="http://www.amazon.com/Wolfgang-Amadeus-Phoenix/dp/B0021X515S/ref=nosim?tag=graysky-20"><em>Wolfgang Amadeus Phoenix</em></a> - Great from the opening of "Lisztomania" to the close of "Armistice", and with more layers than I originally thought from hearing "1901" on the radio. Also prompted me to pick up <em>It's Never Been Like That</em> which is nearly as good.
-
+<p><strong>1.</strong> Arcade Fire, <a href="http://www.amazon.com/Suburbs-Arcade-Fire/dp/B003O85W3A/ref=nosim?tag=graysky-20"><em>The Suburbs</em></a> - Love the grand themes and earnestness of these songs especially on tracks like "We Used to Wait" and "Modern Man". They have this mixture of nostalgia for the past and distrust of the present that resonances.
+	
 </ul>
