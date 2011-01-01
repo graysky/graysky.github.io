@@ -1,5 +1,13 @@
 Blog post ideas:
 
+- Making a truly international web service
+-- http://www.avc.com/a_vc/2011/01/globalization.html
+-- languages / culture
+-- payments
+-- data (location, geolocation, etc
+-- how to market to developers in Spain or early adopters in India
+-- inside US (Spanish-speaking) as well
+
 - Recruiting devs is broken
 -- job posts suck
 -- thinking of it as "hiring" vs "recruiting"
