@@ -135,7 +135,7 @@
 <script>
 $(document).ready(function() {
 	// Add my tweets to the page
-	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=4", function(data, textStatus) {
+	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=3", function(data, textStatus) {
 			twitterCallback2(data);
 		},
 		"jsonp"
