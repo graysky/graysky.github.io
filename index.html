@@ -10,7 +10,7 @@ title: Mike Champion
 				{{ post.date | date: "%B %d, %Y" }}
       </div>
     	<div class="entrybody">
-    		{{ post.content }}
+    		{{ post.content | excerpt }}
     	</div>
 			<div class="entrymeta">
 				<a href="{{ post.url }}#disqus_thread">Comments</a>
