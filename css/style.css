@@ -177,6 +177,10 @@ body {
 	color: #6F6F6F;
 }
 
+.entrysocial {
+	margin-bottom: 20px;
+}
+
 /* Next/Prev Navigation */
 .navigation {
 	margin-top: 4px;
