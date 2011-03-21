@@ -1,5 +1,18 @@
 Blog post ideas:
 
+- Twitter post
+-- Original concept like Coke. Surprisingly popular & universal
+-- Still hard to track a full conversation:
+https://twitter.com/nabeel/status/43199011620007936
+
+
+
+- Chess for Startupers
+-- More focus on openings & endgames, not enough on middle games
+-- Both sides get a move; putting yourself in other's position
+-- Several moves ahead
+
+
 - Making a truly international web service
 -- http://www.avc.com/a_vc/2011/01/globalization.html
 -- languages / culture
