@@ -1,5 +1,5 @@
 --- 
-category: music, photography
+categories: [music, photography]
 wordpress_id: 272
 title: Hum in Cadillac CTS Ad
 wordpress_url: http://graysky.org/2007/10/hum-cadillac-tv-ad/

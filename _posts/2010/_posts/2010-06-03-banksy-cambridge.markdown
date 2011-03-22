@@ -1,6 +1,7 @@
 --- 
 title: Banksy in Cambridge
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/4604953208/"><img src="/images/banksy_cambridge.jpg" class="flickr-photo" /></a>
 </div>

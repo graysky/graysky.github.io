@@ -1,5 +1,4 @@
 --- 
-category: blog
 wordpress_id: 277
 title: Wes Anderson & <i>The Darjeeling Limited</i> at the Brattle
 wordpress_url: http://graysky.org/2007/10/brattle-wes-anderson-darjeeling-limited/

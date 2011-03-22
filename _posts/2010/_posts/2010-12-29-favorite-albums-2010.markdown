@@ -1,8 +1,8 @@
 --- 
 title: Favorite Albums of 2010
 layout: post
+categories: [music]
 ---
-
 <div class="flickr-frame"><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=412377716&s=143441"><img src="/images/2010_albums.png" class="flickr-photo" /></a>
 </div>
 
