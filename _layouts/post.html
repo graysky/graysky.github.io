@@ -12,8 +12,8 @@ layout: default
 		<div class="entrysocial">
 			<a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-count="none" data-via="graysky">Tweet</a>
 			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-			<div style="display: inline-block; vertical-align: -2px; margin-left: 8px;">
-				<iframe src="http://www.facebook.com/plugins/like.php?{{site.base_url | cgi_escape}}{{ page.url | cgi_escape }}&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
+			<div style="display: inline-block; vertical-align: 2px; margin-left: 8px;">
+				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="{{site.base_url}}{{page.url}}" layout="button_count" show_faces="false" width="120" font=""></fb:like>
 			</div>
 		</div>
 	</div>
