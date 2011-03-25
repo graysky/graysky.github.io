@@ -25,7 +25,8 @@ else
   # just trim after stripping HTML
 end
 
-
+- Update photo gallery to include Ireland & other photos.
+-- Maybe switch to something like: http://www.smashingapps.com/2011/01/07/awesome-jquery-techniques-to-create-visually-impressive-photo-galleries.html
 
 - Fix code syntax highlighting (syntax highlighter from google code?)
 
