@@ -2,9 +2,12 @@
 title: Reverse the Startup Curse
 layout: post
 categories: [startups]
-published: false
 ---
 <div class="flickr-frame"><img src="/images/reverse_curse.png" class="flickr-photo" /></div>
+
+<div style="text-align: center; margin-bottom: 8px;">
+<small>[This post originally appeared on the <a href="http://greenhornconnect.com/blog/mike-champion-reversing-curse">Greenhorn Connect</a> blog]</small>
+</div>
 
 I was born and raised in the Boston area so the most recent <a href="http://www.boston.com/business/technology/innoeco/2011/03/whats_the_point_of_boston_vs_s.html" rel="nofollow">dust</a> <a href="http://techcrunch.com/2011/03/04/my-ordeal%E2%80%94and-the-firestorm%E2%80%94in-boston/" rel="nofollow">up</a> about Boston vs Silicon Valley has me comparing it to Beantown's previous long-lived case of self-flagellation - <a href="http://en.wikipedia.org/wiki/Curse_of_the_Bambino">The Curse of the Bambino</a>.
 
