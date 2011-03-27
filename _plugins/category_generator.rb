@@ -27,7 +27,7 @@ module Jekyll
 
     def generate(site)
       site.categories.each do |cat, posts|
-        site.pages << CategoryPage.new(site, site.source, "category", "#{cat}.html", {'posts' => posts})
+        site.pages << CategoryPage.new(site, site.source, "category", "#{cat}.html", {'posts' => posts.sort.reverse})
       end
     end
 
