@@ -3,6 +3,7 @@ wordpress_id: 294
 title: Canon Powershot G9
 wordpress_url: http://graysky.org/2008/01/canon-powershot-g9/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2227110335/" title="Canon G9"><img src="http://farm3.static.flickr.com/2020/2227110335_4d1cd4dcca.jpg"  class="flickr-photo" width="500" height="333" alt="Canon G9" /></a>
 </div>

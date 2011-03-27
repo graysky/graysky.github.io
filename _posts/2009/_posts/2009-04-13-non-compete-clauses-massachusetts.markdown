@@ -3,6 +3,7 @@ wordpress_id: 824
 title: Banning Non-Competes in Massachusetts
 wordpress_url: http://graysky.org/?p=824
 layout: post
+categories: [tech]
 ---
 I recently wrote to my State Representative, <a href=" http://www.mass.gov/legis/member/j_h1.htm">Jonathan Hecht</a>, to support banning noncompete clauses in Massachusetts. House Bill 1794 would abolish non-competes clauses in employment agreements and has been <a href="http://opencompetition.wordpress.com/supporters/">endorsed by those in the "Alliance for Open Competition"</a> and other tech founders like <a href="http://innocuous.org/articles/2008/12/30/ban-non-competes-in-massachusetts">Richard Tibbets of StreamBase</a>. I believe changing the law in the Commonwealth to ban non-competes would help make our state more attractive to tech workers by ensuring their ability to make the best use of their skills and new businesses to hire the best talent. Even if they are rarely enforced they can contribute to a chilling effect that can make Massachusetts less competitive with states like California, <a href="http://en.wikipedia.org/wiki/Non-compete_clause#Enforceability_in_the_State_of_California">where they are not enforced.</a>
 

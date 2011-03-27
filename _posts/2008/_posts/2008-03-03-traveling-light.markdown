@@ -3,6 +3,7 @@ wordpress_id: 313
 title: Traveling Light
 wordpress_url: http://graysky.org/2008/03/traveling-light/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2306773764/" title="City Hall"><img src="http://farm4.static.flickr.com/3084/2306773764_c5a509909a.jpg" class="flickr-photo" width="375" height="500" alt="City Hall" /></a>

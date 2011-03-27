@@ -3,6 +3,7 @@ wordpress_id: 293
 title: Kids in the Hall Classics
 wordpress_url: http://graysky.org/2008/01/kids-in-the-hall-classics/
 layout: post
+categories: [misc]
 ---
 The other night at dinner I was reminded of a classic <a href="http://www.kithfan.org/">Kids in the Hall</a> bit called <a href="http://youtube.com/watch?v=epa5YZIJU8I">"Girl Drink Drunk"</a>.
 

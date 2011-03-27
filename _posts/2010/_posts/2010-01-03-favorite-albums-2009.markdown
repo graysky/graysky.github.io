@@ -1,6 +1,7 @@
 --- 
 title: Favorite Albums of 2009
 layout: post
+categories: [music]
 ---
 
 Keeping alive <a href="/2008/12/favorite-albums-2008/">my annual tradition</a> (albeit a bit late) I've rounded up what I listened to in the past year. The list is mostly based on iTunes playcounts, with a little bit of editorial judgement. This year it seems like there was an order of magnitude between each position in terms of how much I liked &amp; listened to these albums.

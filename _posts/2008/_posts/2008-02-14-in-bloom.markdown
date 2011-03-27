@@ -3,6 +3,7 @@ wordpress_id: 300
 title: In Bloom
 wordpress_url: http://graysky.org/2008/02/in-bloom/
 layout: post
+categories: [photography, music]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2262948241/" title="In Bloom"><img src="http://farm3.static.flickr.com/2074/2262948241_21261ec49b.jpg" class="flickr-photo" width="500" height="375" alt="In Bloom" /></a>
 </div>

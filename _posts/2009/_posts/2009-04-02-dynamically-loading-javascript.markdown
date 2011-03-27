@@ -3,6 +3,7 @@ wordpress_id: 803
 title: Dynamically Loading Javascript
 wordpress_url: http://graysky.org/?p=803
 layout: post
+categories: [code]
 ---
 Recently I added a few ads to <a href="http://whoshouldifollow.com">WhoShouldiFollow</a> to cover our hosting costs and ran into a Javascript issue I hadn't hit before. Specifically, trying to dynamically load a third party script that uses <tt>document.write</tt> to add HTML to the DOM was <b>erasing the whole page</b>! I found a (slightly-evil) solution after much hacking around and no luck finding anything similar in Google. Hopefully there is a cleaner solution out there, but thought I'd write up my fix.
 

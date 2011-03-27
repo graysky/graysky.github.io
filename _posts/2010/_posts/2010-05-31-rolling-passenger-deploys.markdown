@@ -1,7 +1,7 @@
 --- 
 title: Rolling Rails Deploys with Passenger
 layout: post
-categories: [tech]
+categories: [code]
 ---
 
 We recently run into an issue where restarting Rails within <a href="http://www.modrails.com">Passenger</a> was starting to take longer and longer as the number of plugins and gems we use have grown. This led to 30-90 seconds where the site was unavailable as Passenger restarted the Rails application spawner across every machine. That's far too long if you like to deploy frequently, which we do.

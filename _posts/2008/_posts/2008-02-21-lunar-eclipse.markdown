@@ -3,6 +3,7 @@ wordpress_id: 303
 title: Lunar Eclipse
 wordpress_url: http://graysky.org/2008/02/lunar-eclipse/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2281005748/" title="Spreading Eclipse"><img src="http://farm3.static.flickr.com/2395/2281005748_4249d3dedb.jpg" class="flickr-photo" width="500" height="334" alt="Spreading Eclipse" /></a>
 </div>

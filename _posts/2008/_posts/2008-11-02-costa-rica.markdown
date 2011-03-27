@@ -3,6 +3,7 @@ wordpress_id: 426
 title: Costa Rica Travels
 wordpress_url: http://graysky.org/?p=426
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2972161635/" title="The Road to Monteverde"><img src="http://graysky.org/images/costa_rica_road.jpg" alt="The Road to Monteverde" class="flickr-photo"/></a></div>
 

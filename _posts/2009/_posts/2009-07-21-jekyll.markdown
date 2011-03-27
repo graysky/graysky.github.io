@@ -1,6 +1,7 @@
 ---
 title: Jekyll Transformation
 layout: post
+categories: [code]
 ---
 <p>Yesterday I switched this blog over to run on <a href="http://jekyllrb.com/">Jekyll</a>. I'd been thinking about moving away from Wordpress for a while, and a short talk by <a href="http://litanyagainstfear.com/">Nick Quaranto</a> at the <a href="http://bostonrb.org/">Boston Ruby group</a> that mentioned a Wordpress importer pushed me over the edge. So what is interesting about Jekyll?</p>
 

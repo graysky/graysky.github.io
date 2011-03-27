@@ -3,6 +3,7 @@ wordpress_id: 322
 title: Madison Road
 wordpress_url: http://graysky.org/?p=322
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2549539195/" title="Hobbiton by graysky., on Flickr"><img src="http://graysky.org/images/madison_road.jpg" class="flickr-photo" /></a>

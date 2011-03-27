@@ -3,6 +3,7 @@ wordpress_id: 291
 title: "E.B. Sledge: <i>With the Old Breed: At Peleliu and Okinawa</i>"
 wordpress_url: http://graysky.org/2008/01/with-the-old-breed-peleliu-okinawa/
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame-centered"><a href="http://www.flickr.com/photos/downtree/554684396/" title="National Cemetery of the Pacific"><img src="http://farm2.static.flickr.com/1423/554684396_6175f90c8b.jpg" class="flickr-photo" width="500" height="333" alt="National Cemetery of the Pacific"/></a>
 </div>

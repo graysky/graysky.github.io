@@ -3,6 +3,7 @@ wordpress_id: 312
 title: Clay Shirky at Berkman Center
 wordpress_url: http://graysky.org/2008/02/clay-shirky-berkman/
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2299016075/" title="David Weinberger Listens "><img src="http://farm3.static.flickr.com/2226/2299016075_d6f5b12d7f.jpg" class="flickr-photo" width="500" height="375" alt="David Weinberger Listens" /></a>

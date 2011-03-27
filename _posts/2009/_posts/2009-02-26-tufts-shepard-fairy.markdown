@@ -1,8 +1,7 @@
 --- 
-wordpress_id: 653
 title: Shepard Fairy "Supply & Demand"
-wordpress_url: http://graysky.org/?p=653
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/3285653871/" title="Shepard Fairy Mural at Tufts"><img src="http://farm4.static.flickr.com/3292/3285653871_0efdb079df.jpg" width="500" height="216" alt="Shepard Fairy Mural at Tufts" class="flickr-photo" /></a>

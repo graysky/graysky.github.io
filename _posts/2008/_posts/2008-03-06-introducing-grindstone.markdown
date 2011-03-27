@@ -3,6 +3,7 @@ wordpress_id: 314
 title: "Introducing Grindstone: Stay Focused"
 wordpress_url: http://graysky.org/2008/03/introducing-grindstone/
 layout: post
+categories: [code]
 ---
 <a href="http://graysky.org/grindstone/">Grindstone</a> is a Greasemonkey script to help avoid distracting websites when trying to be productive. Maybe <a href="http://www.randsinrepose.com/archives/2008/03/06/i_dont_multitask.html">others can avoid thrashing</a>, but the web is an endless series of interesting pieces of information. A little, quick research on the beautiful <a href="http://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque">Blue Mosque</a> in Turkey ends up leading to reading about: <a href="http://en.wikipedia.org/wiki/Istanbul">Istanabul</a> (maybe we'll visit), the <a href="http://en.wikipedia.org/wiki/Ottoman_Empire#World_War_I">Ottoman Empire</a>, the <a href="http://en.wikipedia.org/wiki/Crimean_War">Crimean War</a> (which one was that?), the <a href="http://en.wikipedia.org/wiki/Crimean_Peninsula">Crimean Peninsula</a>, the <a href="http://en.wikipedia.org/wiki/Yalta_Conference">Yalta Conference</a> (chilling with Stalin), <a href="http://en.wikipedia.org/wiki/Franklin_D._Roosevelt">F.D.R.</a> and to <a href="http://en.wikipedia.org/wiki/Harry_S._Truman#Truman.27s_middle_initial">Harry S. Truman's middle initial</a> (there is a period). Suddenly a 30 second break has become a 15 minute tangent. And then there are sites like Facebook or Google Reader that addict people to keep checking them constantly.
 

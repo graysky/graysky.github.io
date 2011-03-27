@@ -3,6 +3,7 @@ wordpress_id: 323
 title: Netflix Roku Player
 wordpress_url: http://graysky.org/?p=323
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2609395458/" title="Netflix Roku Player"><img src="http://farm4.static.flickr.com/3113/2609395458_a7c28aff8a.jpg" width="500" height="333" class="flickr-photo" alt="Netflix Roku Player" /></a>

@@ -3,6 +3,7 @@ wordpress_id: 768
 title: On Mobile Photography
 wordpress_url: http://graysky.org/?p=768
 layout: post
+categories: [tech, photography]
 ---
 <div>
 <img src="http://farm3.static.flickr.com/2730/4183326245_9ed6daa1c1_m.jpg" /> 

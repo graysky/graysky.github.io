@@ -1,6 +1,7 @@
 --- 
 title: "The Plumbing Revolution: Developers' Improving Toolbox"
 layout: post
+categories: [startups, tech]
 ---
 
 <div class="flickr-frame"><img src="/images/mario_pipe.jpg" class="flickr-photo" /></div>

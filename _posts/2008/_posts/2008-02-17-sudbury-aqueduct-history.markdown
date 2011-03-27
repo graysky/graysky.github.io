@@ -3,6 +3,7 @@ wordpress_id: 301
 title: History in the Small
 wordpress_url: http://graysky.org/2008/02/sudbury-aqueduct-history/
 layout: post
+categories: [photography, misc]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2272639460/" title="Siphon Castle"><img src="http://farm3.static.flickr.com/2320/2272639460_592562b4d6.jpg" class="flickr-photo" width="500" height="333" alt="Siphon Castle" /></a>
 </div>

@@ -3,6 +3,7 @@ wordpress_id: 331
 title: MBTA Photography Policy
 wordpress_url: http://graysky.org/?p=331
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://flickr.com/photos/downtree/2752401052/in/set-72157606587744273" title="The Macallen Building"><img src="http://graysky.org/images/macallen_building.jpg" class="flickr-photo" alt="The Macallen Building"></a>

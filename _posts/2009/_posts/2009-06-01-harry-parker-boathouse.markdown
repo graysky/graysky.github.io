@@ -3,6 +3,7 @@ wordpress_id: 872
 title: Harry Parker Boathouse
 wordpress_url: http://graysky.org/?p=872
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/sets/72157617638779824/" title="Harry Parker Boathouse by graysky., on Flickr"><img src="http://graysky.org/images/harry_parker_boathouse.jpg" alt="Harry Parker Boathouse" /></a></div>
 

@@ -3,6 +3,7 @@ wordpress_id: 318
 title: Captain William Smith House
 wordpress_url: http://graysky.org/2008/03/captain-william-smith-house/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2359472632/" title="Captain William Smith House"><img src="http://graysky.org/images/captain_smith_house.jpg" class="flickr-photo"  alt="Captain William Smith House" /></a>
