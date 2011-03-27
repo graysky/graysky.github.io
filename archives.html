@@ -9,6 +9,15 @@ been lost to the ages, thankfully.</p>
 
 Search the archives: {% include search.html %}
 
+<h3 style='margin-bottom: 8px; margin-top: 20px;'>Categories</h3>
+<ul class="past-posts">
+{% for cat in site.categories %}
+<li style="margin-left: 10px; margin-">
+<a href="/category/{{ cat.first }}">{{ cat.first }}</a>
+</li>
+{% endfor %}
+</ul>
+
 <br />
 
 <h3 style='margin-bottom: 8px; margin-top: 15px;'>Every Post by Date</h3>
