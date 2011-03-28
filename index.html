@@ -8,6 +8,12 @@ title: Mike Champion
       <div class="entrytitle"><a href="{{ post.url }}"><h1>{{ post.title }}</h1></a></div>
 			<div class="entrymeta">
 				{{ post.date | date: "%B %d, %Y" }}
+				{% if post.categories != null %}
+				<span style="font-size: 1.1em; margin: 0px 3px; vertical-align:1px;">&there4;</span>
+				{% for cat in post.categories %}
+					<a href="/category/{{cat}}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
+			  {% endfor %}
+	      {% endif %}
       </div>
     	<div class="entrybody">
     		{{ post.content }}

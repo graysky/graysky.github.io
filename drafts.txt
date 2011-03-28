@@ -1,17 +1,19 @@
 Blog post ideas:
 
+- Recruiting devs is broken
+-- job posts suck
+-- thinking of it as "hiring" vs "recruiting"
+-- http://www.nytimes.com/2011/03/26/technology/26recruit.html
+
 - Twitter post
 -- Original concept like Coke. Surprisingly popular & universal
 -- Still hard to track a full conversation:
 https://twitter.com/nabeel/status/43199011620007936
 
-
-
 - Chess for Startupers
 -- More focus on openings & endgames, not enough on middle games
 -- Both sides get a move; putting yourself in other's position
 -- Several moves ahead
-
 
 - Making a truly international web service
 -- http://www.avc.com/a_vc/2011/01/globalization.html
@@ -20,10 +22,6 @@ https://twitter.com/nabeel/status/43199011620007936
 -- data (location, geolocation, etc
 -- how to market to developers in Spain or early adopters in India
 -- inside US (Spanish-speaking) as well
-
-- Recruiting devs is broken
--- job posts suck
--- thinking of it as "hiring" vs "recruiting"
 
 - Metrics Post
 
