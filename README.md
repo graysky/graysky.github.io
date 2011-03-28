@@ -13,7 +13,6 @@ This is the code behind my website graysky.org
 -- Couple that I like as a model:
 --- http://about.me/alexis
 
-- Put posts into categories and have category indexes
 - Excerpts for category view and front page
 - like:
 m = post.match(/<!--SNIPPET-->/)
@@ -24,6 +23,9 @@ eslif m
 else
   # just trim after stripping HTML
 end
+
+- Find posts without a category:
+find .  -type f -exec  grep  -H -E -o -c  "categories"  {} \; | grep :0\$
 
 - Update photo gallery to include Ireland & other photos.
 -- Maybe switch to something like: http://www.smashingapps.com/2011/01/07/awesome-jquery-techniques-to-create-visually-impressive-photo-galleries.html

@@ -3,6 +3,7 @@ wordpress_id: 161
 title: The Death of DRM?
 wordpress_url: http://208.75.86.216/?p=161
 layout: post
+categories: [tech]
 ---
 I'll <a href="http://avc.blogs.com/a_vc/2007/04/now_thats_good_.html">join the parade</a> of <a href="http://www.donewaiting.com/archives/2007/04/apple_announcement_today.php">excitement</a> about this morning's announcement that <a href="http://www.techcrunch.com/2007/04/02/emi-apple-are-announcing-sale-of-non-drm-music/">Apple will be selling EMI's entire catalog DRM-free for $1.29/song for singles and the same price for albums.</a> First, this would be a <a href="http://valleywag.com/tech/i-hate-it-here/i-hate-april-fools-day-on-the-internet-248681.php">fantastic non-lame April Fool's prank</a>. I can just picture all the music execs laughing at the music geeks saying "I'm in ur iPod, locking ur tunes".
 

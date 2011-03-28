@@ -3,6 +3,7 @@ wordpress_id: 121
 title: 24 Hours in Philadelphia
 wordpress_url: http://208.75.86.216/?p=121
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/318984667/" title="Glass Teeth"><img src="http://farm1.static.flickr.com/138/318984667_d259953d0a.jpg" class="flickr-photo" width="500" height="429" alt="Glass Teeth" /></a>
 </div>

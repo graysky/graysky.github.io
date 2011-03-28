@@ -3,6 +3,7 @@ wordpress_id: 262
 title: Inspired to Take Bad Photos
 wordpress_url: http://graysky.org/2007/09/inspired-take-bad-photos/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/1389233177/" title="Brightly"><img src="http://farm2.static.flickr.com/1253/1389233177_14e4bae56c.jpg" class="flickr-photo" width="500" height="333" alt="Brightly"/></a>
 </div>

@@ -3,6 +3,7 @@ wordpress_id: 284
 title: Ken Burns' "The War"
 wordpress_url: http://graysky.org/2007/10/ken-burns-the-war/
 layout: post
+categories: [culture]
 ---
 <div style="text-align: center; padding-top: 8px; margin-right: 4px;">
 <img style="border:solid 1px #000000;" src="http://graysky.org/images/ww2_bombed_church.jpg" width="440" alt=""/>

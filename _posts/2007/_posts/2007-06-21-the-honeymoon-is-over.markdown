@@ -3,6 +3,7 @@ wordpress_id: 194
 title: The Honeymoon is Over
 wordpress_url: http://graysky.org/2007/06/the-honeymoon-is-over/
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/533886523/" title="Diamond Head"><img src="http://farm2.static.flickr.com/1106/533886523_43bdac7399.jpg" class="flickr-photo" width="500" height="333" alt="Diamond Head"/></a>
 </div>

@@ -3,6 +3,7 @@ wordpress_id: 266
 title: WGBH LED Display Above the Mass. Pike
 wordpress_url: http://graysky.org/2007/09/wgbh-led-display-mass-pike/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/1455780256/" title="Giraffes Don't Huff"><img src="http://farm2.static.flickr.com/1315/1455780256_f4f1e13c1e.jpg" class="flickr-photo" width="500" height="333" alt="Giraffes Don't Huff"/></a>
 </div>

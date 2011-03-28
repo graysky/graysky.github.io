@@ -3,6 +3,7 @@ wordpress_id: 151
 title: Boston BarCamp
 wordpress_url: http://208.75.86.216/?p=151
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame flickr-float">
 <a href="http://www.flickr.com/photos/downtree/424276178/" title="MIT Stata Center"><img src="http://farm1.static.flickr.com/169/424276178_83ff43ddaf_m.jpg" class="flickr-photo-left" width="180" height="240" alt="MIT Stata Center"/></a>

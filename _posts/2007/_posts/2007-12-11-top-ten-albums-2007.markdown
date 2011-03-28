@@ -1,5 +1,5 @@
 --- 
-category: music
+categories: [music]
 wordpress_id: 287
 title: Top Ten Albums of 2007
 wordpress_url: http://graysky.org/2007/12/top-ten-albums-2007/

@@ -3,6 +3,7 @@ wordpress_id: 132
 title: Boston&#8217;s Upcoming Flagship Apple Store
 wordpress_url: http://208.75.86.216/?p=132
 layout: post
+categories: [misc]
 ---
 By the end of 2007, <a href="http://www.boston.com/news/globe/magazine/articles/2007/02/11/stained_glass/?page=full">Boston will have its first flagship Apple store</a> according to the Globe. Located at <a href="http://maps.google.com/maps?f=q&hl=en&q=815+Boylston+Street,+Boston+MA&ie=UTF8&z=16&ll=42.348914,-71.082166&spn=0.009436,0.024097&om=1">815 Boylston St.</a>, it will be the first Apple store in downtown Boston. The design looks beautiful, and reminds me how struck I was when I first saw the <a href="http://www.apple.com/retail/soho/">Apple store in SoHo</a>, complete with glass staircase (<a href="http://www.flickr.com/search/?q=apple%20store%20soho&w=all">pics</a>) a couple years back.
 

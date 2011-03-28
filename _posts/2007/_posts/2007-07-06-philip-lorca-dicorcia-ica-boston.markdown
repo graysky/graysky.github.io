@@ -3,6 +3,7 @@ wordpress_id: 196
 title: Philip-Lorca diCorcia at the ICA
 wordpress_url: http://graysky.org/2007/07/philip-lorca-dicorcia-ica-boston/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/732639182/" title="Cantilevered"><img src="http://farm2.static.flickr.com/1256/732639182_608e2e37e9.jpg" class="flickr-photo" width="500" height="333" alt="Cantilevered"/></a>
 </div>

@@ -3,6 +3,7 @@ wordpress_id: 107
 title: RSS, Friend of the Design-Challenged
 wordpress_url: http://208.75.86.216/?p=107
 layout: post
+categories: [tech]
 ---
 RSS is great for those of us who are severely design-challenged. Unfortunately I was born without whatever gene that one needs to enjoy spending hours tweaking CSS files or editing PHP templates. And after all, who still <em>visits</em> blog sites in this modern age? That's what <a href="http://www.bloglines.com/public/champion">feed readers</a> are for, right? Even among the few sites that I do visit, there isn't much too be missed in the way of pleasing visual design. Now most bloggers, myself included, use some free blogging tools that make it simple to publish. The blogging tool probably comes with a set of built-in themes and even few that aren't too ugly. This is mostly a good thing since it lowers the barriers to making personal publishing trivial even for the non-tech savvy (which delivers on one long-promised feature of the web). And it is also great for those of us don't want to spend our nights working to get nice rounded corners or understand pleasing color combinations (I went to university where the school colors are <a href="http://www.tufts.edu/home/timeline/html/1876-e-colors.html">brown & blue</a> - needless to say they didn't <a href="http://www.amazon.com/exec/obidos/ASIN/1566091594/mikechampion">teach me any better</a>) . 
 

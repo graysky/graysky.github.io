@@ -3,6 +3,7 @@ wordpress_id: 139
 title: Picasa Missing Support for Canon Rebel XTi RAW
 wordpress_url: http://208.75.86.216/?p=139
 layout: post
+categories: [photography]
 ---
 Last October when I bought a <a href="http://www.amazon.com/Canon-Digital-Rebel-10-1MP-Camera/dp/B000I1ZWRW">Canon Rebel XTi</a> camera I found that if I shot in RAW mode that <a href="http://picasa.google.com/">Picasa</a> (version 2.6.0) would display the images with a strange blue-purple hue. I filed a bug with Google back then, and got the standard response that the camera wasn't supported yet but they would pass it along to their development team. I had naively been assuming that if the CR2 format worked for the XT then it would work for the XTi. Clearly not the case. I haven't found a good explanation about what is different, other than the size of the image.
 

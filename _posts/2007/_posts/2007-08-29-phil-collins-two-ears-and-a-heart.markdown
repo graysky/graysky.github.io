@@ -3,6 +3,7 @@ wordpress_id: 223
 title: Two Ears and a Heart
 wordpress_url: http://graysky.org/2007/08/phil-collins-two-ears-and-a-heart/
 layout: post
+categories: [music]
 ---
 On a recent repeat of a <a href="http://www.nbc.com/30_Rock/">30 Rock</a> episode was this fantastic exchange:
 

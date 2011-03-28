@@ -3,6 +3,7 @@ wordpress_id: 197
 title: Simplify Media - Sharing iTunes Libraries Online
 wordpress_url: http://graysky.org/2007/07/simplify-media-share-itunes-music/
 layout: post
+categories: [tech]
 ---
 Simplify Media released a program to easily share your iTunes library with friends, and listen to theirs. Translated to webspeak, "Im in ur iTunes, streaming ur muzak".
 

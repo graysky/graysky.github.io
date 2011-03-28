@@ -3,6 +3,7 @@ wordpress_id: 148
 title: GPS for Cameras
 wordpress_url: http://208.75.86.216/?p=148
 layout: post
+categories: [photography, tech]
 ---
 One thing still missing from my photo setup is an automated way to collect <a href="http://en.wikipedia.org/wiki/Gps">GPS data</a>. Ideally it would be captured when the photo is taken, and by a device instead of entering it in after the fact (both because it can be tedious and is easy to forget exactly where you were). Most everyone agrees that eventually cameras will include a GPS receiver in them, but not many cameras do yet. The recent announcement of the <a href="http://www.cameratown.com/news/news.cfm/hurl/id%7C3758">$150 JOBO photoGPS GPS receiver</a> that fits in the hot shoe of a digital SLR (<a href="http://blogs.adobe.com/jnack/2007/03/gps_in_cameras.html">via John Nack</a>) is a potentially nice middleground. 
 

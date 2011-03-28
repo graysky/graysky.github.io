@@ -3,6 +3,7 @@ wordpress_id: 282
 title: Boston Startup Weekend Builds Deskhappy
 wordpress_url: http://graysky.org/2007/10/boston-startup-weekend-deskhappy/
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame flickr-float">
 <a href="http://www.flickr.com/photos/downtree/1665021253/" title="Ben &amp; Gwen"><img src="http://farm3.static.flickr.com/2060/1665021253_ee75e15cc6_m.jpg" class="flickr-photo-left" width="240" height="160" alt="Ben &amp; Gwen"/></a>

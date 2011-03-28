@@ -3,6 +3,7 @@ wordpress_id: 140
 title: Moved from Wordpress.com to Wordpress
 wordpress_url: http://208.75.86.216/?p=140
 layout: post
+categories: [code]
 ---
 Recently I decided to move this latest blog I started from <a href="http://wordpress.com/">wordpress.com</a> to wordpress running on my own server. The primary reason being for more control over the templates and installed plugins. I can't dispute that I like to play with this technology more than I seem to actually write entries, which has been true for years. Wordpress.com makes it braindead easy to start spewing your thoughts while trading off some tweaking ability. Having to pay to edit CSS and being unable to mess with the template was too much for me. Plus, <a href="http://www.dreamhost.com">Dreamhost</a> makes it push-button to install Wordpress 2.1. And since it was WP to WP, the export and re-import was very smooth.  After tweaking things for a while, I went hunting for some plugins:
 

@@ -3,6 +3,7 @@ wordpress_id: 174
 title: Founders at Work
 wordpress_url: http://208.75.86.216/?p=174
 layout: post
+categories: [tech]
 ---
 <a href="http://www.foundersatwork.com/jessicalivingston.html">Jessica Livington's</a> recent book, <a href="http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141/ref=nosim?tag=mikechampion">Founders at Work</a>, is a series of a interviews with successful technology entrepreneurs from the last twenty-five years. The format is a refreshing change from much of the <a href="http://www.valleywag.com/tech/i-hate-it-here/dear-silicon-valley-journalists-you-have-failed-250538.php">tech press</a> that focuses exclusively on launches, acquisitions, conferences and petty feuds. Instead Livingston, a partner at <a href="http://ycombinator.com/">Y Combinator</a>, shines the spotlight on the behind-the-scenes struggle to create something new and valuable. So many of the boiled-down lessons from successful entrepreneurs (ex. "focus on customers", "make it easy to use") are so common sensical as to be of little value since the devil is in the execution. Which is why reading the actual stories of their challenges and strategies is so engaging. A few highlights from the great collection of interviews:
 

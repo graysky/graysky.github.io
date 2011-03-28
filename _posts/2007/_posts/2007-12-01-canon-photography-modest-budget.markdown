@@ -3,6 +3,7 @@ wordpress_id: 195
 title: Photography on a Modest Budget
 wordpress_url: http://graysky.org/2007/12/canon-photography-modest-budget/
 layout: post
+categories: [photography]
 ---
 Over the last year I've been rekindling an interest in photography. I'd grown tired of the deer-in-headlights look of the flash on point & shoots, and curious about the flexibility of a digital SLR camera. Unfortunately as hobbies go it is a <a href="http://photo.net/equipment/building-a-digital-slr-system/">potential money sinkhole</a>. And it doesn't help that many online reviewers assume dropping $1,000 on a new lens is no big deal. What follows are some of the good and bad purchases I've made while moving from complete rookie to <a href="http://www.flickr.com/photos/downtree/collections/72157602228464948/">rank amateur</a>.
 

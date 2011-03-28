@@ -3,6 +3,7 @@ wordpress_id: 225
 title: The Other Mike Champion and the WS-Death Star
 wordpress_url: http://graysky.org/2007/08/mike-champion-rest-web-services/
 layout: post
+categories: [personal, code]
 ---
 It has come to my attention that when <a href="http://www.google.com/search?q=mike+champion">googling Mike Champion</a> the first hit will be this other <a href="http://blogs.msdn.com/mikechampion/">Mike Champion</a> who works at Microsoft <a href="http://blogs.msdn.com/mikechampion/archive/2007/05/01/reporting-for-duty-on-ws-deathstar.aspx">aboard the WS-Deathstar</a>. Blog posts with titles like <a href="http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=2de82d9a-7e46-4cb2-a787-3786e67e1780">"Mike Champion Defends WS-*"</a> send shivers down my spine, so I thought I'd clarify that I'm in the <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer">RESTful camp</a>. 
 

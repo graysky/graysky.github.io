@@ -3,6 +3,7 @@ wordpress_id: 211
 title: Battles at The Paradise
 wordpress_url: http://graysky.org/2007/07/battles-paradise-boston/
 layout: post
+categories: [music]
 ---
 <a href="http://www.myspace.com/battlestheband">Battles</a> played their <a href="http://tourb.us/show/38115-Battles-Paradise_Rock_Club-Boston-MA">robotic rock at the Paradise</a> last night. The sold out crowd was bleep-blorping along, especially during their single of sorts, <a href="http://youtube.com/watch?v=IpGp-22t0lU">"Atlas"</a>. I spent part of their set trying to see just how they pull off their strange, mesmerizing sound full of laptops, loops and live samples. Not to mention <a href="http://www.boston.com/ae/music/articles/2007/07/15/battles_moves_up_from_the_underground/">indecypherable lyrics</a> that sound like they could be from some squirrel king.
 

@@ -3,6 +3,7 @@ wordpress_id: 275
 title: iPhone Improvement Requests
 wordpress_url: http://graysky.org/2007/10/iphone-gmail-sms-bugs/
 layout: post
+categories: [tech]
 ---
 On the heels of the <a href="http://daringfireball.net/linked/2007/october#wed-17-iphone_sdk">"hot news" that there will be an iPhone SDK</a> in 2008, I feel compelled to put forth my requests for the next software update. If Apple fixes these, I swear I'll even <a href="http://www.apple.com/itunes/store/ringtones.html">buy a few ring tones</a>.
 

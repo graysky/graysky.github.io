@@ -3,6 +3,7 @@ wordpress_id: 119
 title: The Wire Season 4
 wordpress_url: http://208.75.86.216/?p=119
 layout: post
+categories: [culture]
 ---
 We finished watching Season 4 of The Wire on Monday night. Video On Demand is great when they release the episodes a week early, which almost makes up for the 20 minutes I spent navigating through RCN's painfully slow menus again and again after hitting errors telling me to "try again momentarily".
 

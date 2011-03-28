@@ -3,6 +3,7 @@ wordpress_id: 186
 title: Baseball and Hospitals
 wordpress_url: http://graysky.org/2007/05/baseball-hospitals/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/480953568/" title="Ellison Building at MGH"><img src="http://farm1.static.flickr.com/218/480953568_d3e982b209.jpg" class="flickr-photo" width="500" height="333" alt="Ellison Building at MGH"/></a>
 </div>

@@ -3,6 +3,7 @@ wordpress_id: 6
 title: Overheard in Gears of War
 wordpress_url: http://graysky.org/2007/07/xbox-overheard-gears-of-war/
 layout: post
+categories: [culture]
 ---
 When I picked up an XBox 360 last year, it was the first time I'd played multiplayer games with voice chat. Since then I've played likely more <a href="http://gearsofwar.com/">Gears of War</a> than is likely healthy (I loves me some <a href="http://xbox360.ign.com/articles/778/778340p1.html">Annex</a> when played right). And after playing online for a while you <a href="http://www.penny-arcade.com/comic/2007/04/30">notice some odd behavior emerge</a>.
 

@@ -3,6 +3,7 @@ wordpress_id: 278
 title: North Shore
 wordpress_url: http://graysky.org/2007/10/ipswich-north-shore/
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/1584566688/" title="Crane Beach Trails"><img src="http://farm3.static.flickr.com/2155/1584566688_ea40e0a185.jpg" class="flickr-photo" width="500" height="333" alt="Crane Beach Trails"/></a>
 </div>
