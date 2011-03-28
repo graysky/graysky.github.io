@@ -3,6 +3,7 @@ wordpress_id: 52
 title: Absolutely American
 wordpress_url: http://208.75.86.216/?p=52
 layout: post
+categories: [culture]
 ---
 I recently finished reading <a href="http://www.amazon.com/exec/obidos/ASIN/061809542X/mikechampion">Absolutely American</a> by David Lipsky, a Rolling Stone writer, which follows cadets at West Point over four years. Just a <i>little</i> different than my liberal arts college experience. For example, no deans at my school ever gave a speech like:
 

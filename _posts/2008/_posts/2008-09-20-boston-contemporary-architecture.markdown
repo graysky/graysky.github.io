@@ -3,6 +3,7 @@ wordpress_id: 360
 title: Boston Contemporary Architecture
 wordpress_url: http://graysky.org/?p=360
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2733743041/" title="Macallen Facade"><img src="http://graysky.org/images/macallen_facade.jpg" class="flickr-photo" alt="Macallen Facade" /></a></div>
 

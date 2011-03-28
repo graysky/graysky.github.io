@@ -3,6 +3,7 @@ wordpress_id: 571
 title: Favorite Albums of 2008
 wordpress_url: http://graysky.org/?p=571
 layout: post
+categories: [music]
 ---
 Like <a href="http://graysky.org/2007/12/top-ten-albums-2007/">last year</a>, I put together a quasi-objective list of my favorite music of 2008. The list is based largely on what I actually listened to (via iTunes playcounts) rather than what I <em>wished</em> I listened to. This year had several followup albums that were mildly disappointing compared to how much I liked previous albums, from the likes of Death Cab, The Hold Steady and Kings of Leon. Still some good finds, but like with this year's movies, overall not the best year in recent memory.
 

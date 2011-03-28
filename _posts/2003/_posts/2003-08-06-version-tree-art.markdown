@@ -3,6 +3,7 @@ wordpress_id: 25
 title: Version Tree Art
 wordpress_url: http://208.75.86.216/?p=25
 layout: post
+categories: [code]
 ---
 <center><a href="http://graysky.org/pics/ver_tree1.gif"><img src="http://graysky.org/pics/ver_tree1.gif" border="0" width="85%" height="85%"></a></center>
 

@@ -3,6 +3,7 @@ wordpress_id: 326
 title: Sheridan and Hastings
 wordpress_url: http://graysky.org/?p=326
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2582358060/" title="Sheridan and Hastings by graysky., on Flickr"><img src="http://farm4.static.flickr.com/3281/2582358060_c8ce3d544c.jpg" width="500" height="333" class="flickr-photo" alt="Sheridan and Hastings" /></a></div>
 

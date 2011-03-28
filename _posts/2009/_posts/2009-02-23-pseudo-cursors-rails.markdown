@@ -1,8 +1,7 @@
 --- 
-wordpress_id: 655
 title: Pseudo Cursors in Rails
-wordpress_url: http://graysky.org/?p=655
 layout: post
+categories: [code]
 ---
 This morning <a href="http://twitter.com/d2h/status/1240490606">DHH twittered</a> about adding <a href=" http://github.com/rails/rails/blob/d13623ca46c82120c398f4634e206422fc3ad7ea/activerecord/lib/active_record/batches.rb">"batch find"</a> to ActiveRecord in 2.3. Mike Gunderloy has a <a href="http://afreshcup.com/2009/02/23/rails-23-batch-finding/">good explanation of how batch finding can be used</a>. Definitely a nice improvement, but there is perhaps a better alternative already out there.
 

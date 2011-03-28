@@ -3,6 +3,7 @@ wordpress_id: 141
 title: Canon EF-S 10-22mm Lens
 wordpress_url: http://208.75.86.216/?p=141
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/409609811/" title="Memorial Drive">

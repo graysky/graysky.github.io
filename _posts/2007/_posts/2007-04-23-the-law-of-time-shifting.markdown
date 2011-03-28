@@ -3,6 +3,7 @@ wordpress_id: 177
 title: The Law of Time Shifting
 wordpress_url: http://208.75.86.216/?p=177
 layout: post
+categories: [tech]
 ---
 Living in 2007 means it is past time for good manners to instill a respect for those who <a href="http://en.wikipedia.org/wiki/Time_shifting">time shift tv</a>. Tivo, DVRs and their VCR ancestors means that time shifting has been possible for over twenty years and yet common etiquette has not caught up. Proper politeness should now dictate that one should not assume that two separated tv viewers are synchronized in the event's timeline. Just as it would be rude to start a conversation about <a href="http://www.imdb.com/title/tt0167404/">The Sixth Sense</a> saying, "Can you believe that Bruce Willis was dead the whole time?" before asking if they have seen the movie, the same should apply to tv. For example, when one is watching the Red Sox delayed as they <a href="http://www.boston.com/sports/baseball/redsox/articles/2007/04/23/smashing_success/?page=full">sweep the Yankees</a>, it is a wee bit of a spoiler to leave an excited voicemail about the <a href="http://www.boston.com/sports/baseball/redsox/articles/2007/04/23/recounting_3d_inning_barrage_is_a_real_blast/">4 back-to-back homeruns the Sox hit</a>, as thrilling as it was. (This is why I am now so wary of answering my phone during sporting events.)
 

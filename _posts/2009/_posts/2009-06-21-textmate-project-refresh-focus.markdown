@@ -3,6 +3,7 @@ wordpress_id: 946
 title: TextMate Project Tree Refresh
 wordpress_url: http://graysky.org/?p=946
 layout: post
+categories: [code]
 ---
 One small annoyance of using <a href="http://macromates.com/">TextMate</a> is how it refreshes the project tree when it regains focus. If you have a large source tree this can lead to waiting for many seconds while TextMate is frozen or showing the dreaded <a href="http://en.wikipedia.org/wiki/Spinning_wait_cursor">beach ball</a>. Normally switching back from another application to TextMate has about a half second delay, but when the directory contents are changed it can be considerably longer when the project is large (presumably stat info is cached in the first case.) Our current project setup contains about 150MB of source code (including plugins and vendor'd rails) and a data directory that can be ~1GB, leading to some frustrating wait times.
 

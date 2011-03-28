@@ -3,6 +3,7 @@ wordpress_id: 108
 title: CVS Java diff bug?
 wordpress_url: http://208.75.86.216/?p=108
 layout: post
+categories: [code]
 ---
 I think there is a problem in the way CVS diffs Java source. I've seen this issue many times where CVS thinks I've inserted a method <em>within</em> an existing method's Javadoc starting comment. When, in fact, what happened was that an entirely new method was added above the existing method. The screenshot below (which comes from <a href="http://www.cenqua.com/fisheye/">Fisheye</a>) shows the resulting diff. It isn't a big deal for diff'ing, but it shows up during merges making it appear as though the original method was edited, when it really wasn't. In this example, <code>isNotEmptyString</code> is entirely new and should not appear intertwined with the existing method. (And I've seen this enough to know that it is not a case where I accidently start typing in the middle of the other method.) 
 

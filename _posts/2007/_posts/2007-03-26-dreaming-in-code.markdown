@@ -3,6 +3,7 @@ wordpress_id: 156
 title: Dreaming in Code
 wordpress_url: http://208.75.86.216/?p=156
 layout: post
+categories: [code, tech]
 ---
 <a href="http://www.amazon.com/gp/redirect.html%3FASIN=1400082463%26tag=mikechampion%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/1400082463%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02">Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</a>, by Salon Co-founder <a href="http://www.wordyard.com/">Scott Rosenberg</a>, tracks the development of the <a href="http://chandler.osafoundation.org/">personal information manager Chandler</a> at <a href="http://www.kapor.com/">Mitch Kapor's</a> non-profit <a href="http://www.osafoundation.org/">Open Source Applications Foundation (OSAF)</a>. While it may have set out to be a modern-day <a href="http://www.amazon.com/gp/redirect.html%3FASIN=0316491977%26tag=mikechampion%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0316491977%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02">Soul of a New Machine</a>, events take a twist for the worse for OSAF, and better for the reader.
 

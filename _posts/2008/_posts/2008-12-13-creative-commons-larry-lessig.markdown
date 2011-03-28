@@ -3,6 +3,7 @@ wordpress_id: 502
 title: Creative Commons Discussion
 wordpress_url: http://graysky.org/?p=502
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/3103330717/" title="The Commons"><img src="http://farm4.static.flickr.com/3001/3103330717_1ab6bab853.jpg" width="500" height="333" alt="The Commons" class="flickr-photo" /></a>

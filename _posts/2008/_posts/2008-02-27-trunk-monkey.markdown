@@ -3,6 +3,8 @@ wordpress_id: 311
 title: Trunk Monkey
 wordpress_url: http://graysky.org/2008/02/trunk-monkey/
 layout: post
+categories: [misc]
+published: false
 ---
 Monkeys + violence = instant comedy (<a href="http://laughingsquid.com/trunk-monkey-ads-by-suburban-auto-group/">via</a>). The second "trunk monkey" ad is my favorite.
 

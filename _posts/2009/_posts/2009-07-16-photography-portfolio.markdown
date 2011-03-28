@@ -3,6 +3,7 @@ wordpress_id: 1094
 title: Photography Portfolio
 wordpress_url: http://graysky.org/?p=1094
 layout: post
+categories: [photography]
 ---
 In addition to photos that I (occasionally) <a href="http://www.flickr.com/photos/downtree">post to Flickr</a> the other night I put together a <a href="http://graysky.org/photography/">portfolio collection</a> of photos that I like for one reason or another at <a href="http://graysky.org/photography/">graysky.org/photography</a>.
 

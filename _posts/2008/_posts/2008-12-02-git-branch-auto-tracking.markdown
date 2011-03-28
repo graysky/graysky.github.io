@@ -3,6 +3,7 @@ wordpress_id: 472
 title: Git Branch Auto-Tracking
 wordpress_url: http://graysky.org/?p=472
 layout: post
+categories: [code]
 ---
 Since happily subverting <a href="http://subversion.tigris.org/">Subversion</a> and switching to <a href="http://git.or.cz/">Git</a>, I've been looking for this tip: how to set up auto-tracking of a local branch that I pushed remotely (e.g. so that I can <code>git pull</code> without naming the remote branch). It is simple if you create your local branch <em>from an existing remote branch</em> (<code>git branch --track foo origin/foo</code>) and I assumed there must be a similar flag if I pushed my local branch to a remote (without creating a new branch or creating the remote first).
 

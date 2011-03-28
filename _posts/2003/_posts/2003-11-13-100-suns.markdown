@@ -3,6 +3,7 @@ wordpress_id: 62
 title: 100 Suns
 wordpress_url: http://208.75.86.216/?p=62
 layout: post
+categories: [culture]
 ---
 <center><a href="http://graysky.org/pics/100_suns.jpg">
 <img src="http://graysky.org/pics/100_suns.jpg" border="0" width="240" height="302" alt="100 Suns - Michael Light">

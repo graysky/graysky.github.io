@@ -3,6 +3,7 @@ wordpress_id: 126
 title: Boston Web Innovators 10
 wordpress_url: http://208.75.86.216/?p=126
 layout: post
+categories: [tech]
 ---
 Having missed the last couple of Boston Web Innovators events, I was impressed when I walked into the ballroom to see such a large crowd (200+?) for the <a href="http://www.webinnovatorsgroup.com/blog/2007/02/01/webinno10-recap-and-the-next-event-march-28th/">10th meetup</a>. Great to see the expanding interest, and I was particularly pleased to see some students there. Boston obviously has a vibrant student population, but I hadn't seen many attending past events. I spent much of the evening catching up with some people I hadn't seen in a while, which was great, but the night went by so quickly that I missed the opportunity to talk to new people. Some quick thoughts on the "main dishes" of the evenings:
 

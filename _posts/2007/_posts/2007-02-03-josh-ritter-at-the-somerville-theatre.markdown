@@ -3,6 +3,7 @@ wordpress_id: 127
 title: Josh Ritter at the Somerville Theatre
 wordpress_url: http://208.75.86.216/?p=127
 layout: post
+categories: [music]
 ---
 Last night <a href="http://www.joshritter.com/">Josh Ritter</a> played to a full house at the <a href="http://tourb.us/venue/145">Somerville Theatre</a>. This tour he is playing a solo acoustic set, stripping down the songs from their album counterparts. The highlight of the show for me was "Girl in the War", sounding raw on the damning refrain "If they can't find a way to help her, they can go to Hell."
 

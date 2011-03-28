@@ -3,9 +3,10 @@ wordpress_id: 92
 title: Supreme Court Visit
 wordpress_url: http://208.75.86.216/?p=92
 layout: post
+categories: [personal, photography]
 ---
 <div class="flickr-frame">
-<a href="<a href="http://www.flickr.com/photos/downtree/280297275/" title="Supreme Court Steps">
+<a href="http://www.flickr.com/photos/downtree/280297275/" title="Supreme Court Steps">
 <img src="http://farm1.static.flickr.com/97/280297275_d032376aca.jpg" class="flickr-photo" width="500" height="375" alt="Supreme Court Steps"/></a>
 </div>
 

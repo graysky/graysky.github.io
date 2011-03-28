@@ -3,6 +3,7 @@ wordpress_id: 279
 title: Command Line for the Web
 wordpress_url: http://graysky.org/2007/10/command-line-for-web/
 layout: post
+categories: [tech]
 ---
 I saw <a href="http://www.meangene.com/google/google_internet_search.html">this humorous piece</a> (<a href="http://valleywag.com/tech/search/if-google-had-to-swallow-its-own-medicine-311310.php">via VW</a>) about what if Google had to had to design their UI for Google, changing their clean interface into a busy, link-covered, SEO-seeking eyesore. It reminded me how I haven't visited google.com in forever, preferring the <a href="http://www.mozilla.com/en-US/firefox/search.html">Firefox built-in Google search.</a> I've always been an <a href="http://en.wikipedia.org/wiki/About:Blank_(disambiguation)">about:blank</a> homepage sorta guy and it can't be more spartan than this -- it is just a box:
 

@@ -3,6 +3,7 @@ wordpress_id: 238
 title: Shiny, New Mac Book Pro and Data Everywhere
 wordpress_url: http://graysky.org/2007/08/new-macbook-pro-data-everywhere/
 layout: post
+categories: [tech]
 ---
 Recently the stars aligned, the <a href="http://science.nasa.gov/headlines/y2007/11jul_greatperseids.htm">Perseid meteors</a> streaked across the skies and I knew it was time to buy a <a href="http://www.apple.com/macbookpro/">MacBook Pro</a>. I'd flirted with the idea for a long time and combining last weekend's <a href="http://www.apple.com/retail/taxholiday/massachusetts.html">Massachusetts tax holiday</a> and an IBM employee discount pushed me over the edge. I don't know if I truly saved a dime though, because I decided to upgrade to the 2.4Ghz MBP, and tossed in a AppleCare plan after watching a friend be thankful to have it when his logic board died. The <a href="http://www.apple.com/retail/cambridgeside/">Cambridge Apple Store</a> was packed with others who had the same idea, and after filling out an unusually high amount of actual paperwork it was mine.
 

@@ -3,6 +3,7 @@ wordpress_id: 721
 title: Translator - Rails i18n Simplifier
 wordpress_url: http://graysky.org/?p=721
 layout: post
+categories: [code]
 ---
 Internationalization (<a href="http://en.wikipedia.org/wiki/Internationalization">i18n</a>) is one of those potentially necessary but not exactly thrilling tasks, so it is best when it is as simple as possible (related: I gave a <a href="/2009/03/rails-internationalization-bostonrb/">recent talk at the Boston Ruby group on Rails i18n</a>.) To that end I've made <a href="http://github.com/graysky/translator/">Translator</a>, a Rails plugin to simplify the i18n process. It is an extraction from what we've learned as we've been working to internationalize <a href="http://www.snapmylife.com/">our Rails application</a>. 
 

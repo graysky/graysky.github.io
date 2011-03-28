@@ -3,6 +3,7 @@ wordpress_id: 256
 title: Red Sox vs. Blue Jays Slugfest
 wordpress_url: http://graysky.org/2007/09/red-sox-blue-jays-labor-day/
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/1317651533/" title="Fenway On Its Feet"><img src="http://farm2.static.flickr.com/1162/1317651533_4671f3edca.jpg" class="flickr-photo" width="500" height="333" alt="Fenway On Its Feet"/></a>
 </div>

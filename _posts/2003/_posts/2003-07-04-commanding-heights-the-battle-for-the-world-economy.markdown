@@ -3,6 +3,7 @@ wordpress_id: 14
 title: "Commanding Heights: The Battle for the World Economy"
 wordpress_url: http://208.75.86.216/?p=14
 layout: post
+categories: [culture]
 ---
 So way back when, I complained that there are no shows that make economics seem interesting. I've been proven wrong.
 

@@ -3,6 +3,7 @@ wordpress_id: 136
 title: Impact of JRuby Support for Rails
 wordpress_url: http://208.75.86.216/?p=136
 layout: post
+categories: [code]
 ---
 From the <a href="http://headius.blogspot.com/2007/02/rails-support-status-update.html">blog of Charles Nutter</a> it looks like <a href="http://jruby.codehaus.org/">JRuby</a> is very close to supporting Rails, 
 

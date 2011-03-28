@@ -3,6 +3,7 @@ wordpress_id: 240
 title: Intruders.tv Tech Interviews
 wordpress_url: http://graysky.org/2007/08/intruders-tv-interviews/
 layout: post
+categories: [tech]
 ---
 When I first saw reference to <a href="http://us.intruders.tv/index.php?action=article&numero=99">Intruders.tv</a> hosted by someone named Bruno, it reminded me of a certain hilarious <a href="http://youtube.com/watch?v=_7aoDXwpI0Y">Sacha Baron Cohen skit</a>. Thankfully it is not like that. Instead a series of interviews with tech entrepreneurs focusing on the Boston area.
 

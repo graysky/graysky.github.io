@@ -1,26 +1,33 @@
 module Jekyll
+
+  class CategoryPage < Page
+    def initialize(site, base, dir, name, data = {})
+      self.content = data.delete('content') || ''
+      self.data = data
+      dir = dir[-1, 1] == '/' ? dir : '/' + dir
+
+      super(site, base, dir, name)
+
+      # Customize the output settings
+
+      self.data['layout'] = "category" # must match layout
+      self.data['permalink'] = "#{basename}/"
+      self.data['title'] = "#{basename.capitalize} Posts"
+      self.data['category'] = basename
+    end
+
+    def read_yaml(base, name)
+      # No-op
+    end
+  end
+
   class CategoryGenerator < Generator
     safe true
     priority :highest
 
     def generate(site)
-      #puts "Categories: #{site.config.inspect}"
-      #puts "Music: #{site.categories.first.inspect}"
-      site.categories.each do |cat|
-        cat_name = cat.first
-        posts = cat.last
-        # 
-        # filename = File.join(site.config['destination'], "#{cat_name}.html")
-        # puts "Filename: #{filename}"
-        # File.open(filename, 'w') do |f|
-        #   f.write("Contentn for #{cat_name}")
-        # end
-
-
-        # puts "#{cat_name.to_s}"
-        #         posts.each do |p|
-        #           puts "  #{p.data['title']}"
-        #         end
+      site.categories.each do |cat, posts|
+        site.pages << CategoryPage.new(site, site.source, "category", "#{cat}.html", {'posts' => posts.sort.reverse})
       end
     end
 

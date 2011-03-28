@@ -3,6 +3,7 @@ wordpress_id: 143
 title: Tivo Amazon Unbox Video Service Goes Live
 wordpress_url: http://208.75.86.216/?p=143
 layout: post
+categories: [tech]
 ---
 <a href="http://community.livejournal.com/tivolovers/435562.html">Amazon and Tivo</a> have hooked up <a href="http://www.amazon.com/unbox">Amazon's Unbox service</a> to download videos directly to Tivos. They give you $15 to try it out, and the setup was trivial. Sounds like it does less than HD quality for Series3 owners based on the <a href="http://www.tivo.com/4.9.24.2.asp">Tivo FAQ</a> saying,
 

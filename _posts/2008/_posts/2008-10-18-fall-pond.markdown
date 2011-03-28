@@ -3,6 +3,7 @@ wordpress_id: 417
 title: Fall is Dropping
 wordpress_url: http://graysky.org/?p=417
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2936417863/" title="Fall Pond"><img src="http://files.graysky.org/images/fall_dropping.jpg" alt="Fall Pond" class="flickr-photo" /></a>

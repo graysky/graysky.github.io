@@ -3,6 +3,7 @@ wordpress_id: 277
 title: Wes Anderson & <i>The Darjeeling Limited</i> at the Brattle
 wordpress_url: http://graysky.org/2007/10/brattle-wes-anderson-darjeeling-limited/
 layout: post
+categories: [culture]
 ---
 <div class="flickr-frame flickr-float"><a href="http://www.flickr.com/photos/downtree/1548883486/" title="Wes Anderson"><img src="http://farm3.static.flickr.com/2332/1548883486_fc2b14222f_m.jpg" class="flickr-photo-left" width="240" height="180" alt="Wes Anderson"/></a>
 <span class="caption">Anderson (right) during Q&A <sup><a href="#darjeeling1">[1]</a></sup></span>

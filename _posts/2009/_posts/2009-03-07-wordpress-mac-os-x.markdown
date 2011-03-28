@@ -1,8 +1,7 @@
 --- 
-wordpress_id: 699
 title: Wordpress on OS X
-wordpress_url: http://graysky.org/?p=699
 layout: post
+categories: [code]
 ---
 This here blog just got a facelift. The design had been feeling too busy and I wanted something cleaner and simpler. It remains to be seen whether this change will lead to me <em>actually</em> posting more often. As part of creating a new theme I decided to setup a copy of my blog on my Mac for easier developing. The live version is hosted on an Ubuntu slice which makes it hard to easily edit, as well as <a href="http://wordpress.org/">Wordpress</a> only supporting one active theme at a time. And my blog has enough cruft that I wanted to test the new theme with real data, not just <em>lorem ipsum</em> filler. These are the steps I followed to get it working, including a few wrinkles to be worked around:
 <ul>

@@ -3,6 +3,7 @@ wordpress_id: 131
 title: Upcoming Boston BarCamp 2 at MIT
 wordpress_url: http://208.75.86.216/?p=131
 layout: post
+categories: [tech]
 ---
 The <a href="http://barcamp.pbwiki.com/BarCampBoston2">2nd Boston BarCamp</a> (properly pronounced BAH-camp) is just about <a href="http://upcoming.org/event/147080/">one month away</a>. It will be on Saturday March 17th and Sunday 18th and being held the quirky <a href="http://flickr.com/search/?q=stata%20center&w=all">Stata Center at MIT</a>. Coincidently that is also St. Patrick's Day weekend, a popular event in Boston, so we'll see if that impairs activities on Sunday morning. 
 

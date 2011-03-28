@@ -1,19 +1,19 @@
 --- 
 title: Reverse the Startup Curse
 layout: post
-categories: [startups]
+categories: [tech]
 ---
 <div class="flickr-frame"><img src="/images/reverse_curse.png" class="flickr-photo" /></div>
 
 <div style="text-align: center; margin-bottom: 8px;">
-<small>[This post originally appeared on the <a href="http://greenhornconnect.com/blog/mike-champion-reversing-curse">Greenhorn Connect</a> blog]</small>
+<small>[This post originally appeared as a guest post on <a href="http://greenhornconnect.com/blog/mike-champion-reversing-curse">Greenhorn Connect</a>]</small>
 </div>
 
 I was born and raised in the Boston area so the most recent <a href="http://www.boston.com/business/technology/innoeco/2011/03/whats_the_point_of_boston_vs_s.html" rel="nofollow">dust</a> <a href="http://techcrunch.com/2011/03/04/my-ordeal%E2%80%94and-the-firestorm%E2%80%94in-boston/" rel="nofollow">up</a> about Boston vs Silicon Valley has me comparing it to Beantown's previous long-lived case of self-flagellation - <a href="http://en.wikipedia.org/wiki/Curse_of_the_Bambino">The Curse of the Bambino</a>.
 
 For the Red Sox it was the trading of Babe Ruth, while for Boston web startups, it was the loss of Zuckerberg and Facebook to Palo Alto. That sin has cast loads of self-doubt on whether Boston can ever truly compete, often with those in the Boston tech scene being the most critical of its shortcomings. Like Red Sox Nation living under The Curse, those in the Boston startup community can often feel like losers despite being in the 2nd (or perhaps 3rd) best market to start a company. Compare this to the confidence of those from Boulder who have the Moneyball-era Athletics' knowledge that they are punching above their weight for a city of 100,000.
 
-The good news is that we're no longer in our <a href="http://en.wikipedia.org/wiki/Mo_Vaughn">Mo Vaughn</a> / <a href="http://en.wikipedia.org/wiki/Mike_Greenwell">Mike Greenwell</a> era of frequent disappointments. During my five years around the Boston startup community I've seen <a href="http://www.robgo.org/post/653240595/an-entrepreneurial-renaissance-in-boston">things improve considerably</a>  to where I think we're <a href="http://www.quora.com/Boston/What-is-the-entrepreneurial-startup-scene-like-in-the-Greater-Boston-Area-in-2011">assembling our "2004" roster</a>:
+The good news is that we're no longer in our <a href="http://en.wikipedia.org/wiki/Mo_Vaughn">Mo Vaughn</a> / <a href="http://en.wikipedia.org/wiki/Mike_Greenwell">Mike Greenwell</a> era of frequent disappointments. During <a href="/2005/10/startup-school/">my five years</a> around the Boston startup community I've seen <a href="http://www.robgo.org/post/653240595/an-entrepreneurial-renaissance-in-boston">things improve considerably</a>  to where I think we're <a href="http://www.quora.com/Boston/What-is-the-entrepreneurial-startup-scene-like-in-the-Greater-Boston-Area-in-2011">assembling our "2004" roster</a>:
 
 <ul>
 	<li>Like <strong>David Ortiz</strong>, Hubspot is <a href="http://www.hubspot.com/blog/bid/10491/Sequoia-Google-Ventures-and-Salesforce-com-Invest-32-Million-in-HubSpot">swinging for the fences</a> with their recent $32M raise, and <a href="http://twitter.com/dharmesh">Dharmesh "Big Papi" Shah</a> has shown how to remain a hacker while dominating marketing and growing a company filled with talented folks.<a href="#investors"><small><sup>[1]</sup></small></a></li>

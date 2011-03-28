@@ -3,6 +3,7 @@ wordpress_id: 19
 title: "Atul Gawande: Complications"
 wordpress_url: http://208.75.86.216/?p=19
 layout: post
+categories: [culture]
 ---
 On a recent visit to <a href="http://www.brighamandwomens.org">Brigham and Women's Hospital</a> I noticed that their elavator doesn't have a 13th floor button (they had a floor labeled M2 somewhere below I believe). I know this is a common practice, but I'd have thought that for an institution based on science they might have forgone this <a href="http://www.everything2.com/index.pl?node=The%20Thirteenth%20Floor">superstition</a>. And does simply not labeling a floor avoid the bad luck? There <i>still is</i> a 13th floor after all.
 

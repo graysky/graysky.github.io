@@ -1,6 +1,7 @@
 --- 
 title: "Making Twitter an Information Network"
 layout: post
+categories: [tech]
 ---
 
 <div class="flickr-frame" style="margin-bottom: 14px;"><img src="/images/wheat_chaff.png" class="flickr-photo" /></div>

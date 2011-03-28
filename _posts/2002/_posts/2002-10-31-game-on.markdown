@@ -3,6 +3,7 @@ wordpress_id: 8
 title: Game On
 wordpress_url: http://208.75.86.216/?p=8
 layout: post
+categories: [culture]
 ---
 Last night's <a href="http://www.nbc.com/The_West_Wing/index.html">West Wing</a> episode <a href="http://www.televisionwithoutpity.com/story.cgi?show=4&story=4028">"Game On"</a> was great. The Bartlett debate, a crotchety <a href="http://us.imdb.com/Name?Holbrook,+Hal">Hal Holbrook</a> and even <a href="http://us.imdb.com/Title?0094582">Winnie Cooper</a> (well, the <a href="http://us.imdb.com/Name?McKellar,%20Danica">actress</a> anyway). <a href="http://www.televisionwithoutpity.com/ijsbb/forum.cgi?action=list&forum=31&idtopic=1880591&fromdays=10&s=date&g=0">Discuss</a>.
 

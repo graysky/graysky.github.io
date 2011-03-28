@@ -1,8 +1,7 @@
 --- 
-wordpress_id: 625
 title: Breville Kettle & Good Design
-wordpress_url: http://graysky.org/?p=625
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame flickr-float-right"><a href="http://www.flickr.com/photos/downtree/2268719253/" title="Fancy Pants Kettle"><img src="http://farm3.static.flickr.com/2395/2268719253_58f82068fc_m.jpg" width="160" height="240" alt="Fancy Pants Kettle" class="flickr-photo-right"/></a>
 </div>

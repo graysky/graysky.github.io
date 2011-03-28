@@ -3,6 +3,7 @@ wordpress_id: 165
 title: Tamrac Messenger Camera Bag
 wordpress_url: http://208.75.86.216/?p=165
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/446815469/" title="Tamrac Messenger Bag"><img src="http://farm1.static.flickr.com/211/446815469_e748e30803.jpg" class="flickr-photo" width="500" height="333" alt="Tamrac Messenger Camera Bag" /></a>
 </div>

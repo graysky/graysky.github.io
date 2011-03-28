@@ -3,6 +3,7 @@ wordpress_id: 317
 title: Drive-By Truckers at the Paradise
 wordpress_url: http://graysky.org/2008/03/drive-by-truckers-paradise/
 layout: post
+categories: [music]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/2353779186/" title="Drive-By Truckers by graysky., on Flickr"><img src="http://farm3.static.flickr.com/2259/2353779186_630604f839.jpg" class="flickr-photo" width="500" height="375" alt="Drive-By Truckers" /></a>

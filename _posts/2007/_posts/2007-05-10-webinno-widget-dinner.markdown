@@ -3,6 +3,7 @@ wordpress_id: 189
 title: Web Innovators Dinner on Widgets
 wordpress_url: http://graysky.org/2007/05/webinno-widget-dinner/
 layout: post
+categories: [tech]
 ---
 Last night I went to the first <a href="http://www.webinnovatorsgroup.com/">Boston Web Innovators</a> dinner, focused on the topic of widgets. The event was organized by <a href="http://www.genuinevc.com">David Beisel</a> and held at the Cambridge offices of <a href="http://www.venrock.com">Venrock</a>. The <a href="http://www.webinnovatorsgroup.com/blog/2007/04/03/first-webinno-dinner-group-%e2%80%93-widgets-and-advertising/">concept of the evening</a> was to pick a theme for discussion and have a smaller gathering (10-15) than at the normal WebInno demo & networking events, which have grown quite large. Among those in attendance there seemed to be a range of familiarity with widgets; including those actively building and marketing them, to those trying to understand how to market and monetize them, or just wondering if <a href="http://www.msnbc.msn.com/id/16329739/site/newsweek/">2007 will be the year of the widget</a>. A few highlights and thoughts:
 

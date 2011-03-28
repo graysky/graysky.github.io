@@ -3,5 +3,6 @@ wordpress_id: 206
 title: Once
 wordpress_url: http://graysky.org/2007/07/once-film/
 layout: post
+categories: [culture, music]
 ---
 Went to see <a href="http://en.wikipedia.org/wiki/Once_%28film%29">"Once"</a> on Saturday. Brilliant. Or grand. Or fuckin' cool, to use four words that show up repeatedly in the dialogue. The music makes the film and I'll likely pick up the soundtrack. The script stays free of irony and sentimentality, which is too rare. Could have used subtitles at times to decypher the Irish accent, like in <a href="http://imdb.com/title/tt0460989/">"The Wind That Shakes the Barley"</a>.

@@ -3,6 +3,7 @@ wordpress_id: 191
 title: Andrew Bird at Berklee
 wordpress_url: http://graysky.org/2007/05/andrew-bird-berklee/
 layout: post
+categories: [music]
 ---
 Last night <a href="http://www.andrewbird.net/">Andrew Bird</a> played at the <a href="http://tourb.us/show/28842-Andrew_Bird-Joan_As_Policewoman-Berklee_Performance_Center-Boston-MA">Berklee Performance Center to a full house</a>. I caught the tail end of the opener, Joan as Policewoman, and agreed fully with something she said -- it is great to hear music in a space built with good acoustics. The <a href="http://www.berkleebpc.com/">Berklee hall</a> is oddly long and narrow, meaning a lot of the seats are far away from the stage, but the sound more than makes up for it.
 

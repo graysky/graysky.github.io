@@ -3,6 +3,7 @@ wordpress_id: 10
 title: IBM Acquires Rational
 wordpress_url: http://208.75.86.216/?p=10
 layout: post
+categories: [tech, personal]
 ---
 <a href="http://www.rational.com/news/press/pr_view.jsp?ID=8361">IBM and Rational Software Sign Agreement for IBM to Acquire Rational</a>.
 

@@ -3,6 +3,7 @@ wordpress_id: 304
 title: Greasemonkey Tips
 wordpress_url: http://graysky.org/2008/02/greasemonkey-tips/
 layout: post
+categories: [code]
 ---
 I've been working on a little <a href="http://www.greasespot.net/">Greasemonkey</a> hack recently and learned a few things I wish I knew at the outset:
 

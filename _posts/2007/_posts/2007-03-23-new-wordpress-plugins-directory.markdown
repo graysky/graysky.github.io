@@ -3,6 +3,7 @@ wordpress_id: 155
 title: New WordPress Plugins Directory
 wordpress_url: http://208.75.86.216/?p=155
 layout: post
+categories: [code]
 ---
 I recently saw that <a href="http://wordpress.org">WordPress</a> launched a <a href="http://wordpress.org/extend/plugins/">new plugins directory</a> [<a href="http://laughingsquid.com/wordpress-launches-new-plugin-directory/">via</a>]. Plugins are an enjoyable way to spend too much time tweaking your blog, but previously they were rather scattered and many outdated. Having sifted through the directory a bit, here are my top 5 (different from those <a href="http://graysky.org/2007/03/moved-to-wordpress/">mentioned before</a>):
 

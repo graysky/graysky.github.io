@@ -3,6 +3,7 @@ wordpress_id: 71
 title: Not Entirely Random
 wordpress_url: http://208.75.86.216/?p=71
 layout: post
+published: false
 ---
 In the NYTimes magazine's Year of Ideas, the most puzzling and interesting was entitled <a href="http://www.nytimes.com/2003/12/14/magazine/14COINCIDENCE.html">"Coincidence Theory"</a>. It describes 20 years of research into whether humans can change the outcome of a random number generator. The answer so far is yes, in a tiny way. From the article:
 

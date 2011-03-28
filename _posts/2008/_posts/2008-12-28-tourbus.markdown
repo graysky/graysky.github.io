@@ -3,6 +3,7 @@ wordpress_id: 528
 title: Farewell tourb.us
 wordpress_url: http://graysky.org/?p=528
 layout: post
+categories: [music, tech, personal]
 ---
 <div class="flickr-frame">
 <img src="http://graysky.org/images/tourbus.png" width="286" height="81" alt="tourb.us" title="tourb.us" class="flickr-photo"/>

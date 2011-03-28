@@ -3,6 +3,7 @@ wordpress_id: 158
 title: 245 Grove Street
 wordpress_url: http://208.75.86.216/?p=158
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/436970821/" title="245 Grove Street"><img src="http://farm1.static.flickr.com/149/436970821_1108299933.jpg" class="flickr-photo" width="500" height="286" alt="245 Grove Street"/></a>
 </div>

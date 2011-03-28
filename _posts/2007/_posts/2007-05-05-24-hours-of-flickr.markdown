@@ -3,6 +3,7 @@ wordpress_id: 188
 title: 24 Hours of Flickr
 wordpress_url: http://graysky.org/2007/05/24-hours-of-flickr/
 layout: post
+categories: [photography]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/485851237/" title="Forest Gate"><img src="http://farm1.static.flickr.com/229/485851237_9e890725a1.jpg" class="flickr-photo" width="500" height="333" alt="Forest Gate"/></a>
 </div>

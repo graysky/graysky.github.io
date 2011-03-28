@@ -3,6 +3,7 @@ wordpress_id: 94
 title: LogWatcher 1.4.0.1 Released
 wordpress_url: http://208.75.86.216/?p=94
 layout: post
+categories: [code]
 ---
 <a href="http://sourceforge.net/projects/graysky">LogWatcher 1.4.0.1</a> was released recently. LogWatcher is an Eclipse plugin like <code>tail</code> to watch log files. New features in 1.4 include:
 

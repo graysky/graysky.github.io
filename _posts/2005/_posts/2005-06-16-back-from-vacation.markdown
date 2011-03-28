@@ -3,6 +3,7 @@ wordpress_id: 103
 title: Back From Vacation
 wordpress_url: http://208.75.86.216/?p=103
 layout: post
+categories: [personal, photography]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/280264240/" title="Coast in Aquinnah"><img src="http://farm1.static.flickr.com/91/280264240_532b9eb973.jpg" class="flickr-photo" width="500" height="375" alt="Coast in Aquinnah" /></a>

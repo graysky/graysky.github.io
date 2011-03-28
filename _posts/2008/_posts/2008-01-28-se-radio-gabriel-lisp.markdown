@@ -3,6 +3,7 @@ wordpress_id: 296
 title: "Software Engineering Radio: Richard Gabriel on Lisp"
 wordpress_url: http://graysky.org/2008/01/se-radio-gabriel-lisp/
 layout: post
+categories: [tech]
 ---
 <div class="flickr-frame flickr-float"><a href="http://www.flickr.com/photos/downtree/1464974342/" title="LISP Machine by graysky., on Flickr"><img src="http://farm2.static.flickr.com/1186/1464974342_9deb6732d5_m.jpg" class="flickr-photo-left" width="160" height="240" alt="LISP Machine"/></a>
 <span class="caption"><a href="http://en.wikipedia.org/wiki/Lisp_machine">CADR LISP Machine</a>, <br/> MIT Museum</span>

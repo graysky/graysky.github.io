@@ -3,6 +3,7 @@ wordpress_id: 30
 title: Fair And Balanced
 wordpress_url: http://208.75.86.216/?p=30
 layout: post
+categories: [culture]
 ---
 Been enjoying reading about the <a href="http://www.nytimes.com/2003/08/12/nyregion/12FRAN.html">lawsuit Fox News filed against humorist Al Franken</a> about the use of the words "Fair and Balanced" in the title of his book <a href="http://www.amazon.com/exec/obidos/ASIN/0525947647/mikechampion ">"Lies, and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right"</a> (which has a <a href="http://images.amazon.com/images/P/0525947647.01.LZZZZZZZ.jpg">great cover shot</a>).
 

@@ -3,6 +3,7 @@ wordpress_id: 298
 title: "Daily Commute: The Movie"
 wordpress_url: http://graysky.org/2008/01/daily-commute-movie/
 layout: post
+categories: [photography]
 ---
 <div class="video-frame">
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/KHL2cVaFcqs"></param><embed src="http://www.youtube.com/v/KHL2cVaFcqs" type="application/x-shockwave-flash" width="425" height="350"></embed></object>

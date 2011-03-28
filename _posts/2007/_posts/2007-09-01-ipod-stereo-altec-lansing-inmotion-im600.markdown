@@ -3,6 +3,7 @@ wordpress_id: 255
 title: Altec Lansing inMotion iPod Stereo
 wordpress_url: http://graysky.org/2007/09/ipod-stereo-altec-lansing-inmotion-im600/
 layout: post
+categories: [music, tech]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/1295490735/" title="Altec Lansing inMotion iM600 Portable Audio System for iPod"><img src="http://farm2.static.flickr.com/1403/1295490735_1063c4d4e3.jpg" class="flickr-photo" width="500" height="333" alt="Altec Lansing inMotion iM600 Portable Audio System for iPod"/></a>
 </div>
