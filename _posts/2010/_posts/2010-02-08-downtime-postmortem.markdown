@@ -1,7 +1,7 @@
 --- 
 title: Downtime Postmortem
 layout: post
-categories: [tech]
+categories: [code]
 ---
 
 Since joining <a href="http://oneforty.com">oneforty</a> last summer lots of things have gone well, but the mistakes we've made are usually more educational. The following is an attempt to capture the events that led to a brief site outage and some lessons learned.

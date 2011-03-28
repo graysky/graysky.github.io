@@ -74,81 +74,9 @@
 			{{ content }}
 		</div><!-- end content -->
 	
-	<!-- sidebar -->
-	<div id="sidebar" class="prepend-1 span-7 last">
-	{% if site.about_page != page.permalink %}
-
-	<h3>Welcome</h3>
-	<div class="clear clearfix" style="margin-top: 8px; margin-bottom: 20px;">
-		<div style="float: left;">
-	  	<div class="profile-pic" style="margin-right: 6px; padding-top: 2px;">
-				<img src="/images/mike_champion3.png" alt="Mike Champion"/>
-	  	</div>
-	  </div>
-			<p>Hi, I'm <a href="/mike-champion">Mike Champion</a>.
-				<br />
-				I'm a pragmatic developer working for a startup in Cambridge, MA.
-				<br /><a href="/mike-champion">Read more &raquo;</a>
-			</p>
-	</div>
-
-	<p><a href="http://twitter.com/graysky"><img src='/images/twitter_small_icon.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://twitter.com/graysky">Follow me on Twitter: @graysky</a></p>
-
-	<p><a href="http://feeds.feedburner.com/graysky"><img src='/images/feed16.png' width='16px' height='16px' style="vertical-align:middle;border:0;margin:0 1px 4px 0;padding:0" /></a> <a href="http://feeds.feedburner.com/graysky">Subscribe to RSS feed</a>
-	</p>
-
-	<h3 style="margin-top: 26px;">Recent Posts</h3>
-	<ul class="sidebar-posts">
-		{% for post in site.posts %}
-	  	{% if forloop.index < 6 %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a>
-			{% endif %}
-	  {% endfor %}
-		<li style="font-size: .85em; font-weight: bold;"><a href="/archives">Full Archives &raquo;</a></li>
-		<li>
-			<!-- Google CSE Search Box -->
-			<form id="searchbox_000048401782643744254:xf_7jq_yk0u" action="http://www.google.com/search">
-			  <input type="hidden" name="cx" value="000048401782643744254:xf_7jq_yk0u" />
-			  <input type="hidden" name="cof" value="FORID:1" />
-			  <input name="q" id="searchbox" type="text" size="18" style="background-color: #fafafa;" />
-			  <input type="submit" id="searchsubmit" name="sa" value="Search" />
-			</form>
-		</li>
-	</ul>
-
-	<!--
-	<h3 style="margin-top: 26px;">Popular Posts</h3>
-	<ul class="sidebar-posts">
-		<li><a href="/2009/06/textmate-project-refresh-focus/">TextMate Project Tree Refresh</a></li>
-		<li><a href="/2009/03/translator-rails-i18n/">Translator - Rails i18n Simplifier</a></li>
-		<li><a href="/2008/12/git-branch-auto-tracking/">Git Branch Auto-Tracking</a></li>
-		<li><a href="/2008/12/tourbus/">Farewell tourb.us</a></li>
-		<li><a href="/2008/09/boston-contemporary-architecture/">Boston Contemporary Architecture</a></li>
-	</ul>
-	-->
-	
-	<h3 style="margin-top: 26px;">Recent Tweets</h3>
-	<ul id="twitter_update_list" class="sidebar-posts"></ul>
-	
-	{% endif %}
-	</div><!-- end sidebar -->
-</div> <!-- end page -->
-
-<div id="footer">
-  <div id="footer-license" style="text-align: center">
-  	Some rights reserved - <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (by-nc-sa)</a>
-  </div>
-</div> <!-- end footer -->
-
-<script>
-$(document).ready(function() {
-	// Add my tweets to the page
-	$.get("http://api.twitter.com/1/graysky/lists/my-public-tweets/statuses.json?page=1&per_page=3", function(data, textStatus) {
-			twitterCallback2(data);
-		},
-		"jsonp"
-	);
-});
-</script>
+		<!-- sidebar -->
+		{% include sidebar.html %}
+	</div> <!-- end page -->
+{% include footer.html %}
 </body>
 </html>

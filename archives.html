@@ -13,7 +13,7 @@ Search the archives: {% include search.html %}
 <ul class="past-posts">
 {% for cat in site.categories %}
 <li style="margin-left: 10px; margin-">
-<a href="/category/{{ cat.first }}">{{ cat.first }}</a>
+<a href="/category/{{ cat.first }}">{{ cat.first | capitalize }}</a>
 </li>
 {% endfor %}
 </ul>
