@@ -3,6 +3,7 @@ wordpress_id: 57
 title: Rock the Electoral College
 wordpress_url: http://208.75.86.216/?p=57
 layout: post
+categories: [culture]
 ---
 Looks like <a href="http://www.generationdean.com/rockthevote/boston.php">Howard Dean will be at Faneuil Hall</a> tonight for a <a href="http://www.forumforamerica.com/index.php?showtopic=248">Rock the Vote debate forum</a>. Not quite sure what a "debate forum" means, but I'm guessing it means giving part of the stump speech and answering a few questions. Supporters are watching from The Rack, which I think is the bar that Revere and Hancock often frequented in their day.
 

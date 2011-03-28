@@ -3,6 +3,7 @@ wordpress_id: 105
 title: Lessons for Desktop Linux from OSX
 wordpress_url: http://208.75.86.216/?p=105
 layout: post
+categories: [tech]
 ---
 The web has been <a href="http://www.userscape.com/blog/2005/07/18/why-gnome-cant-make-it-to-your-desktop/">abuzz recently</a> with talk about the much-fabled "linux on the desktop". I think it is going to be a while before you find a non-technical friend making "got root?" jokes and installing linux on their desktop, no matter how cool they think the screenshots of <a href="http://www.nat.org/2005/february/#9-February-2005">Xgl effects are</a>. But there is a shining example of what is possible, and it comes from <a href="http://www.apple.com/macosx/">Apple's OSX</a>.
 

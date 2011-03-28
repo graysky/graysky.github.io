@@ -3,7 +3,7 @@ wordpress_id: 299
 title: Super Tuesday
 wordpress_url: http://graysky.org/2008/02/super-tuesday/
 layout: post
-categories: [misc, personal]
+categories: [culture, personal]
 ---
 <div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2244439360/" title="Super Tuesday"><img src="http://farm3.static.flickr.com/2393/2244439360_4e8a7224e3.jpg" class="flickr-photo" width="333" height="500" alt="Super Tuesday" /></a>
 </div>

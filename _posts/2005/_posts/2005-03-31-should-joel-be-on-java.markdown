@@ -3,6 +3,7 @@ wordpress_id: 96
 title: Should Joel be on Java?
 wordpress_url: http://208.75.86.216/?p=96
 layout: post
+categories: [code, tech]
 ---
 I'm a fan of Joel's writing on software development but was struck by the series of technical hurdles he addressed in today's installment of the <a href="http://www.joelonsoftware.com/articles/FogBugzIII.html">Road to FogBugz 4.0</a> because they aren't the typical problems that need to be solved in Java-land. (I'm not trying to spark a language holy-war, I was just intrigued to see the time and effort that went into solving problems that I think are largely solved for Java-based web applications.)
 

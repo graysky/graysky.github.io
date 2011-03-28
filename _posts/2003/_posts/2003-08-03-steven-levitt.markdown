@@ -3,6 +3,7 @@ wordpress_id: 23
 title: Steven Levitt
 wordpress_url: http://208.75.86.216/?p=23
 layout: post
+categories: [culture]
 ---
 NYTimes profile of <a href="http://www.nytimes.com/2003/08/03/magazine/03LEVITT.html">interesting, young, Clark Medal-winning economist Steven Levitt</a>. Why didn't I know <a href="http://www.src.uchicago.edu/users/levit/">about him</a> when I was in school? He could have been my role model. Or if I had known about <a href="http://www.theconnection.org/shows/2003/08/20030801_b_main.asp">Bill James</a>, who now works for the Red Sox and was discussed in the great book <a href="http://www.amazon.com/exec/obidos/ASIN/0393057658/mikechampion">Moneyball</a>. Maybe the lure of statistics could have kept me out of the software game. Maybe not.
 

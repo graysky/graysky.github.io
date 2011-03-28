@@ -3,7 +3,6 @@ wordpress_id: 292
 title: Fake Steve on Lotus Notes on the iPhone
 wordpress_url: http://graysky.org/2008/01/fake-steve-ibm-notes-iphone/
 layout: post
-categories: [misc]
 ---
 <a href="http://fakesteve.blogspot.com/2008/01/oxymoron-of-week.html">Fake Steve's post on IBM's most influential and Lotus Notes on the iPhone</a> is painfully funny.
 

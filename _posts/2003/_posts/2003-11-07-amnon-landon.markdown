@@ -3,6 +3,7 @@ wordpress_id: 58
 title: Amnon Landon
 wordpress_url: http://208.75.86.216/?p=58
 layout: post
+categories: [tech]
 ---
 Forbes' profiled <a href="http://www.mercuryinteractive.com/pdf/company/forbes_amnon_eoty1003.pdf">Amnon Landon</a>, and named him their Entrepreneur of the Year. Landon is the CEO of <a href="http://www.mercuryinteractive.com">Mercury Interactive</a>, a competitor in many markets to <a href="http://www.rational.com">my employer</a>. An interesting story about his leap from being an Israeli paratrooper to a software CEO, but mostly I'm curious to see how Forbes describes the business of software testing and tools. Whenever I read something in the popular press that I feel I know something about, I'm struck by how much they tend to rely on metaphors that can give the wrong picture. Or they make simplifications that I'm not sure are supported by the facts. For instance, the article says:
 

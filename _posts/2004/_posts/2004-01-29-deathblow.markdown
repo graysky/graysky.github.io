@@ -3,6 +3,7 @@ wordpress_id: 80
 title: Deathblow
 wordpress_url: http://208.75.86.216/?p=80
 layout: post
+categories: [code]
 ---
 Finally finished this <a href="http://courses.dce.harvard.edu/~cscie234/">computer graphics</a> class and submitted our final project. We made a small 3D first person shooter using OpenGL. Because we aren't artistic at all, we loaded Quake 3 maps and Quake 2 MD2 animated models. We named it DeathBlow, which works because <i>why</i> the aliens want to kill you is for "some different reasons all together" since we didn't create much of a backstory. (There was no John Romero-types on this project.)
 

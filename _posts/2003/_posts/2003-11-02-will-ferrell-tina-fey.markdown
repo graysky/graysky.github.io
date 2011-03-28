@@ -3,6 +3,7 @@ wordpress_id: 56
 title: Will Ferrell &#038; Tina Fey
 wordpress_url: http://208.75.86.216/?p=56
 layout: post
+categories: [culture]
 ---
 A pair of good comedian articles this week. <a href="http://www.theonionavclub.com/3942/feature1.html">Will Ferrell interviewed</a> in the OnionAV and SNL headwriter <a href="http://www.newyorker.com/fact/content/?031103fa_fact">Tina Fey profiled in the New Yorker</a>. Among the funny bits of hers they quote, I liked this one from Weekend Update:
 

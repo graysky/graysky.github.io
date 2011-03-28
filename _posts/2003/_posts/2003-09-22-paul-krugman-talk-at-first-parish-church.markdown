@@ -3,6 +3,7 @@ wordpress_id: 39
 title: Paul Krugman Talk at First Parish Church
 wordpress_url: http://208.75.86.216/?p=39
 layout: post
+categories: [culture]
 ---
 Last Friday I heard NY Times columnist <a href="http://www.nytimes.com/ref/opinion/KRUGMAN-BIO.html">Paul Krugman</a> be <a href="http://blogs.law.harvard.edu/lydon/2003/09/20#a331">interviewed by Chris Lydon</a> at the <a href="http://www.firstparishcambridge.org">First Parish Church</a> in Harvard Square. (<a href="http://www.npr.org/display_pages/features/feature_1427001.html">He also appeared on Fresh Air</a> the same day.) Krugman spoke to the packed crowd on topics from his new book, <a href="http://www.amazon.com/exec/obidos/ASIN/0393058506/mikechampion/">"The Great Unraveling"</a>.
 

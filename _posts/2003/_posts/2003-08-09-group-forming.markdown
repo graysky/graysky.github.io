@@ -3,6 +3,7 @@ wordpress_id: 27
 title: Group Forming
 wordpress_url: http://208.75.86.216/?p=27
 layout: post
+categories: [tech]
 ---
 Really enjoyed reading Clay Shirky's speech, <a href="http://www.shirky.com/writings/group_enemy.html">"A Group Is Its Own Worst Enemy"</a>. Mentions that most weblogs are <i>not</i> group-forming and mostly used to broadcast. Which is fine and good but less revolutionary than their supporters would have you believe. Lowering the barrier to publishing can be a great thing but doesn't tap into the value creation of <a href="http://www.reed.com/gfn/">group forming networks</a>. 
 

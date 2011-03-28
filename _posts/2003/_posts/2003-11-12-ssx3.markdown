@@ -3,6 +3,7 @@ wordpress_id: 61
 title: SSX3
 wordpress_url: http://208.75.86.216/?p=61
 layout: post
+categories: [personal]
 ---
 <center><a href="http://www.gamespot.com/ps2/sports/ssx3/preview_6075289.html">
 <img src="http://graysky.org/pics/ssx_screen.jpg" border="0" width="450" height="300" alt="SSX3">

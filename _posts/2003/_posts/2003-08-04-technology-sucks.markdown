@@ -3,6 +3,7 @@ wordpress_id: 24
 title: Technology Sucks
 wordpress_url: http://208.75.86.216/?p=24
 layout: post
+categories: [tech]
 ---
 New toys are great, but they always seem to come with some frustration. Some recent examples:
 

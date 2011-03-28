@@ -3,6 +3,7 @@ wordpress_id: 7
 title: It Begins
 wordpress_url: http://208.75.86.216/?p=7
 layout: post
+categories: [personal]
 ---
 Just testing out this new(est) blog-fangled technology. 
 

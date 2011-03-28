@@ -3,6 +3,7 @@ wordpress_id: 21
 title: Flash Mob
 wordpress_url: http://208.75.86.216/?p=21
 layout: post
+categories: [culture]
 ---
 The <a href="http://www.boston.com/dailyglobe2/206/metro/Shock_tactics+.shtml">Boston Globe reports</a> that a "flash mob" will be performing some stunt on Thursday in Harvard Square around 6pm.
 

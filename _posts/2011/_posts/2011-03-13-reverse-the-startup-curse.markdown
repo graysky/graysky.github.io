@@ -1,7 +1,7 @@
 --- 
 title: Reverse the Startup Curse
 layout: post
-categories: [startups]
+categories: [tech]
 ---
 <div class="flickr-frame"><img src="/images/reverse_curse.png" class="flickr-photo" /></div>
 

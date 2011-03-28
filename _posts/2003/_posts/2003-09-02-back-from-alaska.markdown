@@ -3,6 +3,7 @@ wordpress_id: 34
 title: Back From Alaska
 wordpress_url: http://208.75.86.216/?p=34
 layout: post
+categories: [photography, personal]
 ---
 <div class="flickr-frame">
 <a href="http://www.flickr.com/photos/downtree/280311203/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/87/280311203_429e3b0a47.jpg" class="flickr-photo" width="500" height="357" alt="Denali Across the Lake" /></a>

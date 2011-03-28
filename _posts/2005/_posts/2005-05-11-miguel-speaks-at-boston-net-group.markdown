@@ -3,6 +3,7 @@ wordpress_id: 98
 title: Miguel Speaks at Boston .Net Group
 wordpress_url: http://208.75.86.216/?p=98
 layout: post
+categories: [code, tech]
 ---
 Tonight I went to hear <a href="http://primates.ximian.com/~miguel/activity-log.php">Miguel de Icaza</a> speak about the <a href="http://www.mono-project.com">Mono project</a> to the <a href="http://www.bostondotnet.org">Boston .Net user group</a>. It was held at the somewhat swanky <a href="http://www.microsoft.com/mscorp/info/usaoffices/newengland/waltham.mspx">Microsoft office in Waltham</a> (several Xboxes on display, very modern looking etc.) The audience was mostly .NET developers which was interesting to see how the other half lives. And maybe I was being hyper-sensitive, but they seemed about 5% different than Java folks - about the same difference between <code>Sysout.out.println</code>
 and <code>System.Console.WriteLine</code>. Not much, just a little.

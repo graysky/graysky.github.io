@@ -3,6 +3,7 @@ wordpress_id: 68
 title: Eclipse Vs. Emacs
 wordpress_url: http://208.75.86.216/?p=68
 layout: post
+categories: [code]
 ---
 After spending the last couple days in an <a href="http://www-3.ibm.com/services/learning/MainServlet.wss?pageType=course_description&country=us&language=en&webLanguage=en&includeNotScheduled=y&courseCode=WSWB1">Eclipse Developers course</a>, a friend asked me what the advantages were to using Eclipse as an IDE over something like Emacs for writing Java. Prior to switching to using Eclipse, I'd primarily used Emacs <a href="http://jdee.sunsite.dk/">with the JDEE</a> and was pretty happy. But here are a few reasons I switched:
 

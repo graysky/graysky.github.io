@@ -3,6 +3,7 @@ wordpress_id: 9
 title: Rational Agents
 wordpress_url: http://208.75.86.216/?p=9
 layout: post
+categories: [culture]
 ---
 Interesting <a href="http://www.nytimes.com/2002/11/05/health/policy/05CONV.html">NY Times article</a> on <a href="http://www.nobel.se/economics/">Economics Nobel</a> winning psychologist <a href="http://www.princeton.edu/%7Epsych/PsychSite/fac_kahneman.html">Daniel Kahneman</a>. He "developed a new understanding of judgments and decisions made under conditions of risk or uncertainty." Which helps explain why people make certain decisions even when the choices have the same expected utility, and aren't the "rational agents" they were traditionally thought to be.
 

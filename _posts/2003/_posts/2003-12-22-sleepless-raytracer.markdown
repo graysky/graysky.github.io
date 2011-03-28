@@ -3,6 +3,7 @@ wordpress_id: 72
 title: Sleepless Raytracer
 wordpress_url: http://208.75.86.216/?p=72
 layout: post
+categories: [code]
 ---
 <center><a href="http://graysky.org/pics/raytracer.jpg">
 <img src="http://graysky.org/pics/raytracer.jpg" border="0" width="300" height="300" alt="Raytracer">

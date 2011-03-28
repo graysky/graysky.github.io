@@ -3,6 +3,7 @@ wordpress_id: 41
 title: Pete Peterson on NOW
 wordpress_url: http://208.75.86.216/?p=41
 layout: post
+categories: [culture]
 ---
 <a href="http://www.pbs.org/now/series/billmoyers.html">Bill Moyers</a> reminded me why I like him on <a href="http://www.pbs.org/now/index.html">NOW</a> this week with his <a href="http://www.pbs.org/now/transcript/transcript_peterson.html">interview of FRB of New York Chairman Pete Peterson</a> talking about the current deficit and future liabilities to retiring Boomers. Very enlightening, and Peterson deftly sidesteps Moyers attempt to use Peterson's claim soley as an anti-tax cut message (although he makes reasonable suggestions to modify the tax cut).
 

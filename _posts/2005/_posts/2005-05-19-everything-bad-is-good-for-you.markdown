@@ -3,6 +3,7 @@ wordpress_id: 100
 title: Everything Bad is Good for You
 wordpress_url: http://208.75.86.216/?p=100
 layout: post
+categories: [culture]
 ---
 If I was 10 years old and wanted my parents to get me a PS3 I would run out and buy them a copy of Steven Johnson's <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1573223077/">Everything Bad Is Good for You</a>. I haven't read the book yet (who has an attention span that long these days?), but heard him on <a href="http://www.theconnection.org/shows/2005/05/20050518_a_main.asp">The Connection</a> and read <a href="http://www.newyorker.com/critics/books/articles/050516crbo_books">Gladwell's recent review</a>. Johnson discusses how television has changed to be <i>harder</i> and more complex than tv used to be, and he hypothosizes that this explains the <a href="http://en.wikipedia.org/wiki/Flynn_effect">Flynn effect</a>. The density of a show is something that draws me in, and helps explain why I can repeatedly watch the same episode of the Simpsons, Six Feet Under or the West Wing without being bored. I've noticed the difference in watching any of the recent terrible episodes of SNL where they drag 3 jokes out to a 6 minute sketch. Compare that to the hilarious Arrested Development (thankfully picked up for a <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/05/17/AR2005051700885.html">3rd season!</a>) which is both far more clever and where <i>every line</i> is a subtle punchline.
 
