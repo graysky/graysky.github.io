@@ -5,6 +5,26 @@ Blog post ideas:
 -- thinking of it as "hiring" vs "recruiting"
 -- http://www.nytimes.com/2011/03/26/technology/26recruit.html
 
+- http://blog.simeonov.com/2011/03/28/the-three-rules-of-awesome-mobile-hackers/?utm_content=tweetdeck&utm_medium=sim.vc-twitter&utm_source=direct-sim.vc
+
+- http://onstartups.com/tabid/3339/bid/37790/HubSpot-s-First-Shot-in-Boston-Battle-For-Talent-Diabolical-or-Desperate.aspx
+
+http://www.boston.com/business/technology/articles/2011/04/10/at_kayak_the_goal_is_seven_days_from_recruit_to_employee/
+
+http://blog.asmartbear.com/startup-hiring-advice.html
+
+http://www.cenedella.com/job-search/why-don%e2%80%99t-referral-bonus-systems-work/
+
+
+- bostonbattle.com
+- http://devinterviews.pen.io/
+
+
+- Advanced Jekyll
+-- category generator
+-- filters
+
+
 - Twitter post
 -- Original concept like Coke. Surprisingly popular & universal
 -- Still hard to track a full conversation:
