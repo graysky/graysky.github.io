@@ -21,11 +21,9 @@ http://www.sneakerheadvc.com/2011/05/18/in-this-market-you-grow-by-recruiting-no
 - bostonbattle.com
 - http://devinterviews.pen.io/
 
-
 - Advanced Jekyll
 -- category generator
 -- filters
-
 
 - Twitter post
 -- Original concept like Coke. Surprisingly popular & universal
