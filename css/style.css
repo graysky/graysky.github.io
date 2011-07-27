@@ -87,22 +87,21 @@ body {
 
 /* Header */
 #header {
-	margin-top: 10px;
-	margin-bottom: 4px;
+	margin-top: 6px;
+	margin-bottom: 10px;
 }
 
 #header a  {
-	font-family: 'Droid Sans', Arial, HeaderFont, Arial;
+	font-family: 'Droid Sans', HeaderFont, Arial;
 	color: #4F4F4F;
 	font-weight: bold;
-	font-size: 3.5em;
+	font-size: 3.85em;
 	text-shadow: 2px 2px 2px #ddd;
   text-decoration: none;
   text-transform: none;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.05em;
   word-spacing: -0.139em;
   line-height: 1;
-
 	margin-bottom: 0px;
 }
 
@@ -111,13 +110,12 @@ body {
 }
 
 #tagline {
-	font-family: HeaderFont, Arial;
-	font-size: 1.6em;
-	color: #4F4F4F;
-	margin-left: 20px;
-	margin-top: 0px;
+	font-family: 'Open Sans', HeaderFont, Arial;
+	font-size: 1.08em;
+	color: #666;
+	margin-left: 14px;
+	margin-top: 8px;
 	padding-top: 0px;
-	letter-spacing: 0.05em;
 }
 
 /* Push content down */
