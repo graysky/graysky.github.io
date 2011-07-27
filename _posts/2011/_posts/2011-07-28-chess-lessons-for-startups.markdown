@@ -2,7 +2,7 @@
 title: Chess Lessons for Startups
 layout: post
 categories: [tech]
-published: true
+published: false
 ---
 When I was young I played a lot of chess with my father, who is a competitive player, and in several tournaments. (Gee, big surprise I ended up as a technology nerd.) While I was never going to be a Bobby Fischer or <a href="http://www.time.com/time/magazine/article/0,9171,1950939,00.html">Magnus Carlsen</a> I learned lot from playing beyond just the game itself. Several lessons from chess apply to running a startup.
 
@@ -34,3 +34,4 @@ For startups this can mean:
 - Revealing information with each move
 
 - Wish we could study startup games like chess
+- Chess is utterly fair
