@@ -16,7 +16,7 @@ cd /var/www/graysky
 git checkout #{branch}
 git pull origin #{branch}
 rm -rf _site
-jekyll --no-auto
+jekyll --no-auto --no-future
 mv _rollback _rollback_old
 mv _production _rollback
 mv _site _production

@@ -165,8 +165,9 @@ body {
 }
 
 .entrymeta {
+	font-family: 'Open Sans','Helvetica Neue', Arial;
   clear: both;
-  font-size: 0.98em;
+  font-size: 0.95em;
   padding-left: 0px;
   padding-bottom: 0px;
   padding-right: 5px;
