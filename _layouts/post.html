@@ -4,8 +4,8 @@ layout: default
 <div class="entry">
   <div class="entrytitle"><a href="{{ page.url }}"><h1>{{ page.title }}</h1></a></div>
 
-	<div style="margin-bottom: 8px;">
-		<div class="entrymeta post_date">
+	<div style="margin-bottom: 8px;" class="clearfix clear">
+		<div class="entrymeta post_date left">
 			{{ page.date | date: "%B %d, %Y" }}
 			
 			{% if page.categories != null %}
@@ -16,13 +16,22 @@ layout: default
       {% endif %}
 	  </div>
 		
-		<div class="entrysocial">
+		<div class="entrysocial right" style="xborder: 1px solid blue">
+			<!-- Tweet button -->
+			<div class="socialbutton" style="width: 58px;">
 			<a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-count="none" data-via="graysky">Tweet</a>
+			</div>
 			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-			<div style="display: inline-block; vertical-align: 2px; margin-left: 8px;">
+			<!-- Google +1 -->
+			<div class="socialbutton" style="width: 32px;">
+				<g:plusone size="medium" count="false"></g:plusone>
+			</div>
+			<!-- FB Like button -->
+			<div class="socialbutton" style="vertical-align: 2px; width: 125px;">
 				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="{{site.base_url}}{{page.url}}" layout="button_count" show_faces="false" width="120" font="" action="recommend"></fb:like>
 			</div>
 		</div>
+		
 	</div>
 
 	<div class="entrybody">

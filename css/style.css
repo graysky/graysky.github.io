@@ -11,6 +11,39 @@ Author: Mike Champion
 	src: local("Arial");
 }
 
+/* Fix divs with floats shrinking to 0px height - ie.css has IE clearfix */
+.clearfix:after,
+.clearfix-inline:after {
+	content: "\0020";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+	overflow:hidden;
+}
+.clearfix:after {
+  display:block;
+}
+.clearfix-inline:after {
+	display:inline-block;
+}
+.clearfix {
+	display:block;
+}
+.clearfix-inline {
+  display:inline-block;
+}
+
+.clear {
+	clear:both;
+}
+.right {
+	float:right;
+}
+.left { 
+	float:left; 
+}
+
 blockquote {
 	color: #444;
 }
@@ -167,7 +200,7 @@ body {
 .entrymeta {
 	font-family: 'Open Sans','Helvetica Neue', Arial;
   clear: both;
-  font-size: 0.95em;
+  font-size: 1.0em;
   padding-left: 0px;
   padding-bottom: 0px;
   padding-right: 5px;
@@ -180,6 +213,11 @@ body {
 
 .entrysocial {
 	margin-bottom: 20px;
+}
+
+.socialbutton {
+	display: inline-block;
+	margin-left: 10px;
 }
 
 /* Next/Prev Navigation */
