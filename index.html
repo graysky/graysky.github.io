@@ -5,7 +5,7 @@ title: Mike Champion
 {% for post in site.posts %}
 	{% if forloop.index < 4 %}
     <div class="entry">
-      <div class="entrytitle"><a href="{{ post.url }}"><h1>{{ post.title }}</h1></a></div>
+      <div class="entrytitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></div>
 			<div class="entrymeta">
 				{{ post.date | date: "%B %d, %Y" }}
 				{% if post.categories != null %}

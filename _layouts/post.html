@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="entry">
-  <div class="entrytitle"><a href="{{ page.url }}"><h1>{{ page.title }}</h1></a></div>
+  <div class="entrytitle"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
 
 	<div style="margin-bottom: 8px;" class="clearfix clear">
 		<div class="entrymeta post_date left">
@@ -28,18 +28,15 @@ layout: default
 			</div>
 			<!-- FB Like button -->
 			<div class="socialbutton" style="vertical-align: 2px; width: 125px;">
-				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="{{site.base_url}}{{page.url}}" layout="button_count" show_faces="false" width="120" font="" action="recommend"></fb:like>
+				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="{{site.base_url}}{{page.url}}" layout="button_count" show_faces="false" width="120" font="" action="like"></fb:like>
 			</div>
 		</div>
-		
 	</div>
 
 	<div class="entrybody">
 		{{ content }}
 	</div>
-	
   <div class="commentsblock">
     <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/graysky/embed.js"></script><noscript><a href="http://graysky.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
   </div>
 </div>
-
