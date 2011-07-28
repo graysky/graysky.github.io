@@ -3,8 +3,17 @@ published: false
 ---
 # Blog Post Ideas
 
-## Beware Startup Kids:
+## Startup Ping Pong
+- Photos
+- Sign up for next event
 
+## Photographer Pricing
+
+- Adrian's email
+- marking up the commodity
+- competing with JCPenny
+
+## Beware Startup Kids:
 Concerned that they are going to:
 - Learn lessons the hard way
 - Opp cost of not learning from kick-ass graybeards
