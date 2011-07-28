@@ -3,16 +3,12 @@
 This is the code behind my website graysky.org
 
 ## TODO
-
 - "about.me" style front page
--- snippets from recent posts
--- projects / github
--- photo of me or styled photo background?
--- different font?
---- http://www.google.com/webfonts?subset=latin&sort=added
--- Couple that I like as a model:
---- http://about.me/alexis
-
+	- snippets from recent posts
+	- projects / github
+	- photo of me or styled photo background?
+	- Couple that I like as a model:
+		- http://about.me/alexis
 - Excerpts for category view and front page
 - like:
 m = post.match(/<!--SNIPPET-->/)
