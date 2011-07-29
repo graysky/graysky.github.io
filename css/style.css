@@ -377,6 +377,13 @@ tt, code {
   float:right;
 }
 
+.flickr-caption {
+	font-style: italic;
+	font-size: 0.7em;
+	text-align: center;
+	margin-bottom: 8px;
+}
+
 /* Slideshare embed */
 .slideshare-container {
 

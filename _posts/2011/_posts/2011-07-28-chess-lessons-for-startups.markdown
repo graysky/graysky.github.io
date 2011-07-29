@@ -2,9 +2,10 @@
 title: Chess Lessons for Startups
 layout: post
 categories: [tech]
-published: false
+published: true
 ---
-TODO: Need a chess image
+<div class="flickr-frame" style="margin-bottom: 4px;"><img src="/images/chess_battle_lines.jpg" class="flickr-photo" /></div>
+<div class="flickr-caption">Photo by <a href="http://www.flickr.com/photos/aerokev/4378322631/">aerokev</a></div>
 
 When I was young I played a lot of chess with my father, who is a competitive player, and in several tournaments. (Gee, big surprise I ended up as a technology nerd.) While I was never going to be Bobby Fischer or <a href="http://www.time.com/time/magazine/article/0,9171,1950939,00.html">Magnus Carlsen</a> I learned lot from playing beyond just the game itself. I've found that several lessons from chess apply to running a startup.
 
