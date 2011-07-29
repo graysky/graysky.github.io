@@ -4,19 +4,20 @@ layout: post
 categories: [tech]
 published: false
 ---
-When I was young I played a lot of chess with my father, who is a competitive player, and in several tournaments. (Gee, big surprise I ended up as a technology nerd.) While I was never going to be a Bobby Fischer or <a href="http://www.time.com/time/magazine/article/0,9171,1950939,00.html">Magnus Carlsen</a> I learned lot from playing beyond just the game itself. Several lessons from chess apply to running a startup.
+TODO: Need a chess image
+
+When I was young I played a lot of chess with my father, who is a competitive player, and in several tournaments. (Gee, big surprise I ended up as a technology nerd.) While I was never going to be Bobby Fischer or <a href="http://www.time.com/time/magazine/article/0,9171,1950939,00.html">Magnus Carlsen</a> I learned lot from playing beyond just the game itself. I've found that several lessons from chess apply to running a startup.
 
 <h3>Focus on the Middle Game</h3>
 
 In chess there is more written about openings (the Queen's Gambit, the Réti, Dutch defense, etc.) and endgames (mating strategies with various material) than middle games. Similarly more time is spent writing about startup openings (product launch, raising money, first hires) and endgames (acquisitions &amp; exits, scaling big) than the middle game. It is an understandable pattern because the <a href="http://mathworld.wolfram.com/Chess.html">permutations for a chess game are enormous</a> and for startups the middle period tends to be the most particular to their situation and what has come before.
 
-The challenge is that most games are won or lost in the middle. While it is certainly possible to hang yourself during the opening or blunder in the endgame the real competition in the slow grind for positional and material advantage.
+The challenge is that most games are won or lost in the middle. While it is certainly possible to hang yourself during the opening or blunder in the endgame the real competition is in the slow grind for positional and material advantage.
 
-For startups this can mean:
+For startups this <em>middle game</em> can take many forms:
 <ul>
-	<li>Hiring the 10th employee</li>
-	<li>Post-launch when things are so-so</li>
-	<li>Finding right pricing</li>
+	<li><strong>Post-Launch</strong> - After the excitement of launch has dropped off and engagement or sign-ups is only so-so. Should you press ahead because the product is immature and users say they need more. Or should you shift directions?</li>
+	<li><strong>Follow-on Financing</strong> - The seed money is running low and hitting milestones has been harder than estimated. You've learned a lot, made progress but things are not a runway smash.</li>
 	<li>2nd round of financing</li>
 </ul>
 
