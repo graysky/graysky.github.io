@@ -3,6 +3,7 @@ wordpress_id: 33
 title: Larry Summers Profile
 wordpress_url: http://208.75.86.216/?p=33
 layout: post
+categories: [culture]
 ---
 Enjoyed the <a href="http://www.nytimes.com/2003/08/24/magazine/24SUMMERS.html?pagewanted=all">profile of Harvard President Larry Summers</a>. The one time I heard him speak several years ago when he was at the Treasury, dealing with Asian financial crisis, he appeared to be a somewhat blunt and quirky speaker. But someone who genuinely wanted to be convinced by facts.
 

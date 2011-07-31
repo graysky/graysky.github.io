@@ -3,6 +3,7 @@ wordpress_id: 173
 title: Zune &#038; Xbox 360
 wordpress_url: http://208.75.86.216/?p=173
 layout: post
+categories: [tech]
 ---
 I installed the <a href="http://www.zune.net">Zune</a> software, even though I don't own a Zune player. No, seriously. Here's the story: Shockingly, I spend a fair amount of time on my couch with my laptop. Being afflicted with a desire for multiple input streams at once, simply coding or browsing the web is not enough. My ears want something to do, too. But it is foolish to use the weak laptop speakers when I have better, albeit low-end <a href="http://www.bose.com/controller?event=VIEW_PRODUCT_PAGE_EVENT&product=am3_virtuallyinvisible_index">Bose speakers</a> sitting a few feet away. And below the speakers sits my <a href="http://www.xbox.com">Xbox 360</a> which can play shared music over the wifi network. <sup><a href="#zune1">[1]</a></sup>
 

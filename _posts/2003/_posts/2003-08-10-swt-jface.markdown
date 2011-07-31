@@ -3,6 +3,7 @@ wordpress_id: 28
 title: SWT + JFace
 wordpress_url: http://208.75.86.216/?p=28
 layout: post
+categories: [code]
 ---
 I hope that <a href="http://www.eclipse.org">Eclipse</a> starts to release <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/platform-swt-home/main.html">SWT</a> and JFace together, seperate from the full platform. For a <a href="http://www.extension.harvard.edu/2002-03/courses/csci.jsp#e-258">class project</a>, I wrote an instant messaging app and slapped together a front end using SWT. Java code that looks like a native app and runs without modification/recompiling on Win32, GTK, OSX and Motif is a powerful platform. But without <a href="http://dev.eclipse.org/help21/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/api/overview-summary.html">JFace</a> it is missing some of the important facilities that make easy to develop for, such as viewers, preferences, wizards, etc. While it <a href="http://www.eclipse.org/articles/Article-Table-viewer/table_viewer.html">can be done today</a>, it is harder than using <a href="http://java.sun.com/products/jfc/">Swing</a>. Once they make it simpler (and more obviously supported) to deploy apps written for SWT and JFace, they could give Swing some real competition. (Not to mention the work that is going on in Eclipse 3.0 to make it a <a href="http://www.eclipse.org/eclipse/development/eclipse_project_plan_3_0.html#ThemeRCP">generic rich client platform</a>.)
 

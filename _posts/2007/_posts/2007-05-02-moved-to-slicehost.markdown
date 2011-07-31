@@ -3,6 +3,7 @@ wordpress_id: 181
 title: Moved to Slicehost
 wordpress_url: http://graysky.org/2007/05/moved-to-slicehost/
 layout: post
+categories: [tech]
 ---
 Yesterday I moved this blog from <a href="http://www.dreamhost.com/r.cgi?104327">Dreamhost</a> to <a href="http://www.slicehost.com">Slicehost</a>. I'd started with Dreamhost during a great deal that made it nearly free, and was happy with it for more than a year. The typical software was very easy to install and configure, although running Rails is a little tricky. For the money at a <a href="http://www.dreamhost.com/r.cgi?104327">shared hosting service it is still a great deal</a>.
 

@@ -3,6 +3,7 @@ wordpress_id: 228
 title: Merging Digital Lives
 wordpress_url: http://graysky.org/2007/08/merging-digital-lives/
 layout: post
+categories: [tech]
 ---
 <a href="http://online.wsj.com/article/SB118617307271187661.html">The WSJ has a piece on couples struggling to merge their digital lives</a> (<a href="http://valleywag.com/tech/uncomfortable/flickrs-heather-champ-can-take-a-joke-++-and-does-286001.php">via</a>). The missus and I have been merging digitally recently. Plus I'm always trying to upgrade her digital lifestyle. 
 

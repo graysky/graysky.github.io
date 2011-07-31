@@ -3,6 +3,7 @@ wordpress_id: 137
 title: Mozy Backup Does The Trick
 wordpress_url: http://208.75.86.216/?p=137
 layout: post
+categories: [tech]
 ---
 Recently I put an end to my waking up in a cold sweat muttering, "my music! my photos! my documents!", by signing up with the <a href="http://mozy.com/">online backup service Mozy</a>. Having better backups seems to always fall to the bottom of my todo list. I'd been thinking of building a local RAID server or maybe using <a href="http://www.opensolaris.org/os/community/zfs/">ZFS</a>, but this never seemed to happen (and still wouldn't protect against a fire.) Instead, for $55 bucks per year Mozy offers unlimited secure backups and a simple front end to configure it (currently Windows only, with an OSX client soon). I looked at several <a href="http://www.amazon.com/gp/browse.html?node=16427261">Amazon S3-backed</a> services, but didn't see one looked both simple, inexpensive and mature enough that I would trust all my precious data to it. The <a href="http://www.nytimes.com/2007/01/04/technology/04pogue.html">NYTimes David Pogue's positive review</a> pushed me to finally signup. Here's my impression after 6 weeks of using it:
 

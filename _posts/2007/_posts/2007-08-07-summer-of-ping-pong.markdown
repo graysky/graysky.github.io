@@ -3,6 +3,7 @@ wordpress_id: 233
 title: Summer of Ping-Pong
 wordpress_url: http://graysky.org/2007/08/summer-of-ping-pong/
 layout: post
+categories: [culture]
 ---
 <a href="http://www.nytimes.com/2007/08/07/opinion/07ferris.html">The Times has an Op-Ed today by Joshua Ferris on the joys of Ping-Pong.</a> I second his notion (and find it funny that the Times ran a Ping-Pong-based Op-Ed), although I'd like to think I'm not as bad an athlete as the author describes himself. As Ferris writes:
 

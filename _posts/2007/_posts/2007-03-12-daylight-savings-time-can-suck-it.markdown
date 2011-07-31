@@ -3,6 +3,7 @@ wordpress_id: 146
 title: Daylight Savings Time Can Suck It
 wordpress_url: http://208.75.86.216/?p=146
 layout: post
+categories: [code]
 ---
 Having lost a precious hour of Sunday morning sleeping due to the <a href="http://www.iht.com/articles/2007/03/04/business/daylight.php">moved up daylight savings time</a>, I was grumbling about how <a href="http://en.wikipedia.org/wiki/Daylight_saving_time">daylight savings time</a> can suck. We like to think of time as an absolute, but, of course, it's not. It is more of an approximation and a malleable one at that, where when we don't like the answer we change it. Further things I find troubling about all this time-shifting business:
 

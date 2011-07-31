@@ -3,6 +3,7 @@ wordpress_id: 99
 title: IBM Pushes Blogging
 wordpress_url: http://208.75.86.216/?p=99
 layout: post
+categories: [tech]
 ---
 It looks like my employer has taken the leap into <a href="http://www-128.ibm.com/developerworks/blogs/dw_blog_comments.jspa?blog=351&entry=81328">encouraging employee blogs</a>. The guidelines they posted seem rather reasonable as they follow <a href="http://blogs.sun.com">Sun</a> and <a href="http://blogs.msdn.com/">Microsoft</a> into the blogosphere. At least at the moment they haven't built their own blogging tools (other than <a href="http://www-128.ibm.com/developerworks/blogs/">developerWorks blogs</a>), and suggest using popular tools like Blogger or LiveJournal (ha!). I hope IBM at least comes up with an feed aggregator/blog roller so people can easily see who the IBM bloggers are. How else will we find our <a href="http://blogs.sun.com/jonathan">Jonathan Schwartz</a> or <a href="http://scoble.weblogs.com/">Scoble</a>? Coming on the same day as IBM announces it's <a href="http://www.informationweek.com/story/showArticle.jhtml?articleID=163101894">internal support for FireFox</a> and I'm impressed with Big Blue's progressiveness.
 

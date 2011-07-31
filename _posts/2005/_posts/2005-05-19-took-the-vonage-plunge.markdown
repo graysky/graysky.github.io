@@ -3,6 +3,7 @@ wordpress_id: 101
 title: Took the Vonage Plunge
 wordpress_url: http://208.75.86.216/?p=101
 layout: post
+categories: [tech]
 ---
 I've converted my home phone to <a href="http://www.vonage.com">Vonage</a> and so far, so good. The main motivation was the appropimately $50 per month savings over a similar package from Verizon. Plus, there is something crazy about paying ~$70 per month for the limited bandwidth a phone provides when I already have this huge bandwidth pipe via cable modem. Although I'm also paying for cell service, so maybe the better question is why I'm paying for another phone at all.
 

@@ -3,6 +3,7 @@ wordpress_id: 232
 title: Preparing for Rock Band
 wordpress_url: http://graysky.org/2007/08/guitar-hero-rock-band/
 layout: post
+categories: [personal]
 ---
 <div class="flickr-frame flickr-float"><a href="http://www.flickr.com/photos/downtree/982168966/" title="Guitar Hero Rocking"><img src="http://farm2.static.flickr.com/1301/982168966_4878ad678d_m.jpg" class="flickr-photo-left" width="160" height="240" alt="Guitar Hero Rocking"/></a></div>
 
