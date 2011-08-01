@@ -33,7 +33,7 @@ layout: nil
     <loc>{{site.base_url}}{{ post.url }}/</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
    </url>
    {% endfor %}
 </urlset>
