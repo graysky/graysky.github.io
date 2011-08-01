@@ -1,7 +1,5 @@
 --- 
-wordpress_id: 151
 title: Boston BarCamp
-wordpress_url: http://208.75.86.216/?p=151
 layout: post
 categories: [tech]
 ---
