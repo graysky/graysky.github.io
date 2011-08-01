@@ -14,21 +14,6 @@ published: false
 - marking up the commodity
 - competing with JCPenny
 
-## Beware Startup Kids:
-
-Concerned that they are going to:
-
-- Learn lessons the hard way
-- Opp cost of not learning from kick-ass graybeards
-- End up with little savings, wrong resume for certain gigs
-
-### References
-
-- http://blog.payne.org/2011/07/29/the-entrepreneurial-lottery/
-- http://www.cloudave.com/1246/is-it-time-for-you-to-earn-or-to-learn/
-- http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/
-"Uninformed Optimism"
-- http://bostinnovation.com/2011/07/11/5-real-ways-bootstrapped-startup-kids-pay-their-bills/
 
 ## Recruiting devs is broken
 
