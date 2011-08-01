@@ -5,7 +5,7 @@ categories: [tech]
 published: false
 ---
 
-Everyone knows startups are hot, fueled by a strong (or frothy) seed funding climate and well-publicized successes like Groupon, Zynga and Facebook. I'm a proponent of young folks (i.e. early 20s) founding or working at early-stage startups for a number of reasons such as seeing the whole business, getting more responsibility and seeing how a product and company grow. But when I talk to smart, young people who are ridiculously gung-ho on startups I want to offer a few words of caution as they contemplate their options.
+Everyone knows startups are hot, fueled by a strong (or frothy) seed funding climate and well-publicized successes like Groupon, Zynga and Facebook. I'm a proponent of young folks (i.e. early 20s) founding or working at early-stage startups for a slew of reasons. It is a great way see how the whole business works, you can get much more responsibility and influence how a product and company grow. But when I talk to smart, young people who are ridiculously gung-ho on startups I want to offer a few words of caution as they contemplate their options.
 
 (For those who found a successful startup or are on the early team of a huge <a href="http://techcrunch.com/2010/02/21/mike-maples-talks-venture-capital-and-thunder-lizards/">thunder lizard</a>, congratulations! You're living the dream and your ticket has been punched. This is for the other 90% of folks who may not have such good fortune.)
 
@@ -19,7 +19,7 @@ Everyone knows startups are hot, fueled by a strong (or frothy) seed funding cli
 	
 <li><strong>Ambitious Problems?</strong></li>
 	
-<li><strong>Beware the Burnout</strong> - If you're in the <a href="http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/">"Uninformed Optimism"</a> phase it's hard to imagine why others would ever make the choice to work at a boring, staid companies when they could be their own boss on a mission to change the world. The halls of big companies have plenty of people who worked at one or two startups that didn't pan out and they got off the rollercoaster. The true serial entrepreneur is rare-breed. And you have a long career ahead of you. 
+<li><strong>Beware the Burnout</strong> - If you're in the <a href="http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/">"Uninformed Optimism"</a> phase it's hard to imagine why others would ever make the choice to work at a boring, staid companies when they could be their own boss on a mission to change the world. The halls of big companies have plenty of people who worked at one or two startups that didn't pan out and they got off the rollercoaster. The true serial entrepreneur is rare-breed. And <a href="http://news.ycombinator.com/item?id=2831846">burnout is no joke</a>. 
 </li>
 	
 </ol>
@@ -33,6 +33,7 @@ Concerned that they are going to:
 
 ### References
 
+- "Late 20s career crisis" http://news.ycombinator.com/item?id=2831846
 - http://blog.payne.org/2011/07/29/the-entrepreneurial-lottery/
 - http://www.cloudave.com/1246/is-it-time-for-you-to-earn-or-to-learn/
 - http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/
