@@ -2,7 +2,6 @@
 title: Hubspot Acquires oneforty
 layout: post
 categories: [tech, personal]
-published: true
 ---
 <div style="margin-bottom: 30px; margin-top: 10px; margin-right: auto; margin-left: auto; width: 70%;">
 <a href="http://www.hubspot.com"><img src="/images/hubspot_logo.png" style="border: 0px solid black;" /></a>
