@@ -3,7 +3,7 @@ title: (Mostly) Good Times for Software Developers
 layout: post
 categories: [tech, personal]
 ---
-Yesterday NPR's <a href="http://www.npr.org/programs/all-things-considered/">All Things Considered</a> aired a segment titled <a href="http://www.npr.org/2011/09/05/140194803/for-software-developers-a-bounty-of-opportunity">"For Software Developers, A Bounty Of Opportunity"</a> that included an interview with me (and my daughter cooing in the background). The point of the story is that in even in <a href="http://www.npr.org/2011/09/05/140115617/bumps-on-the-road-back-to-work">overall weak job market</a> there is strong demand for software developers. Since much of my interview with <a href="http://www.wbur.org/people/curt-nickisch">Curt Nickisch</a> didn't make it into the final piece I wanted to expand on my experience and thoughts on the market for software developers.
+Yesterday NPR's <a href="http://www.npr.org/programs/all-things-considered/">All Things Considered</a> aired a segment titled <a href="http://www.npr.org/2011/09/05/140194803/for-software-developers-a-bounty-of-opportunity">"For Software Developers, A Bounty Of Opportunity"</a> that included an interview with me (and my daughter cooing in the background). The point of the story is that in even an <a href="http://www.npr.org/2011/09/05/140115617/bumps-on-the-road-back-to-work">overall weak job market</a> there is strong demand for software developers. Since much of my interview with <a href="http://www.wbur.org/people/curt-nickisch">Curt Nickisch</a> didn't make it into the final piece I wanted to expand on my experience and thoughts on the market for software developers.
 
 <h3>The Right Stuff</h3>
 
