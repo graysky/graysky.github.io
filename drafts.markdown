@@ -14,7 +14,6 @@ published: false
 - marking up the commodity
 - competing with JCPenny
 
-
 ## Recruiting devs is broken
 
 - Google docs entry
