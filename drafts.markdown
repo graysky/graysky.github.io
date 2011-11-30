@@ -4,15 +4,20 @@ published: false
 ---
 # Blog Post Ideas
 
-## Startup Ping Pong
-- Photos
-- Sign up for next event
+## Analytics and Numbers
+
+- Over-focus on exact numbers
+- Not enough on action to take
+- Directional
+- Ex. twitter reach, etc
+https://twitter.com/#!/jowyang/status/141117184301731840
 
 ## Photographer Pricing
 
 - Adrian's email
 - marking up the commodity
 - competing with JCPenny
+- Molly prints
 
 ## Recruiting devs is broken
 
