@@ -6,7 +6,7 @@ categories: [music]
 
 In keeping with <a href="/2010/12/favorite-albums-2010/">tradition</a>, here is a quick summary of music I've loved from the past year. In past years I'd used iTunes playcounts as a barometer for my enjoyment but this year I mostly switched to <a href="http://www.spotify.com/">Spotify</a> so have less data to pull from. I <a href="http://open.spotify.com/user/mikechampion/playlist/69BebRGM5QxPcqNlMSt4bT">published a Spotify playlist</a> of some of the best songs from the albums included.
 
-<p><strong>10.</strong> Real Estate, <a href="http://open.spotify.com/album/43uj7422MLR9MRBXSki0El"><em>Days</em></a> - Definitely pretty sleepy but pretty and at its best feels like it is building toward something.
+<p><strong>10.</strong> Real Estate, <a href="http://open.spotify.com/album/43uj7422MLR9MRBXSki0El"><em>Days</em></a> - Definitely sleepy but pretty and at its best feels like it is building toward something.
 	
 <p><strong>9.</strong> Panda Bear, <a href="http://open.spotify.com/album/3SH1o5bO60CTibwxdYOFyo"><em>Tomboy</em></a> - I really like the sound he has developed - this kind of hazy, surf-y atmospheric is a great soundtrack for a certain mood.
 	
