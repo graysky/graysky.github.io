@@ -170,7 +170,7 @@ body {
 }
 
 .entrytitle h1 {
-	font-family: "Nobile", 'Helvetica Neue', Helvetica, Arial;
+	font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
 	font-size: 2.9em;
 	letter-spacing: 0.03em;
 }
@@ -185,7 +185,7 @@ body {
 }
 
 .entry h2, .entry h3 {
-	font-family: "Nobile", 'Helvetica Neue', Helvetica, Arial;
+	font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
 }
 
 .entry h2 {
@@ -221,6 +221,26 @@ body {
 .socialbutton {
 	display: inline-block;
 	margin-left: 10px;
+}
+
+.entrytrailer {
+	padding: 12px 8px;
+	background-color: white;
+	text-align: center;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+  	-webkit-border-radius: 4px;
+
+	-moz-outline-radius-bottomleft:10px;
+	-moz-outline-radius-bottomright:10px;
+	-moz-outline-radius-topleft:10px;
+	-moz-outline-radius-topright:10px;
+
+	/* Background color */
+	outline-color:#eee;
+	outline-offset:0;
+	outline-style:solid;
+	outline-width:4px;
 }
 
 /* Next/Prev Navigation */
@@ -400,7 +420,7 @@ tt, code {
 .profile-pic img {
 	border: 0px solid black; 
 	border-radius: 4px;
-  -webkit-border-radius: 4px;
+  	-webkit-border-radius: 4px;
 
 	-moz-outline-radius-bottomleft:10px;
 	-moz-outline-radius-bottomright:10px;
