@@ -16,10 +16,14 @@ layout: default
       {% endif %}
 	  </div>
 		
-		<div class="entrysocial right" style="xborder: 1px solid blue">
+		<div class="entrysocial right">
 			<!-- Tweet button -->
 			<div class="socialbutton" style="width: 58px;">
 			<a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-count="none" data-via="graysky">Tweet</a>
+			</div>
+			<!-- HN Button -->
+			<div class="socialbutton">
+				<a href="http://news.ycombinator.com/submit" class="hn-share-button" data-title="{{page.title}}" data-url="{{site.base_url}}{{page.url}}">Vote on HN</a>
 			</div>
 			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 			<!-- Google +1 -->
