@@ -57,8 +57,3 @@ https://twitter.com/nabeel/status/43199011620007936
 - data (location, geolocation, etc
 - how to market to developers in Spain or early adopters in India
 - inside US (Spanish-speaking) as well
-
-## Solidity of software
-
-- Crashing vs stable
-- De-volving over time
