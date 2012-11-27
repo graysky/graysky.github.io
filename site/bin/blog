@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+`jekyll --server --auto --limit_posts 20`
+

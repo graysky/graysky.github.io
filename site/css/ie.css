@@ -1,0 +1,17 @@
+/* For IE7 */
+*:first-child+html .clearfix {
+	min-height: 1px;
+}
+*:first-child+html .clearfix-inline {
+  min-height: 1px;
+}
+
+/* IE7 width adjustment */
+*:first-child+html .bubble-content {
+  width: 676px;
+}
+
+/* IE7 width adjustment */
+*:first-child+html .bubble-content {
+  width: 676;
+}

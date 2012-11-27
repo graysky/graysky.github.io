@@ -1,6 +1,7 @@
 auto: false
 markdown: rdiscount
 permalink: /:year/:month/:title
+destination: ./site
 pygments: true
 lsi: false
 base_url: http://graysky.org
