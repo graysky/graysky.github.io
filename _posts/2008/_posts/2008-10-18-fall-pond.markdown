@@ -6,7 +6,7 @@ layout: post
 categories: [photography]
 ---
 <div class="flickr-frame">
-<a href="http://www.flickr.com/photos/downtree/2936417863/" title="Fall Pond"><img src="http://files.graysky.org/images/fall_dropping.jpg" alt="Fall Pond" class="flickr-photo" /></a>
+<a href="http://www.flickr.com/photos/downtree/2936417863/" title="Fall Pond"><img src="http://graysky.org/images/fall_dropping.jpg" alt="Fall Pond" class="flickr-photo" /></a>
 </div>
 
 I was testing out a new camera on a short walk. The original picture was dull, but I liked this small crop from it. Haven't decided if it is lucky, cheating or just cliche.
