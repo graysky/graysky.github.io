@@ -30,11 +30,13 @@
     }(document, 'script'));
 </script>
 
-<!-- Start of HubSpot Logging Code  -->
-<script type="text/javascript" language="javascript">
-var hs_portalid=126481; 
-var hs_salog_version = "2.00";
-var hs_ppa = "startuppingpong.app11.hubspot.com";
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<!-- End of HubSpot Logging Code -->
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/126481.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
