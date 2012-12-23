@@ -3,6 +3,8 @@
 This is the code behind my website graysky.org
 
 ## TODO
+- Fix Photography page
+
 - "about.me" style front page
 	- snippets from recent posts
 	- projects / github
@@ -31,3 +33,9 @@ find .  -type f -exec  grep  -H -E -o -c  "categories"  {} \; | grep :0\$
 ## Locally
 
 Run like: jekyll --server --auto --limit_posts 20
+
+## Deploy to s3/cloudfront
+
+Setup following: http://iamnotaprogrammer.com/Jekyll-S3-Cloudfront-Aname-Root.html
+
+./publish.sh
