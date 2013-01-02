@@ -25,5 +25,3 @@ In keeping with <a href="/2010/12/favorite-albums-2010/">tradition</a>, here is 
 <p><strong>2.</strong> Kanye West &amp; Jay Z, <a href="http://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"><em>Watch the Throne</em></a> - It took me a while to get into this album I think because I had such high expectations for it. "Otis" got a lot of attention but it was songs like "Who Gon Stop Me" and "Gotta Have It" that won me over.
  		
 <p><strong>1.</strong> Bon Iver, <a href="http://open.spotify.com/album/0ZMzEAuUIylHgetdWqzcHU"><em>Bon Iver</em></a> - Impressive and haunting album that is strong and cohesive even with the variation he employs.
-	
-</ul>
