@@ -1,0 +1,138 @@
+/*  
+Theme Name: Monochrome
+Description: graysky.org monochromatic
+Version: 1.0
+Author: Mike Champion
+*/
+
+@font-face {
+  font-family: HeaderFont;
+    src: local("Monaco"),
+    src: local("Arial");
+}
+
+a {
+  color: #307EA9;
+}
+
+#footer {
+    background-color: #eee;
+}
+
+/* Entry */
+.entry {
+    margin-bottom: 10px;
+}
+
+.entrytitle {
+}
+
+.entrytitle h1, h2, h3, h4, h5 {
+    text-transform: none;
+    border-top: 0px;
+}
+
+.entrytitle h1 {
+    font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
+    font-size: 2.4em;
+    letter-spacing: 0.03em;
+}
+
+.entrytitle h1 a:hover {
+    xcolor: #CF0000;
+}
+
+.entrytitle a {
+    xcolor: black;
+    font-size: .9em;
+}
+
+.entry h2, .entry h3 {
+    font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
+}
+
+.entry h2 {
+    font-size: 1.6em;
+}
+
+.entry h3 {
+    font-size: 1.4em;
+}
+
+.entrybody {
+    font-size: 1.35em;
+}
+
+.entrymeta {
+  font-family: 'Open Sans','Helvetica Neue', Arial;
+  clear: both;
+  font-size: 0.9em;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 5px;
+  padding-top: 0px;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 8px;
+    color: #6F6F6F;
+}
+
+.entrysocial {
+    margin-bottom: 20px;
+}
+
+.socialbutton {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.entrytrailer {
+    margin-top: 20px;
+    padding: 12px 8px;
+    background-color: white;
+    text-align: center;
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    -webkit-border-radius: 4px;
+
+    -moz-outline-radius-bottomleft:10px;
+    -moz-outline-radius-bottomright:10px;
+    -moz-outline-radius-topleft:10px;
+    -moz-outline-radius-topright:10px;
+
+    /* Background color */
+    outline-color:#eee;
+    outline-offset:0;
+    outline-style:solid;
+    outline-width:4px;
+}
+
+/* Next/Prev Navigation */
+.navigation {
+    margin-top: 4px;
+}
+
+.nextnav, .prevnav {
+    font-family: 'Helvetica Neue', Helvetica;
+    font-size: .9em;
+}
+
+.prevnav {
+    float: left;
+}
+
+.nextnav {
+    float: right;
+}
+
+/* Comments */
+.commentsblock {
+    margin-top: 40px;
+}
+
+/* Highlight author comment */
+.highlight-comment {
+    padding: 2px;
+  border: 1px solid #aaa;
+}
+

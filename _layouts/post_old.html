@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: default
 ---
 <div class="entry">
   <div class="entrytitle"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
@@ -21,6 +21,10 @@ layout: layout
 			<div class="socialbutton" style="width: 58px;">
 			<a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-count="none" data-via="graysky">Tweet</a>
 			</div>
+			<!-- HN Button -->
+			<div class="socialbutton">
+				<a href="http://news.ycombinator.com/submit" class="hn-share-button" data-title="{{page.title}}" data-url="{{site.base_url}}{{page.url}}">Vote on HN</a>
+			</div>
 			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 			<!-- Google +1 -->
 			<div class="socialbutton" style="width: 32px;">
@@ -36,11 +40,9 @@ layout: layout
 	<div class="entrybody">
 		{{ content }}
 	</div>
-	<!--
 	<div class="entrytrailer">
 		If you're new here, you may wish to <a href="http://twitter.com/graysky">follow me on twitter</a>, <a href="http://feeds.feedburner.com/graysky">subscribe to via RSS</a> or <a href="http://feedburner.google.com/fb/a/mailverify?uri=graysky&amp;loc=en_US">via email</a>.
 	</div>
-	-->
   	<div class="commentsblock">
     	<div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/graysky/embed.js"></script><noscript><a href="http://graysky.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
   	</div>
