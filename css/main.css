@@ -12,7 +12,16 @@ Author: Mike Champion
 }
 
 a {
-  color: #307EA9;
+  xcolor: #307EA9;
+  color: #278BE2;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    padding-top: 0px;
 }
 
 #footer {
@@ -78,6 +87,7 @@ a {
 }
 
 .entrysocial {
+    margin-top: 8px;
     margin-bottom: 20px;
 }
 
@@ -136,3 +146,44 @@ a {
   border: 1px solid #aaa;
 }
 
+.flickr-frame {
+
+}
+
+.flickr-frame img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+/* Flickr formating */
+.flickr-frame {
+  xmargin-right: 8px;
+  xmargin-left: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.flickr-frame img {
+  /* Center the image within the frame */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px solid black; 
+}
+
+/* For floating frame */
+.flickr-float {
+  float:left;
+}
+
+.flickr-float-right {
+  float:right;
+}
+
+.flickr-caption {
+    font-style: italic;
+    font-size: 0.7em;
+    text-align: center;
+    margin-bottom: 8px;
+}

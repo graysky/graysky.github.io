@@ -2,53 +2,53 @@
 <html lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title | strip_html }} - @graysky</title>
-
-  <meta name="author" content="{{ site.author.name }}" />
-  <meta name="description" content="{{ site.description }}" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="dc.creator.name" content="{{ site.author.name }}"/>
   <meta charset="utf-8">
+  <title>{{ page.title | strip_html }} - @graysky</title>
+  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="dc.creator.name" content="{{ site.author.name }}"/>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}" />
+  {% endif %}
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="bitly-verification" content="ec2f7b007e9b"/>
   <link rel="canonical" href="{{site.base_url}}{{page.url}}">
 
-<!-- Facebook / OG -->
-<meta property="fb:admins" content="1711104" /> 
-<meta property="og:site_name" content="graysky" /> 
-<meta property="og:image" content="http://graysky.org/images/graysky.png" /> 
-<meta property="og:url" content="{{site.base_url}}{{page.url}}" /> 
-<meta property="og:type" content="article" /> 
-<meta property="og:title" content="{{ page.title | strip_html}}" />
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@graysky">
-<!-- Google+ Authorship -->
-<link rel="author" href="https://plus.google.com/110601786200591943457"/>
+  <!-- Facebook / OpenGraph -->
+  <meta property="fb:admins" content="1711104" /> 
+  <meta property="og:site_name" content="graysky" /> 
+  <meta property="og:image" content="http://graysky.org/images/graysky.png" /> 
+  <meta property="og:url" content="{{site.base_url}}{{page.url}}" /> 
+  <meta property="og:type" content="article" /> 
+  <meta property="og:title" content="{{ page.title | strip_html}}" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@graysky">
+  <!-- Google+ Authorship -->
+  <link rel="author" href="https://plus.google.com/110601786200591943457"/>
 
-<!-- Feeds / Pingback -->
-<link rel="alternate" type="application/rss+xml" title="graysky RSS Feed" href="http://feeds.feedburner.com/graysky" />
-<link rel="shortcut icon" href="/images/favicon.ico" />
+  <!-- Feeds / Pingback -->
+  <link rel="alternate" type="application/rss+xml" title="graysky RSS Feed" href="http://feeds.feedburner.com/graysky" />
+  <link rel="shortcut icon" href="/images/favicon.ico" />
 
-<!-- Fonts from Google Font API -->
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans&v2' rel='stylesheet' type='text/css'>
-<!-- <link href="http://fonts.googleapis.com/css?family=Nobile:regular,bold&subset=latin" rel="stylesheet" type="text/css"> -->
-<link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300'
-    rel='stylesheet' type='text/css'>
+  <!-- Fonts from Google Font API -->
+  <link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans&v2' rel='stylesheet' type='text/css'>
+  <!-- <link href="http://fonts.googleapis.com/css?family=Nobile:regular,bold&subset=latin" rel="stylesheet" type="text/css"> -->
+  <link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-57x57-precomposed.png">
-<link rel="shortcut icon" href="/favicon.ico">
-
-<link href="/css/up.css" rel="stylesheet">
-<link rel="stylesheet" href="/css/main.css?{{ 'now' | date: "%j%m%M%S%Y" }}" type="text/css" media="screen, projection" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-57x57-precomposed.png">
+  
+  <link href="/css/up.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css?{{ 'now' | date: "%j%m%M%S%Y" }}" type="text/css" media="screen, projection" />
 
 </head>
