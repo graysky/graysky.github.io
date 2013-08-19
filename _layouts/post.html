@@ -8,13 +8,11 @@ layout: layout
 		<div class="entrymeta post_date left">
 			{{ page.date | date: "%B %d, %Y" }}
 			
-			<!--
 			{% if page.categories != null %}
 			<span style="font-size: 1.1em; margin: 0px 3px; vertical-align:1px;">&there4;</span>
 			{% for cat in page.categories %}
 				<a href="/category/{{cat}}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
 		  {% endfor %}
-		 -->
       {% endif %}
 	  </div>
 		

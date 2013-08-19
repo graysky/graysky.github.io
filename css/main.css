@@ -11,8 +11,11 @@ Author: Mike Champion
     src: local("Arial");
 }
 
+html,body{
+  padding-top: 0px;
+}
+
 a {
-  xcolor: #307EA9;
   color: #278BE2;
 }
 
@@ -20,17 +23,39 @@ a:hover {
     text-decoration: none;
 }
 
-body {
-    padding-top: 0px;
+#headerbar {
+}
+
+.navbar-brand {
+  font-family: 'Droid Sans', HeaderFont, Arial;
+  text-transform: lowercase;
+  font-size: 2.0em;
+  max-width: none;
+  color: rgb(119, 119, 119);
+}
+
+.navpunch {
+  font-weight: normal;
+  color: rgb(60, 58, 58);
+  margin-left: -5px;
+}
+
+.nav > li > a {
+  padding: 15px 10px;
 }
 
 #footer {
-    background-color: #eee;
+  background-color: #eee;
+}
+
+#footer section.meta {
+padding: 24px;
 }
 
 /* Entry */
 .entry {
     margin-bottom: 10px;
+    min-height: 600px;
 }
 
 .entrytitle {
@@ -69,7 +94,8 @@ body {
 }
 
 .entrybody {
-    font-size: 1.35em;
+  font-size: 1.35em;
+  min-height: 300px;
 }
 
 .entrymeta {
@@ -138,6 +164,7 @@ body {
 /* Comments */
 .commentsblock {
     margin-top: 40px;
+    min-height: 330px;
 }
 
 /* Highlight author comment */

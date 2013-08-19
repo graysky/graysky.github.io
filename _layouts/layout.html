@@ -1,43 +1,37 @@
 {% include header.html %}
 
 <body>
-  <div class="navbar navbar-static-top xnavbar-fixed-top">
+  <div id="headerbar" class="navbar navbar-static-top xnavbar-fixed-top">
     <div class="container xcontainer-fluid">
+      <!--
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">{{ site.title }}</a>
+      -->
+      <a class="navbar-brand" href="/">mike <span class="navpunch">champion</span></a>
       <div class="nav-collapse collapse navbar-responsive-collapse">
         <ul class="nav navbar-nav pull-right hidden-print">
           <li>
-            <a class="hidden-sm" href="http://github.com/caarlos0/up"
-              title="Get this theme!">
-              <i class="icon-download icon-large"></i>
-            </a>
-            <a class="visible-sm" href="http://github.com/caarlos0/up"
-              title="Get this theme!">
-              <i class="icon-download icon-large"></i>
-              Get this theme!
+            <a class="xvisible-sm" title="About me" href="/mike-champion">
+              <!-- <i class="icon-user icon-large"></i> -->
+              About
             </a>
           </li>
           <li>
-            <a class="hidden-sm" title="About me" href="/about">
-              <i class="icon-user icon-large"></i>
-            </a>
-            <a class="visible-sm" title="About me" href="/about">
-              <i class="icon-user icon-large"></i>
-              About me
+            <a class="xvisible-sm" href="https://twitter.com/{{ site.author.twitter }}" title="@graysky on Twitter">
+              <i class="icon-twitter icon-large"></i>
             </a>
           </li>
           <li>
-            <a class="hidden-sm" href="/atom.xml" title="Atom Feed">
-              <i class="icon-rss icon-large"></i>
+            <a class="xvisible-sm" href="mailto:mike@graysky.org" title="Contact Me">
+              <i class="icon-envelope icon-large"></i>
             </a>
-            <a class="visible-sm" href="/atom.xml" title="Atom Feed">
-              <i class="icon-rss icon-large"></i>
-              Atom Feed
+          </li>
+          <li>
+            <a class="xvisible-sm" href="http://feeds.feedburner.com/graysky" title="RSS feed">
+              <i class="icon-rss-sign icon-large"></i>
             </a>
           </li>
         </ul>
