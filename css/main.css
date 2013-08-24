@@ -16,11 +16,28 @@ html,body{
 }
 
 a {
-  color: #278BE2;
+  color: rgb(39, 132, 219);
 }
 
 a:hover {
+    color: rgb(0, 112, 218);
     text-decoration: none;
+}
+
+/* Mobile styling */
+@media (max-width: 767px) { 
+  .entry {
+    padding: 0px 15px 5px 15px;
+    min-height: 200px;
+  }
+
+  .entrytitle h1 a {
+    font-size: 0.8em;
+  }
+
+  .entrybody {
+    font-size: 1.1em;
+  }
 }
 
 #headerbar {
@@ -55,10 +72,7 @@ padding: 24px;
 /* Entry */
 .entry {
     margin-bottom: 10px;
-    min-height: 600px;
-}
-
-.entrytitle {
+    min-height: 200px;
 }
 
 .entrytitle h1, h2, h3, h4, h5 {
@@ -67,22 +81,13 @@ padding: 24px;
 }
 
 .entrytitle h1 {
-    font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
-    font-size: 2.4em;
-    letter-spacing: 0.03em;
-}
-
-.entrytitle h1 a:hover {
-    xcolor: #CF0000;
-}
-
-.entrytitle a {
-    xcolor: black;
-    font-size: .9em;
+    font-family: "Montserrat", 'Helvetica Neue', Helvetica, Arial;
+    letter-spacing: 0.02em;
+    font-size: 2.1em;
 }
 
 .entry h2, .entry h3 {
-    font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial;
+    font-family: "Montserrat", 'Helvetica Neue', Helvetica, Arial;
 }
 
 .entry h2 {
@@ -94,8 +99,7 @@ padding: 24px;
 }
 
 .entrybody {
-  font-size: 1.35em;
-  min-height: 300px;
+  font-size: 1.20em;
 }
 
 .entrymeta {
@@ -169,7 +173,7 @@ padding: 24px;
 
 /* Highlight author comment */
 .highlight-comment {
-    padding: 2px;
+  padding: 2px;
   border: 1px solid #aaa;
 }
 
