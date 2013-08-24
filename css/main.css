@@ -24,23 +24,27 @@ a:hover {
     text-decoration: none;
 }
 
-/* Mobile styling */
-@media (max-width: 767px) { 
+/* Mobile/tablet styling */
+@media (max-width: 979px) { 
   .entry {
     padding: 0px 15px 5px 15px;
     min-height: 200px;
   }
 
   .entrytitle h1 a {
-    font-size: 0.8em;
+    font-size: 0.75em;
   }
 
   .entrybody {
-    font-size: 1.1em;
+    font-size: 1.05em;
   }
 }
 
-#headerbar {
+#headercontent {
+  /* Fluid experiment */
+  max-width: 1260px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .navbar-brand {
@@ -73,6 +77,10 @@ padding: 24px;
 .entry {
     margin-bottom: 10px;
     min-height: 200px;
+    /* Fluid experiment */
+    max-width: 1260px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .entrytitle h1, h2, h3, h4, h5 {
