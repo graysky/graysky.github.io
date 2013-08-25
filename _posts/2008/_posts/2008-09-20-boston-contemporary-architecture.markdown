@@ -5,7 +5,7 @@ wordpress_url: http://graysky.org/?p=360
 layout: post
 categories: [photography]
 ---
-<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2733743041/" title="Macallen Facade"><img src="http://graysky.org/images/macallen_facade.jpg" class="flickr-photo" alt="Macallen Facade" /></a></div>
+<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2733743041/" title="Macallen Facade"><img src="/images/macallen_facade_lg2.png" class="flickr-photo" alt="Macallen Facade" /></a></div>
 
 This summer I took a workshop at the <a href="http://www.nesop.com">New England School of Photography</a> in Kenmore Square. The best part of the experience was the course project. Each student picks a theme, decides how to publish it and has a deadline when they are presented. 
 

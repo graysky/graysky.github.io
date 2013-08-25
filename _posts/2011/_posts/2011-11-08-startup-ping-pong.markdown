@@ -4,7 +4,7 @@ layout: post
 categories: [tech]
 ---
 
-<div class="flickr-frame" style="margin-bottom: 14px;"><img src="/images/pingpong.jpg" class="flickr-photo" alt="Startup Ping Pong" /></div>
+<div class="flickr-frame" style="margin-bottom: 14px;"><img src="/images/pingpong_lg.jpg" class="flickr-photo" alt="Startup Ping Pong" /></div>
 <div class="flickr-caption">Photo by <a href="http://www.flickr.com/photos/notic/86343146/">notic</a></div>
 
 If you're like me and enjoy both startups and ping pong then you'll love <a href="http://startuppingpong.com">Startup Ping Pong</a>! The objective is to bring together players of any level who the enjoy the <a href="http://www.youtube.com/watch?v=ZFuyh62AJho">epic game</a> of ping pong. And if you need convincing that ping pong is indeed epic, check out the <a href="http://penny-arcade.com/comic/2008/06/26">Penny Arcade series, "Paint the Line"</a>.

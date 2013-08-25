@@ -3,7 +3,7 @@ title: Molly
 layout: post
 categories: [personal]
 ---
-<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/5240787013/"><img src="/images/molly_with_hat.jpg" class="flickr-photo" /></a>
+<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/5240787013/"><img src="/images/molly_with_hat_lg.jpg" class="flickr-photo" /></a>
 </div>
 
 <a href="http://www.youtube.com/watch?v=Uk8akSWz2xc">Babies come with hats.</a>

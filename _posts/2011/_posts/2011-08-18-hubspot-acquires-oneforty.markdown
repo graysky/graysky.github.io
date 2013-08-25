@@ -5,7 +5,7 @@ categories: [tech, personal]
 ---
 <div style="margin-bottom: 30px; margin-top: 10px; margin-right: auto; margin-left: auto; width: 70%;">
 <a href="http://www.hubspot.com"><img src="/images/hubspot_logo.png" style="border: 0px solid black;" /></a>
-<span style="font-size: 2.3em; font-weight: normal; color: #666; vertical-align: 20px; margin: 0px 14px">+</span>
+<span style="font-size: 2.3em; font-weight: normal; color: #666; vertical-align: -10px; margin: 0px 14px">+</span>
 <a href="http://oneforty.com"><img src="/images/oneforty_green.png" style="border: 0px solid black;"/></a>
 </div>
 

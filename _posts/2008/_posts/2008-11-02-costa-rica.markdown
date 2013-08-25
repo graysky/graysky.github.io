@@ -5,7 +5,7 @@ wordpress_url: http://graysky.org/?p=426
 layout: post
 categories: [photography, personal]
 ---
-<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2972161635/" title="The Road to Monteverde"><img src="http://graysky.org/images/costa_rica_road.jpg" alt="The Road to Monteverde" class="flickr-photo"/></a></div>
+<div class="flickr-frame"><a href="http://www.flickr.com/photos/downtree/2972161635/" title="The Road to Monteverde"><img src="/images/costa_rica_road_lg.jpg" alt="The Road to Monteverde" class="flickr-photo"/></a></div>
 
 We just spent a week in Costa Rica and had a fantastic trip (<a href="http://flickr.com/photos/downtree/sets/72157608366771509/">trip photos</a>). We saw a volcano erupting lava, beautiful countryside, a cloud forest, the Pacific coast and lots of wildlife. You always learn a lot that wasn't in the guidebook while traveling, so thought I'd post some things we picked up during our loop from San Jose to La Fortuna (Arenal Volcano area), <a href="http://www.monteverdeinfo.com/">Monteverde</a> (4600 ft. high rain forest) and the Pacific coast and national park in <a href="http://www.manuelantoniocostarica.com">Manuel Antonio</a>.
 
