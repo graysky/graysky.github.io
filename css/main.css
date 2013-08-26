@@ -92,6 +92,8 @@ padding: 24px;
 .entrytitle h1, h2, h3, h4, h5 {
     text-transform: none;
     border-top: 0px;
+    border-bottom: 0px;
+    padding-left: 0px;
 }
 
 .entrytitle h1 {
