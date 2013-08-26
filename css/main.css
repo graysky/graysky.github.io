@@ -122,6 +122,8 @@ padding: 24px;
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
+  line-height: 1.6em;
+  xmargin-bottom: 1.0em;
 }
 
 .entrymeta {
@@ -265,7 +267,6 @@ padding: 24px;
 #archives-date li {
   margin-top: 6px;
 }
-
 
 /* General Style */
 tt, code {
