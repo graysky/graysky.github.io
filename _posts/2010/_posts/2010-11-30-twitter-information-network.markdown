@@ -47,8 +47,7 @@ I think there are many ways to approach this challenge but here are a few ideas 
 <li>Suggest people and "interests" to follow based on the content of my tweets, not just the social graph. This would be more a "what to follow" similar to "who to follow" (and an improvement on <a href="https://skitch.com/graysky/rnpx5/twitter-who-to-follow-interests" target="_blank">the currently flawed</a> "Browse Interests").</li>
 </ol>
 
-<div style="margin-top: 15px;">
-<strong>Related Reading</strong>
+<h4>Related Reading</h4>
 <ul>
 <li><a href="http://blog.koehntopp.de/archives/2978-Die-unertraegliche-Lameness-des-Web-2.0.html#en">"The unbearable lameness of web 2.0"</a> identifies several problems with current social networks. The "Auto-binning" idea is one I particularly agree with.</li>
 <li><a href="http://www.briansolis.com/2010/11/the-future-of-advertising-has-been-promoted/">Brian Solis</a> predicts 2011 will be when Twitter becomes a "full-fledged interest graph". Brian <a href="http://twitter.com/#!/briansolis/status/7465592139292672">thinks</a>: "Twitter’s monetization strategy lies in the ability to reach interest graphs, not social graphs".</li>
@@ -57,11 +56,9 @@ I think there are many ways to approach this challenge but here are a few ideas 
 <li>John Battelle on <a href="http://battellemedia.com/archives/2010/11/twitters_great_big_problem_is_its_massive_opportunity">"Twitter's Great Big Problem Is Its Massive Opportunity"</a> </li>
 <li>Jeff Miller illustrates <a href="http://jeffmiller.github.com/2010/05/16/twitters-garbage-problem">"Twitter's Garbage Problem"</a> and proposed filtering improvements.</li>
 </ul>
-</div>
 
-<div style="margin-top: 20px;">
-	<strong>Notes</strong>
-	<br />
+<h4>Notes</h4>
+<p>
 	<a name="accounts"></a><small>[1] Of course accounts don't have to be people, they can be feeds, but you subscribe to all tweets from an account.</small>
 	<br />
 	<a name="followingcount"></a><small>[2] Sample data from Twitter uses on <a href="http://oneforty.com">oneforty</a>. It excludes those who follow &lt; 10 people to skip those who never engaged, and those who follow &gt; 5000 people who are likely unable to read their stream.</small>
@@ -71,4 +68,4 @@ I think there are many ways to approach this challenge but here are a few ideas 
 	<a name="powertips"></a><small>[4] For additional tips to become <a href="http://bajillionhits.biz/post/1424224931/50-power-twitter-tips-to-become-the-most-powerful">the most powerful Twitterer</a>.</small>
 	<br />
 	<a name="cdixon"></a><small>[5] This is likely all a reaction to having <a href="http://twitter.com/cdixon">Chris Dixon</a> briefly follow and then unfollow me. </small>
-</div>
+</p>

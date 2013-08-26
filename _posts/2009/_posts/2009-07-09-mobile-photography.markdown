@@ -1,17 +1,15 @@
 --- 
-wordpress_id: 768
 title: On Mobile Photography
-wordpress_url: http://graysky.org/?p=768
 layout: post
 categories: [tech, photography]
 ---
-<div>
+<div style="margin-right: auto; margin-left: auto; width: 600px;">
 <img src="http://farm3.static.flickr.com/2730/4183326245_9ed6daa1c1_m.jpg" /> 
 <img src="http://farm3.static.flickr.com/2793/4183261923_bb550354e7_m.jpg" />
 <img src="http://farm3.static.flickr.com/2617/4184004802_aa2e8311ac_m.jpg" /> 
 </div>
 
-<div style="margin-bottom: 10px">
+<div style="margin-top: 2px; margin-bottom: 10px; margin-right: auto; margin-left: auto; width: 600px;">
 <img src="http://farm3.static.flickr.com/2609/4184042148_7804e5d403_m.jpg" /> 
 <img src="http://farm3.static.flickr.com/2661/4184026146_1a585248d6_m.jpg" /> 
 <img src="http://farm5.static.flickr.com/4044/4183243049_12cce9fa77_m.jpg" />
