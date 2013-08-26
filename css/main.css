@@ -16,6 +16,10 @@ html,body{
   font-family: 'Open Sans', "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
+ul, ol {
+  margin-left: 14px;
+}
+
 a {
   color: rgb(39, 132, 219);
 }
