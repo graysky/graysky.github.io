@@ -131,8 +131,9 @@ padding: 24px;
 }
 
 .entrysocial {
-    margin-top: 8px;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: right;
 }
 
 .socialbutton {
@@ -141,7 +142,7 @@ padding: 24px;
 }
 
 .entrytrailer {
-    margin-top: 20px;
+    margin-top: 40px;
     padding: 12px 8px;
     background-color: white;
     text-align: center;
