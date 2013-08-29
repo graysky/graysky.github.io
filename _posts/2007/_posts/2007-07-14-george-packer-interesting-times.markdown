@@ -1,7 +1,5 @@
 --- 
-wordpress_id: 201
 title: George Packer's Interesting Times
-wordpress_url: http://graysky.org/2007/07/george-packer-interesting-times/
 layout: post
 categories: [culture]
 ---
