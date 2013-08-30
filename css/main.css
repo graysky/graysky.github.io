@@ -1,8 +1,5 @@
 /*  
-Theme Name: Monochrome
-Description: graysky.org monochromatic
-Version: 1.0
-Author: Mike Champion
+Clean Break
 */
 
 @font-face {
@@ -122,12 +119,12 @@ padding: 24px;
 }
 
 /* http://baymard.com/blog/line-length-readability */
-.entrybody p, li, h2, h3, h4, h5 {
+.entrybody p, .entrybody li, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
   line-height: 1.6em;
-  xmargin-bottom: 1.0em;
+  margin-bottom: 1.2em;
 }
 
 .entrymeta {
@@ -197,8 +194,11 @@ padding: 24px;
 
 /* Comments */
 .commentsblock {
-    margin-top: 40px;
-    min-height: 330px;
+  max-width: 800px;
+  margin-top: 80px;
+  min-height: 330px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* Highlight author comment */
