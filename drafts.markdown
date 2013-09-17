@@ -4,6 +4,12 @@ published: false
 ---
 # Blog Post Ideas
 
+## Getting & Giving Customer Feedback
+
+- Nana, Jackie, Christine
+- Passionate customers are awesome
+- Only a small percent actually write in
+
 ## Analytics and Numbers
 
 - Over-focus on exact numbers
