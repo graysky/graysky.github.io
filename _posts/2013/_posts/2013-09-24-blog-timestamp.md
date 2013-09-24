@@ -4,12 +4,12 @@ layout: post
 categories: [tech]
 ---
 
-More often blogs and content sites are de-emphasizing the temporal nature of what they publish. In broad terms they are moving to be a collection of published articles, and publishing timely content on social networks.
+More often blogs and content sites are de-emphasizing the temporal nature of what they publish <a href="#irony"><small><sup>[1]</sup></small></a>. In broad terms they are moving to be a collection of published articles, and publishing timely content on social networks.
 
 Winer's [original definition](http://blogs.law.harvard.edu/whatmakesaweblogaweblog.html) of weblogging was:
 > "A weblog is a hierarchy of text, images, media objects and data, arranged chronologically, that can be viewed in an HTML browser."
 
-Primarily being "arranged chronologically" is becoming less important <a href="#semantics"><small><sup>[1]</sup></small></a>. Sites like [Medium](https://medium.com/) or corporate blogs like [KISSMetrics](http://blog.kissmetrics.com/saasy-pricing-strategies/) or [Intercom](http://insideintercom.io/the-dribbblisation-of-design/) make the timestamp less obvious. It isn't in the URL, nor often prominent on the page. I believe this is happening for several reasons:
+Primarily being "arranged chronologically" is becoming less important <a href="#semantics"><small><sup>[2]</sup></small></a>. Sites like [Medium](https://medium.com/) or corporate blogs like [KISSMetrics](http://blog.kissmetrics.com/saasy-pricing-strategies/) or [Intercom](http://insideintercom.io/the-dribbblisation-of-design/) make the timestamp less obvious. It isn't in the URL, nor often prominent on the page. I believe this is happening for several reasons:
 
 - [RSS is dying](http://andrewchen.co/2013/04/29/the-death-of-rss-in-a-single-graph/). People no longer re-visit sites frequently to check for what is new, nor have robots do that work for them. They are discovering content in different ways, primarily through social networks, and coming in the sidedoor of sites.
 
@@ -24,4 +24,6 @@ As a thought exercise I have long wondered why media publications have not built
 <small><i>Thanks to [Meghan Keaney](https://twitter.com/meghkeaney) and [Anand Rajaram](https://twitter.com/anandrajaram) for reviewing an earlier draft of this post.</i></small>
 
 #### Notes
-<a name="semantics"></a><small>[1] Perhaps this means they aren't technically blogs, just pages. I think they serve a similar function but don't have a proper name.
+<a name="irony"></a><small>[1] This blog and post follow none of these trends. Nor will many others.</small>
+
+<a name="semantics"></a><small>[2] Perhaps this means they aren't technically blogs, just pages. I think they serve a similar function but don't have a proper name.</small>
