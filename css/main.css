@@ -119,7 +119,7 @@ padding: 24px;
 }
 
 /* http://baymard.com/blog/line-length-readability */
-.entrybody p, .entrybody li, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
+.entrybody p, .entrybody li, .entrybody blockquote, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
