@@ -24,6 +24,6 @@ As a thought exercise I have long wondered why media publications have not built
 <small><i>Thanks to [Meghan Keaney](https://twitter.com/meghkeaney) and [Anand Rajaram](https://twitter.com/anandrajaram) for reviewing an earlier draft of this post.</i></small>
 
 #### Notes
-<a name="irony"></a><small>[1] This blog and post follow none of these trends. Nor will many others.</small>
+<a name="irony"></a><small>[1] Ironically, this blog and post follow none of these trends. Nor will many others.</small>
 
 <a name="semantics"></a><small>[2] Perhaps this means they aren't technically blogs, just pages. I think they serve a similar function but don't have a proper name.</small>

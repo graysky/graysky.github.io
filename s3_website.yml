@@ -4,6 +4,8 @@ s3_bucket: graysky.org
 
 cloudfront_distribution_id: E2DWPLKHJHFZ8E
 
+cloudfront_invalidate_root: true
+
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
 
