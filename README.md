@@ -38,4 +38,6 @@ Run like: jekyll --server --auto --limit_posts 20
 
 Setup following: http://iamnotaprogrammer.com/Jekyll-S3-Cloudfront-Aname-Root.html
 
-./publish.sh
+http://iamnotaprogrammer.com/jekyll-static-sites-2013.html
+
+s3_website push
