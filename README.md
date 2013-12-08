@@ -32,7 +32,7 @@ find .  -type f -exec  grep  -H -E -o -c  "categories"  {} \; | grep :0\$
 
 ## Locally
 
-Run like: jekyll --server --auto --limit_posts 20
+Run like: jekyll serve --watch --limit_posts 30
 
 ## Deploy to s3/cloudfront
 
