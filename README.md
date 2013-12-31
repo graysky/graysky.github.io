@@ -2,7 +2,7 @@
 
 This is the code behind my website graysky.org
 
-## TODO
+## OLD TODO
 - Fix Photography page
 
 - "about.me" style front page
