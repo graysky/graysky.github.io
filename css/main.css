@@ -11,6 +11,7 @@ Clean Break
 html,body{
   padding-top: 0px;
   font-family: 'Open Sans', "Helvetica Neue", Helvetica,Arial,sans-serif;
+  color: rgb(51, 51, 50);
 }
 
 ul, ol {
@@ -120,10 +121,10 @@ padding: 24px;
 
 /* http://baymard.com/blog/line-length-readability */
 .entry, .entrytitle, .entrybody p, .entrybody li, .entrybody blockquote, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
-  max-width: 720px;
+  max-width: 700px;
   margin-right: auto;
   margin-left: auto;
-  line-height: 1.6em;
+  line-height: 1.7em;
   margin-bottom: 1.2em;
 }
 
