@@ -120,7 +120,7 @@ padding: 24px;
 
 /* http://baymard.com/blog/line-length-readability */
 .entry, .entrytitle, .entrybody p, .entrybody li, .entrybody blockquote, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
-  max-width: 800px;
+  max-width: 720px;
   margin-right: auto;
   margin-left: auto;
   line-height: 1.6em;
