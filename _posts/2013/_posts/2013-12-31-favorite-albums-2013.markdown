@@ -6,7 +6,7 @@ categories: [music]
 <div class="flickr-frame"><a href="http://rd.io/x/QVaELTMq3Ck/"><img src="/images/2013_albums.png" class="flickr-photo" /></a>
 </div>
 
-The yearly new album roundup is part of the <a href="/2012/12/favorite-albums-2012/">one consistent theme</a> on this blog. The following are the albums I listened to most in 2013. I made a <a href="http://rd.io/x/QVaELTMq3Ck/">Rdio playlist of selected songs</a> from them as well.
+It is time for the annual new album roundup! This is the one thing I <a href="/2012/12/favorite-albums-2012/">consistently write about</a> it seems. The following are the new albums I listened to most in 2013. I made a <a href="http://rd.io/x/QVaELTMq3Ck/">Rdio playlist of selected songs</a> from them as well.
 
 Like 2012 I purchased zero albums and listened almost entirely via Rdio (and sometimes in Spotify "private" mode when too embarrassed to share a pop obsession). We added a <a href="http://www.amazon.com/dp/B00EWCUK1Q/?tag=mikechampion">Sonos Play 1</a> to the mix at home since 95% of the music I listen to is in the cloud, although I still drag around a giant iTunes library.
 
