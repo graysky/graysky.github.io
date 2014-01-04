@@ -2,15 +2,10 @@
 Clean Break
 */
 
-@font-face {
-  font-family: HeaderFont;
-    src: local("Monaco"),
-    src: local("Arial");
-}
-
 html,body{
   padding-top: 0px;
-  font-family: 'Open Sans', "Helvetica Neue", Helvetica,Arial,sans-serif;
+  font-family: 'Lato', 'Open Sans', "Helvetica Neue", Helvetica,Arial,sans-serif;
+  letter-spacing: 0.2px;
   color: rgb(51, 51, 50);
 }
 
@@ -55,7 +50,7 @@ a:hover {
 }
 
 .navbar-brand {
-  font-family: 'Droid Sans', HeaderFont, Arial;
+  font-family: 'Droid Sans', Arial;
   text-transform: lowercase;
   font-size: 2.0em;
   max-width: none;
@@ -121,10 +116,10 @@ padding: 24px;
 
 /* http://baymard.com/blog/line-length-readability */
 .entry, .entrytitle, .entrybody p, .entrybody li, .entrybody blockquote, .entrybody h2, .entrybody h3, .entrybody h4, .entrybody h5 {
-  max-width: 700px;
+  max-width: 720px;
   margin-right: auto;
   margin-left: auto;
-  line-height: 1.7em;
+  line-height: 35px;
   margin-bottom: 1.2em;
 }
 

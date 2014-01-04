@@ -3,7 +3,7 @@ title: The Archives
 permalink: archives/
 layout: static
 ---
-<h2 style="margin-left: 140px; margin-top: -10px; font-size: 1.4em;">2002 - Present Day</h2>
+<h2 style="margin-left: 140px; margin-top: -20px; font-size: 1.4em;">2002 - Present Day</h2>
 <p>I've kept a blog on and off (mostly off) for more than a decade. Much of that has
 been lost to the ages, thankfully.</p>
 
@@ -12,18 +12,17 @@ been lost to the ages, thankfully.</p>
 <h3 style='margin-bottom: 8px; margin-top: 20px;'>Categories</h3>
 <ul class="past-posts">
 {% for cat in site.categories %}
-<li style="margin-left: 10px; margin-">
+<li style="margin-left: 10px; margin-bottom: 1px;">
 <a href="/category/{{ cat.first }}">{{ cat.first | capitalize }}</a>
 </li>
 {% endfor %}
 </ul>
 
 <br />
-
-<h3 style='margin-bottom: 8px; margin-top: 15px;'>Every Post by Date</h3>
+<h3 style='margin-bottom: 8px; margin-top: 5px;'>Every Post by Date</h3>
 <ul class='past-posts'>
   {% for post in site.posts %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a>
+		<li style="margin-bottom: 1px;"><a href="{{ post.url }}">{{ post.title }}</a>
 			<span class="dateline">{{ post.date | date_to_string }}</span></a>
 		</li>
   {% endfor %}
