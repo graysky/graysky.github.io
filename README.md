@@ -1,12 +1,12 @@
 # graysky.org
 
-This is the code behind my website graysky.org. It uses Jekyll to generate static html.
+This is the code behind my website [graysky.org]. It uses Jekyll to generate static html.
 
 ## Run Locally
 
 ./bin/serve
 
-Run like: jekyll serve --watch --limit_posts 30
+Or like: bundle exec jekyll serve --watch --limit_posts 30
 
 ## Deploy to GitHub Pages
 
