@@ -11,7 +11,7 @@ title: Mike Champion
 				{% if post.categories != null %}
 				<span style="font-size: 1.1em; margin: 0px 3px; vertical-align:1px;">&there4;</span>
 				{% for cat in post.categories %}
-					<a href="/category/{{cat}}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
+					{{ cat }}{% unless forloop.last %}, {% endunless %}
 			  {% endfor %}
 	      {% endif %}
       </div>
