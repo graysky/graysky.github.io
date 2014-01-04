@@ -1,6 +1,6 @@
-# Hello
+# graysky.org
 
-This is the code behind my website graysky.org
+This is the code behind my website graysky.org. It uses Jekyll to generate static html.
 
 ## Run Locally
 
@@ -16,11 +16,3 @@ Just push to master!
 
 Domain registered with GoDaddy (*sigh*)
 DNS by DNS Made Easy
-
-## Deploy to s3/cloudfront
-
-Setup following: http://iamnotaprogrammer.com/Jekyll-S3-Cloudfront-Aname-Root.html
-
-http://iamnotaprogrammer.com/jekyll-static-sites-2013.html
-
-s3_website push
