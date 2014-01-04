@@ -1,6 +1,6 @@
 # graysky.org
 
-This is the code behind my website [graysky.org]. It uses Jekyll to generate static html.
+This is the code behind my website [graysky.org](http://graysky.org). It uses Jekyll to generate static html.
 
 ## Run Locally
 
