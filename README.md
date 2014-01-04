@@ -12,6 +12,11 @@ Run like: jekyll serve --watch --limit_posts 30
 
 Just push to master!
 
+## Info
+
+Domain registered with GoDaddy (*sigh*)
+DNS by DNS Made Easy
+
 ## Deploy to s3/cloudfront
 
 Setup following: http://iamnotaprogrammer.com/Jekyll-S3-Cloudfront-Aname-Root.html
