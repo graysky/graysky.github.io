@@ -7,7 +7,7 @@ categories: [tech, personal]
 </div>
 
 I'm excited to share <a href="http://forcerank.it">ForceRank</a>, an app to make
-group decisions simpler. Think of it like "<a href="http://doodle.com/">doodle</a> for priority setting." It aims to avoid the pain of spending too much time in a meeting hashing out what is the next important thing to do. Built by <a href="https://twitter.com/jdwyah">Jeff Dwyer</a> and myself, more details can be found on the <a href="http://blog.forcerank.it/introducing-forcerank">launch post</a>.
+group decisions simpler. Think of it like "<a href="http://doodle.com">doodle</a> for priority setting." It aims to avoid the pain of spending too much time in a meeting hashing out what is the next important thing to do. Built by <a href="https://twitter.com/jdwyah">Jeff Dwyer</a> and myself, more details can be found on the <a href="http://blog.forcerank.it/introducing-forcerank">launch post</a>.
 
 <div class="flickr-frame"><a href="http://forcerank.it/"><img src="/images/ForceRankCompare3.png" class="flickr-photo" /></a>
 </div>
