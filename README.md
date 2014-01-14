@@ -6,7 +6,7 @@ This is the code behind my website [graysky.org](http://graysky.org). It uses Je
 
 ./bin/serve
 
-Or like: bundle exec jekyll serve --watch --limit_posts 30
+Or like: bundle exec jekyll serve --drafts --watch --limit_posts 50
 
 ## Deploy to GitHub Pages
 
