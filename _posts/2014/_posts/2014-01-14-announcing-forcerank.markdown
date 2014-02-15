@@ -1,6 +1,7 @@
 --- 
 title: Announcing ForceRank
 layout: post
+description: Announcing ForceRank, an app to make group decisions simpler. Learn what your team thinks with fewer meetings.
 categories: [tech, personal]
 ---
 <div class="flickr-frame" style="margin-bottom: 40px;"><a href="http://forcerank.it/"><img src="/images/ForceRankLogo.png" class="flickr-photo" /></a>

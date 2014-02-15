@@ -1,6 +1,7 @@
 --- 
 title: Packer's The Unwinding
 layout: post
+description: Review of George Packer's "The Unwinding".
 categories: [culture]
 ---
 

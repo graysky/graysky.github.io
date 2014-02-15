@@ -5,7 +5,7 @@ layout: layout
   <div class="entrytitle"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
 
 	<div class="entrysubtitle clearfix clear">
-		<div class="entrymeta post_date pull-left">
+		<div class="entrymeta post_date xpull-left">
 			{{ page.date | date: "%B %d, %Y" }}
 			
 			{% if page.categories != null %}
@@ -16,7 +16,9 @@ layout: layout
       {% endif %}
 	  </div>
 		
+		{% if false %}
 		<div class="entrysocial pull-right hidden-sm">
+			
 			<!-- Tweet button -->
 			<div class="socialbutton" style="width: 58px;">
 			<a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-count="none" data-via="graysky">Tweet</a>
@@ -31,6 +33,7 @@ layout: layout
 				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="{{site.base_url}}{{page.url}}" layout="button_count" show_faces="false" width="120" font="" action="like"></fb:like>
 			</div>
 		</div>
+		{% endif %}
 	</div>
 
 	<div class="entrybody">

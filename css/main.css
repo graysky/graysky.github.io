@@ -137,6 +137,9 @@ padding: 24px;
   margin-bottom: 8px;
   color: #6F6F6F;
 }
+.entrysubtitle {
+  margin-top: -14px;
+}
 
 .entrysocial {
     margin-top: 0px;

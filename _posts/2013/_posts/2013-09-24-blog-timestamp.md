@@ -1,6 +1,7 @@
 --- 
 title: The Blog Timestamp is Dying
 layout: post
+description: Blogs are changing as more online publishing is increasingly de-emphasizing the timing of the post. Content is being reorganized as the timestamp fades.
 categories: [tech]
 ---
 
