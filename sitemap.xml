@@ -19,15 +19,6 @@ layout: nil
    </url>
   {% endfor %}
 
-	{% for cat in site.categories %}
-	 <url>
-    <loc>{{site.base_url}}/category/{{ cat.first }}/</loc>
-    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-	{% endfor %}
-  
   {% for post in site.posts %}
   <url>
     <loc>{{site.base_url}}{{ post.url }}/</loc>
