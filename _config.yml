@@ -5,11 +5,10 @@ lsi: false
 base_url: http://graysky.org
 my_email: mike@graysky.org
 about_page: "mike-champion"
-static_pages: 
-  - photography
-  - grindstone
+static_pages:
   - mike-champion
   - archives
+  - grindstone
 title: mike champion
 analytics: UA-287373-2
 author :
