@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/graysky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://graysky.org
+  * I am graysky (https://keybase.io/graysky) on keybase.
+  * I have a public key with fingerprint 79CC D292 20EB D561 69BA  98F4 AA26 21B4 180F 32BF
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "79ccd29220ebd56169ba98f4aa2621b4180f32bf",
+            "host": "keybase.io",
+            "key_id": "aa2621b4180f32bf",
+            "uid": "461ebf12a5b6d6c30f82486ca7ecd100",
+            "username": "graysky"
+        },
+        "service": {
+            "hostname": "graysky.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411418846,
+    "expire_in": 157680000,
+    "prev": "5f00ac9869231799c257b74f5cbefaf46eb245735d1fe73f9a644eb9bab40ade",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMHiAnicO8LLzMDFaMw1pfK30+d8xtMH3pcyhCh03atWSspPqVSyqlbKTgVTaZl5
+6alFBUWZeSVKVkrmlsnJKUaWRkYGqUkppmaGZpZJiZYWaSaJiUZmRoZJJoYWBmnG
+RklpSjpKGfnFIB1AY5ISi1P1MvOBYkBOfGYKUBSL+lKwhImZYWpSmqFRommSWYpZ
+srFBmoWRiYVZcqJ5anKKoYEBSGFxalFeYm4qUHV6UWJlcXalUq2OElCwLDM5FeRk
+kM2oCvTyi9KBOguK8kvyk/NzgBIZJSUFViB9JZUFIIXlqUnxUCPikzLzUoC+Bmoo
+Sy0qzszPU7IyBKpMLskEmWloYghEFhYmZjpKqRUFmUWp8ZkgFabmZhYGQACyJrUM
+aKRpmoFBYrKlhZmlkbGhuaVlspGpeZK5SZppclJqWmKaiVlqkpGJqbmxaYphWqq5
+cZplopmJSWoSMESTTAwSU1KVQJ4qzMtXsjIBOjMxHWhkcWZ6XmJJaVGqUu2hAzEs
+DIxcDGysTKB4Y+DiFIDF5vNF7H9ltxnsc83Wf8HlIVu9g3tJtNFiparZr3LvSgj8
+yz9tpLZi5+F1PQ2sxVevlN5Y9dP27F0RAU/nmZ2mi32DBPOytgm5h+0p8b+n79Ge
+OI85QEEgeJ6zUdbVqa/4XNxb5ZRMVnPEPY+6HjGHQ2ft+aSWRraCB0VT4j47+7u0
+6FtqqydtcmUKXFQVsK8o6y2H7PU3kU2z1A5P1wue+YtrrXnr25W/L93T38LX4siT
+1S+z05FPQiHHXkk9QExO9b6R8oKIg1zFYRXVFw9LrFurcEJe25A1U/qT/GGXg7FK
+b1ZfWKZc8fe462qDMPMztmWW86sW53Xfm/jk8Pulqpaxdhd/b7b5FabF8IY3Y+5q
+AMBTCMU=
+=Uaje
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/graysky
+
+==================================================================
