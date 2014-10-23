@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title
-pygments: true
+highlighter: pygments
 lsi: false
 base_url: http://graysky.org
 my_email: mike@graysky.org

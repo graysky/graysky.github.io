@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-`bundle exec jekyll serve --drafts --watch --limit_posts 50`
+`bundle exec jekyll serve --port 3333 --drafts --watch --limit_posts 50`
 
