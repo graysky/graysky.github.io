@@ -36,6 +36,11 @@ a:hover {
   .entrybody {
     font-size: 1.05em;
   }
+
+  .navbar-brand {
+    font-size: 2.8em !important;
+    text-align: center !important;
+  }
 }
 
 #headercontent {
@@ -213,8 +218,8 @@ padding: 24px;
 
 /* Flickr formating */
 .flickr-frame {
-  margin-top: 8px;
-  margin-bottom: 20px;
+  margin-top: 6px;
+  margin-bottom: 6px;
 }
 
 .flickr-frame img {
