@@ -1,31 +1,51 @@
 ---
-layout: layout
+layout: frontpage
 title: Mike Champion
+description: Mike Champion is a software developer in Boston who is a tech lead at HubSpot.
 ---
-{% for post in site.posts %}
-	{% if forloop.index < 6 %}
-    <div class="entry">
-      <div class="entrytitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></div>
-			<div class="entrymeta">
-				{{ post.date | date: "%B %d, %Y" }}
-				{% if post.categories != null %}
-				<span style="font-size: 1.1em; margin: 0px 3px; vertical-align:1px;">&there4;</span>
-				{% for cat in post.categories %}
-					{{ cat }}{% unless forloop.last %}, {% endunless %}
-			  {% endfor %}
-	      {% endif %}
-      </div>
-    	<div class="entrybody">
-    		{{ post.content }}
-    	</div>
-		{% if false %}
-        <div class="entrymeta"><a href="{{ post.url }}#disqus_thread">Comments</a></div>
-        {% endif %}
-    </div>
-		<hr class="divider" />
-  {% endif %}
-{% endfor %}
-	<div class="entrymeta" style="text-align: center; margin-bottom: 20px">
-		<a href="/archives">Read Older Posts &raquo;</a>
-  </div>
 
+<div style="margin-top: 20px;">
+  <div class="flickr-frame pull-left" style="padding-right: 20px; padding-bottom: 20px;"><img src="/images/mike_molly_smaller.jpg" class="flickr-photo" /></div>
+  <div style="margin-top: 10px;">
+  Hi, I'm Mike Champion. I'm a developer passionate about build software that helps people. Currently I work at <a href="http://www.hubspot.com">HubSpot</a> on inbound marketing software. Previously I was at <a href="/2011/08/hubspot-acquires-oneforty/">oneforty</a>, a startup helping get value from social media. Earlier I worked <a href="https://www.crunchbase.com/organization/mobicious">SnapMyLife</a>, a venture-backed startup that created a mobile photo-sharing community and at <a href="http://rational.com">IBM Rational</a> building software development tools. 
+  </p>
+
+  <p style="margin-top: 20px;">
+    On the side I've worked on <a href="http://forcerank.it">ForceRank</a>, a tool for making better group decisions, <a href="http://whoshouldifollow.com/">WhoShouldiFollow</a>, a <a href="/2010/11/flowtown-acquires-who-should-i-follow/">now sold</a> Twitter follower recommendation engine, tourb.us, a <a href="/2008/12/tourbus/">now defunct</a> concert notification service and <a href="http://startuppingpong.com">Startup PingPong</a>, an infrequent gathering of 
+    startup people playing ping pong.
+  </p>
+
+  <p style="margin-top: 20px;">
+  Originally from the Boston area I now live in Newton, MA with my wife, <a href="http://www.samanthamorton.org">Samantha</a>, and our daughter.
+  </p>
+
+  <p style="margin-top: 20px;">
+    I rarely post these days but the <a href="/archives">full archive of this blog</a> is available for your browsing enjoyment.
+  </p>
+
+  <p style="margin-top: 20px;">
+  You can find me on <a href="http://twitter.com/graysky" rel="me">Twitter</a>, <a href="http://github.com/graysky" rel="me">GitHub</a>, <a href="http://www.linkedin.com/in/mikechampion" rel="me">LinkedIn</a> or contact me at <a href="mailto:mike@graysky.org">mike@graysky.org</a>
+  </p>
+  </div>
+  {% if false %}
+  <div class="clearfix" style="width: 100%; margin-left: 0px; margin-top: 24px; margin-bottom: 10px;">
+    <div style="width: 65%; float: left; margin-left: -3px;">
+      <a href="http://github.com/graysky"><strong>Projects</strong></a>
+      <ul style="margin-left: 0px; margin-top: 6px; list-style-type: none;">
+        <li><a href="http://startuppingpong.com/">Startup Ping Pong</a> - Startup folks playing some friendly ping pong.</li>
+        <li><a href="http://github.com/graysky/translator/">translator</a> - Rails plugin to simplify internationalization</li>
+        <li><a href="http://graysky.org/grindstone/">grindstone</a> - Greasemonkey script to stay focused</li>
+        <li>tourb.us - a <a href="/2008/12/tourbus/">now defunct</a> concert notification service
+        <li><a href="http://whoshouldifollow.com/">WhoShouldiFollow</a> - a <a href="/2010/11/flowtown-acquires-who-should-i-follow/">now sold</a> Twitter friend recommendations</li>
+      </ul>
+    </div>
+
+    <div style="width: 34%; float: right; text-align: left;">
+      <a href="http://graysky.500px.com/portfolio"><span style="margin-bottom: 4px; display: block;"><strong>Photography</strong></span></a>
+
+      <!-- charles_t.jpg  | mit_dorm.jpg | macallen_building.jpg -->
+      <a href="http://graysky.500px.com/portfolio"><img src="/images/thumbnails/mit_dorm.jpg" style='border: 1px solid black;'></a>
+    </div>
+  </div>
+  {% endif %}
+</div>

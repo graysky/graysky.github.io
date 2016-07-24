@@ -1,0 +1,31 @@
+---
+layout: layout
+title: Mike Champion
+---
+{% for post in site.posts %}
+	{% if forloop.index < 6 %}
+    <div class="entry">
+      <div class="entrytitle"><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></div>
+			<div class="entrymeta">
+				{{ post.date | date: "%B %d, %Y" }}
+				{% if post.categories != null %}
+				<span style="font-size: 1.1em; margin: 0px 3px; vertical-align:1px;">&there4;</span>
+				{% for cat in post.categories %}
+					{{ cat }}{% unless forloop.last %}, {% endunless %}
+			  {% endfor %}
+	      {% endif %}
+      </div>
+    	<div class="entrybody">
+    		{{ post.content }}
+    	</div>
+		{% if false %}
+        <div class="entrymeta"><a href="{{ post.url }}#disqus_thread">Comments</a></div>
+        {% endif %}
+    </div>
+		<hr class="divider" />
+  {% endif %}
+{% endfor %}
+	<div class="entrymeta" style="text-align: center; margin-bottom: 20px">
+		<a href="/archives">Read Older Posts &raquo;</a>
+  </div>
+

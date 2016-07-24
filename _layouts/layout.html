@@ -1,7 +1,7 @@
 {% include header.html %}
 
 <body>
-  <div class="navbar navbar-static-top xnavbar-fixed-top">
+  <div class="navbar navbar-static-top">
     <div id="headercontent" class="container-fluid">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse" style="margin-left: 20px;">
         <span class="icon-bar"></span>
@@ -11,6 +11,7 @@
       <a class="navbar-brand" href="/">mike <span class="navpunch">champion</span></a>
       <div class="nav-collapse collapse navbar-responsive-collapse">
         <ul class="nav navbar-nav pull-right hidden-print">
+          {% if false %}
           <li>
             <a class="visible-sm" title="About me" href="/mike-champion">
               <i class="icon-user icon-large"></i> 
@@ -22,6 +23,7 @@
               About
             </a>
           </li>
+          
           <li>
             <a class="hidden-sm" href="https://twitter.com/{{ site.author.twitter }}" title="@graysky on Twitter">
               <i class="icon-twitter icon-large"></i>
@@ -30,6 +32,16 @@
           <li>
             <a class="visible-sm" href="https://twitter.com/{{ site.author.twitter }}" title="@graysky on Twitter">
               <i class="icon-twitter icon-large"></i> Follow Me
+            </a>
+          </li>
+          <li>
+            <a class="hidden-sm" href="https://www.linkedin.com/in/mikechampion">
+              <i class="icon-linkedin icon-large"></i>
+            </a>
+          </li>
+          <li>
+            <a class="visible-sm" href="https://www.linkedin.com/in/mikechampion">
+              <i class="icon-linkedin icon-large"></i> Connect
             </a>
           </li>
           <li>
@@ -42,16 +54,18 @@
               <i class="icon-envelope icon-large"></i> Email Me
             </a>
           </li>
+          
           <li>
             <a class="hidden-sm" href="http://feeds.feedburner.com/graysky" title="RSS feed">
               <i class="icon-rss-sign icon-large"></i>
             </a>
-          </li>
+          </li>          
           <li>
             <a class="visible-sm" href="http://feeds.feedburner.com/graysky" title="RSS feed">
               <i class="icon-rss-sign icon-large"></i> Subscribe
             </a>
           </li>
+          {% endif %}
         </ul>
       </div>
     </div>

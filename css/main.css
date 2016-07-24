@@ -47,15 +47,17 @@ a:hover {
 
 .navbar {
   margin-bottom: 30px;
+  height: 80px
 }
 
 .navbar-brand {
   font-family: 'Droid Sans', Arial;
   text-transform: lowercase;
-  font-size: 2.0em;
+  font-size: 3.4em;
   max-width: none;
   text-align: left;
   color: rgb(119, 119, 119);
+  padding-top: 28px;
 }
 
 .navpunch {
