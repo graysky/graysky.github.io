@@ -115,3 +115,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  kramdown
+
+BUNDLED WITH
+   1.12.5
