@@ -1,5 +1,5 @@
 --- 
-title: Hubspot Acquires oneforty
+title: HubSpot Acquires oneforty
 layout: post
 categories: [tech, personal]
 ---
