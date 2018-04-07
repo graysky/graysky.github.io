@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 highlighter: rouge
 lsi: false
 base_url: http://graysky.org
