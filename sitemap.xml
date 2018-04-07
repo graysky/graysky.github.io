@@ -20,7 +20,7 @@
 
   {% for post in site.posts %}
   <url>
-    <loc>{{site.base_url}}{{ post.url }}/</loc>
+    <loc>{{site.base_url}}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
