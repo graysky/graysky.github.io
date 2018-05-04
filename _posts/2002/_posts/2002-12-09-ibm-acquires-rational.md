@@ -9,7 +9,8 @@ categories: [tech, personal]
 
 Wow, didn't see this coming. No kidding. Guess I should learn who <a href="http://www.ibm.com/ibm/sjp/">Sam Palmisano</a> is. And I wanna know if I can get a cheap ThinkPad.
 
-Some coverage from around the horn:<ul>
+Some coverage from around the horn:
+
 <li>The NY Times take on this move as part of the <a href="http://www.nytimes.com/2002/12/09/technology/09BLUE.html">IBM vs. Microsoft battles past/present/future</a>.
 
 <li>The <a href="http://developers.slashdot.org/article.pl?sid=02/12/08/1422230">always-well-informed Slashdot</a> zealots weigh in. They ask the important questions, like "Will Rose become open source this week?"
@@ -19,5 +20,3 @@ Some coverage from around the horn:<ul>
 <li>Even <a href="http://comments.fuckedcompany.com/phpcomments/index.php?newsid=96283&sid=2&page=1&parentid=0&crapfilter=1">f*ckedcompany </a>has an interesting link.
 
 <li>Some <a href="http://biz.yahoo.com/rc/021211/tech_rational_ibm_5.html">speculation about a Microsoft</a> counter-offer. Rumors get started, <a href="http://scriptingnews.userland.com/backissues/2002/12/12#When:7:01:40AM">then all sorts</a> of various <a href="http://slashdot.org/article.pl?sid=02/12/12/073216">people cover it</a>.
-
-</ul>
