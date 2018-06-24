@@ -2,7 +2,7 @@ markdown: kramdown
 permalink: /:year/:month/:title/
 highlighter: rouge
 lsi: false
-base_url: http://graysky.org
+base_url: https://graysky.org
 my_email: mike@graysky.org
 about_page: "mike-champion"
 static_pages:
