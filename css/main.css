@@ -4,7 +4,7 @@ Clean Break
 
 html,body{
   padding-top: 0px;
-  font-family: 'Lato', 'Open Sans', "Helvetica Neue", Helvetica,Arial,sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", 'Lato', 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0.2px;
   color: rgb(51, 51, 50);
 }
@@ -183,7 +183,7 @@ padding: 24px;
 }
 
 .nextnav, .prevnav {
-    font-family: 'Helvetica Neue', Helvetica;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", 'Lato', 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: .9em;
 }
 
@@ -250,7 +250,7 @@ padding: 24px;
   color: #6F6F6F;
   margin-left: 4px;
   font-size: 10.5px;
-  font-family: 'Helvetica Neue', Helvetica, Arial;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", 'Lato', 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .past-posts {
